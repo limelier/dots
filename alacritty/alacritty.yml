@@ -1,0 +1,60 @@
+colors:
+  primary:
+    background: '#1a1a2f'
+    foreground: '#fff2d1'
+
+    dim_foreground: '#ede0be'
+    bright_foreground: '#fff8e1'
+
+    dim_background: '#2a2a3f'
+    bright_background: '#202030'
+
+  cursor:
+    text: '#1a1a2f'
+    cursor: '#fff2d1'
+
+  normal:
+    black: '#202030'
+    red: '#ffd15e'
+    yellow: '#d9d17c'
+    green: '#b4d97c'
+    cyan: '#8cd97c'
+    blue: '#4cad83'
+    magenta: '#1b825f'
+    white: '#fff8e1'
+
+  bright:
+    black: '#121225'
+    red: '#ffe16e'
+    yellow: '#e9e18c'
+    green: '#c4e98c'
+    cyan: '#9ce98c'
+    blue: '#5cbd93'
+    magenta: '#2b926f'
+    white: '#ffffff'
+  
+
+    
+
+env:
+  WINIT_X11_SCALE_FACTOR: "1.0"
+
+font:
+  size: 11
+
+  normal: 
+    family: FiraCode Nerd Font
+    style: Regular
+
+  bold:
+    family: FiraCode Nerd Font
+    style: Bold  
+ 
+window:
+ padding:
+  x: 8
+  y: 8
+  
+  startup_mode: Maximized
+
+background_opacity: 0.9

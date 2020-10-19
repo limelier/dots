@@ -1,0 +1,10 @@
+configuration {
+    width: 15;
+    modi: "drun,run,ssh,combi";
+    font: "inter 10";
+    combi-modi: "drun,ssh,run";
+    color-window: "#222222, #222222, #b1b4b3";
+    color-normal: "#222222, #b1b4b3, #222222, #005577, #b1b4b3";
+    color-active: "#222222, #b1b4b3, #222222, #007763, #b1b4b3";
+    color-urgent: "#222222, #b1b4b3, #222222, #77003d, #b1b4b3";
+}

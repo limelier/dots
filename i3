@@ -1,1 +1,0 @@
-/home/limelier/.config/i3

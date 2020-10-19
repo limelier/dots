@@ -1,0 +1,174 @@
+[colors]
+bg = #1a1a2f
+bg-light = #2a2a3f
+fg = #fff2d1
+fg-dark = #ede0be
+gold = #ffd15e
+yellow = #d9d17c
+lime = #c8d97c
+green = #b4d97c
+emerald = #8cd97c
+teal = #4cad83
+teal-dark = #1b825f
+red = #ff5555
+
+[bar/main]
+font-0 = "FiraCode Nerd Font:pixelsize=12;2"
+font-1 = "Source Sans Variable:pixelsize=11;2"
+font-2 = "Inter:pixelsize=12:style=Bold;2"
+font-3 = "Inter:pixelsize=12;2"
+
+monitor = eDP-1-1
+
+background = ${colors.bg}
+foreground = ${colors.fg}
+
+width = 100%
+height = 20
+
+modules-left = i3
+modules-center = xwindow
+modules-right = xkeyboard filesystem wlan pulseaudio battery date
+
+padding-left = 2
+padding-right = 0
+
+module-margin = 1
+
+border-bottom-size = 2
+border-bottom-color = ${colors.bg-light}
+
+tray-position = right
+tray-background = ${colors.bg-light}
+tray-padding = 5
+
+[module/i3]
+type = internal/i3
+index-sort = true
+
+label-focused = %name%
+label-focused-padding = 1
+label-focused-foreground = ${colors.gold}
+label-focused-background = ${colors.bg-light}
+label-focused-font = 3
+
+label-unfocused = %name%
+label-unfocused-padding = 1
+label-unfocused-font = 2
+
+[module/xwindow]
+type= internal/xwindow
+label = %title:0:100:...%
+label-font = 2
+format-padding = 4
+
+[module/battery]
+type = internal/battery
+battery = BAT1
+adapter = ACAD
+
+format-charging = <animation-charging> <label-charging>
+format-charging-foreground = ${colors.teal}
+label-charging-font = 2
+
+format-discharging = <ramp-capacity> <label-discharging>
+format-discharging-foreground = ${colors.emerald}
+label-discharging-font = 2
+
+format-full =  <label-full>
+format-full-foreground = ${colors.teal}
+label-full = full
+label-full-font = 2
+
+animation-charging-0 = 
+animation-charging-1 = 
+animation-charging-2 = 
+animation-charging-3 = 
+animation-charging-4 = 
+animation-charging-5 = 
+animation-charging-framerate = 250
+
+ramp-capacity-0 = 
+ramp-capacity-0-foreground = ${colors.red} 
+ramp-capacity-1 = 
+ramp-capacity-1-foreground = ${colors.red} 
+ramp-capacity-2 = 
+ramp-capacity-3 = 
+ramp-capacity-4 = 
+ramp-capacity-5 = 
+ramp-capacity-6 = 
+ramp-capacity-7 = 
+ramp-capacity-8 = 
+ramp-capacity-9 = 
+ramp-capacity-10 = 
+
+[module/date]
+type = internal/date
+
+format = "<label>"
+format-padding = 1
+format-background = ${colors.teal}
+format-foreground = ${colors.bg}
+
+date =
+date-alt = %a, %b %d
+time = %H:%M
+time-alt = %H:%M:%S
+
+label = %date% %time%
+label-font = 3
+
+[module/pulseaudio]
+type = internal/pulseaudio
+
+sink = alsa_output.pci-0000_00_1f.3.analog-stereo
+
+format-volume = <ramp-volume> <label-volume>
+format-volume-foreground = ${colors.emerald}
+format-muted = <label-muted>
+format-muted-foreground = ${colors.red}
+
+ramp-volume-0 = 奄
+ramp-volume-1 = 奔
+ramp-volume-2 = 墳
+
+label-volume-font = 2
+
+label-muted = 婢 %{T2}muted%{T-}
+
+[module/wlan]
+type = internal/network
+interface = wlp3s0
+
+format-connected = 直 <label-connected>
+format-connected-foreground = ${colors.green}
+format-disconnected = 睊 <label-disconnected>
+format-disconnected-foreground = ${colors.red}
+
+label-connected = %essid%
+label-connected-font = 2
+
+label-disconnected = no connection
+
+[module/filesystem]
+type = internal/fs
+
+mount-0 = /
+
+format-mounted =  <label-mounted>
+format-mounted-foreground = ${colors.lime}
+
+label-mounted = %free% free
+label-mounted-font = 2
+
+[module/xkeyboard]
+type = internal/xkeyboard
+
+format =  <label-layout><label-indicator>
+format-foreground = ${colors.yellow}
+
+label-layout-font = 2
+
+label-indicator-on-capslock = " but louder"
+label-indicator-on-capslock-font = 2 
+label-indicator-on-capslock-foreground = ${colors.red}
