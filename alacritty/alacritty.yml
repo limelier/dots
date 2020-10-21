@@ -48,7 +48,7 @@ font:
 
   bold:
     family: FiraCode Nerd Font
-    style: Bold  
+    style: Bold
  
 window:
  padding:

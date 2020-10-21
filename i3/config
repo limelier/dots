@@ -183,7 +183,7 @@ exec_always --no-startup-id ~/.fehbg
 bindsym $mod+d exec --no-startup-id rofi -show combi
 
 # Polybar
-exec_always --no-startup-id /home/limelier/.config/polybar/launch_custom.sh
+exec_always --no-startup-id /home/limelier/.config/polybar/launch.sh
 
 # Picom (compositor)
 exec_always --no-startup-id picom &
@@ -201,3 +201,12 @@ gaps inner 6
 gaps outer 0
 
 for_window [class="^.*"] border pixel 1
+
+# class                 border  bground text    indicator child_border
+client.focused          #5c8d63 #81c972 #2A2A3F #5c8d63   #5c8d63
+client.focused_inactive #2A2A3F #1A1A2F #EDE0BE #2A2A3F   #2A2A3F
+client.unfocused        #2A2A3F #2A2A3F #6A6A7F #292D2E   #222222
+client.urgent           #C94343 #FF5555 #FFF8E1 #FF5555   #FF5555
+client.placeholder      #000000 #0C0C0C #FFFFFF #000000   #0C0C0C
+
+hide_edge_borders smart
