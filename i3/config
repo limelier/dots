@@ -219,3 +219,6 @@ hide_edge_borders smart
 bindsym $mod+Shift+z move scratchpad
 # - show/hide scratchpad
 bindsym $mod+z scratchpad show
+
+# Automatic workspace names
+exec_always --no-startup-id exec i3-workspace-names-daemon --uniq --delimiter=" "

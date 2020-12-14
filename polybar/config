@@ -17,6 +17,9 @@ font-0 = "FiraCode Nerd Font:pixelsize=12;2"
 font-1 = "Source Sans Variable:pixelsize=11;2"
 font-2 = "Inter:pixelsize=12:style=Bold;2"
 font-3 = "Inter:pixelsize=12;2"
+font-4 = "Font Awesome 5 Free Regular:size=11;2"
+font-5 = "Font Awesome 5 Brands Regular:size=11;2"
+font-6 = "Font Awesome 5 Free Solid:size=11;2"
 
 monitor = eDP-1
 
@@ -46,15 +49,16 @@ tray-padding = 5
 type = internal/i3
 index-sort = true
 
-label-focused = %name%
-label-focused-padding = 1
+strip-wsnumbers = true
+label-focused = %{T3}%index%%{T-}: %{T7}%name%%{T-}
+label-focused-padding = 2
 label-focused-foreground = ${colors.gold}
 label-focused-background = ${colors.bg-light}
-label-focused-font = 3
+label-focused-font = 7
 
-label-unfocused = %name%
-label-unfocused-padding = 1
-label-unfocused-font = 2
+label-unfocused = %{T4}%index%%{T-}: %{T7}%name%%{T-}	
+label-unfocused-padding = 2
+label-unfocused-font = 7
 
 [module/xwindow]
 type= internal/xwindow
