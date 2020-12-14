@@ -213,3 +213,9 @@ client.urgent           #C94343 #FF5555 #FFF8E1 #FF5555   #FF5555
 client.placeholder      #000000 #0C0C0C #FFFFFF #000000   #0C0C0C
 
 hide_edge_borders smart
+
+# Scratchpad
+# - make currently focused window a scratchpad
+bindsym $mod+Shift+z move scratchpad
+# - show/hide scratchpad
+bindsym $mod+z scratchpad show

@@ -18,7 +18,7 @@ font-1 = "Source Sans Variable:pixelsize=11;2"
 font-2 = "Inter:pixelsize=12:style=Bold;2"
 font-3 = "Inter:pixelsize=12;2"
 
-monitor = eDP-1-1
+monitor = eDP-1
 
 background = ${colors.bg}
 foreground = ${colors.fg}
