@@ -1,12 +1,15 @@
 {
     "firefox": "firefox",
     "alacritty": "terminal",
-    "jetbrains-py": "python",
+    "jetbrains-py": "code",
+    "jetbrains-id": "code",
+	"jetbrains-cl": "code",
     "dolphin": "folder-open",
     "vlc": "play",
     "discord": "discord",
     "zoom": "video",
     "Com.github.xournalpp": "pencil-ruler",
     "Thunderbird": "envelope",
-    "Blender": "cube"
+    "Blender": "cube",
+    "code-oss": "edit"
 }

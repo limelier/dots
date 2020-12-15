@@ -201,7 +201,7 @@ bindsym Control+Print exec flameshot gui
 # Aesthetics
 smart_gaps on
 gaps inner 6
-gaps outer 0
+gaps outer 3
 
 for_window [class="^.*"] border pixel 1
 
@@ -213,6 +213,7 @@ client.urgent           #C94343 #FF5555 #FFF8E1 #FF5555   #FF5555
 client.placeholder      #000000 #0C0C0C #FFFFFF #000000   #0C0C0C
 
 hide_edge_borders smart
+title_align center
 
 # Scratchpad
 # - make currently focused window a scratchpad
