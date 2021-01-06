@@ -12,5 +12,7 @@
     "Thunderbird": "envelope",
     "Blender": "cube",
     "code-oss": "edit",
-    "krita": "palette"
+    "Code": "edit",
+    "krita": "palette",
+    "Chromium": "chrome"
 }

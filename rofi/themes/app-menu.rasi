@@ -1,0 +1,6 @@
+@import "shared/colors.rasi"
+* {
+    background-color: @bg;
+    text-color: @fg;
+    font: "Inter 12";
+}

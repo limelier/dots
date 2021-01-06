@@ -21,7 +21,7 @@ font-4 = "Font Awesome 5 Free Regular:size=11;2"
 font-5 = "Font Awesome 5 Brands Regular:size=11;2"
 font-6 = "Font Awesome 5 Free Solid:size=11;2"
 
-monitor = eDP-1
+monitor = eDP-1-1
 
 background = ${colors.bg}
 foreground = ${colors.fg}
