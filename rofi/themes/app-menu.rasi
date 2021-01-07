@@ -1,6 +1,62 @@
-@import "shared/colors.rasi"
+@import "shared/colors"
+
 * {
-    background-color: @bg;
-    text-color: @fg;
+    background-color: @background;
+    text-color: @foreground;
     font: "Inter 12";
+}
+
+window {
+    width: 20%;
+    children: [mainbox];
+    border: 2px;
+    border-color: @background-light;
+}
+
+mainbox {
+    width: 100%;
+    children: [inputbar, listview];
+}
+
+prompt {
+    background-color: @secondary;
+    text-color: @background;
+    padding: 5px 15px 5px 10px;
+    font: "FiraCode Nerd Font 12";
+}
+
+// entry: actual input
+
+entry {
+    background-color: @background-light;
+    padding: 5px 10px;
+    margin: 0;
+}
+
+inputbar {
+    children: [prompt, entry];
+}
+
+listview {
+    padding: 10px;
+}
+
+separator {
+    color: transparent;
+}
+
+// elements: list entries
+
+element {
+    padding: 2px;
+}
+
+element selected {
+    background-color: @background-light;
+    text-color: @primary;
+}
+
+element active {
+    background-color: @background-light;
+    text-color: @primary;
 }

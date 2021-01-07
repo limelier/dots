@@ -183,7 +183,7 @@ bindsym XF86MonBrightnessDown exec brightnessctl -d intel_backlight s 20%-
 exec_always --no-startup-id ~/.fehbg
 
 # Rofi
-bindsym $mod+d exec --no-startup-id rofi -show combi
+bindsym $mod+d exec sh ~/.config/rofi/scripts/app-menu.sh
 
 # Polybar
 exec_always --no-startup-id /home/limelier/.config/polybar/launch.sh

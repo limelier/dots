@@ -1,8 +1,8 @@
 * {
-    bg: #1a1a2f;
-    bg-light: #2a2a3f;
-    fg: #fff2d1;
-    fg-dark: #ede0be;
+    background: #1a1a2f;
+    background-light: #2a2a3f;
+    foreground: #fff2d1;
+    foreground-dark: #ede0be;
     primary: #c8d97c;
     primary-dark: #b4d97c;
     secondary: #4cad83;
