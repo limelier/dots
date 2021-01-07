@@ -145,8 +145,6 @@ bindsym $mod+Shift+0 move container to workspace number $ws10
 bindsym $mod+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
 bindsym $mod+Shift+r restart
-# exit i3 (logs you out of your X session)
-bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
 
 # resize window (you can also use the mouse for that)
 mode "resize" {
@@ -183,7 +181,10 @@ bindsym XF86MonBrightnessDown exec brightnessctl -d intel_backlight s 20%-
 exec_always --no-startup-id ~/.fehbg
 
 # Rofi
+# app menu
 bindsym $mod+d exec sh ~/.config/rofi/scripts/app-menu.sh
+# power menu
+bindsym $mod+Shift+e exec sh ~/.config/rofi/scripts/power-menu.sh
 
 # Polybar
 exec_always --no-startup-id /home/limelier/.config/polybar/launch.sh

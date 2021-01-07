@@ -1,7 +1,6 @@
 configuration {
-  show-icons: false;
-  icon-theme: "Papirus";
+  case-sensitive: false;
   hide-scrollbar: true;
   modi: [drun];
-  display-drun: ""; // magnifying glass icon
+  display-drun: "";
 }

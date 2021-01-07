@@ -7,4 +7,5 @@
     primary-dark: #b4d97c;
     secondary: #4cad83;
     secondary-dark: #1b825f;
+    danger: #ffd15e;
 }

@@ -1,0 +1,10 @@
+@import "shared/base"
+@import "shared/colors"
+
+* {
+    lines: 4;
+}
+
+prompt {
+    background-color: @danger;
+}
