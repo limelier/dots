@@ -1,0 +1,6 @@
+- fix flameshot fullscreen screenshot
+- add red to theme?
+- vscode theme
+- discord theme
+- firefox theme
+- intellij theme
