@@ -195,6 +195,9 @@ exec_always --no-startup-id picom &
 # Twmn (notifications)
 exec_always --no-startup-id twmnd &
 
+# Birdtray (thunderbird tray applet)
+exec_always --no-startup-id birdtray &
+
 # Flameshot
 bindsym Print exec flameshot screen --clipboard
 bindsym Control+Print exec flameshot gui
