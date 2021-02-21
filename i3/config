@@ -199,7 +199,7 @@ exec_always --no-startup-id twmnd &
 exec_always --no-startup-id birdtray &
 
 # Flameshot
-bindsym Print exec flameshot screen --clipboard
+bindsym Print exec flameshot full --clipboard
 bindsym Control+Print exec flameshot gui
 
 # Aesthetics
