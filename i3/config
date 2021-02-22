@@ -227,3 +227,11 @@ bindsym $mod+z scratchpad show
 
 # Automatic workspace names
 exec_always --no-startup-id exec i3-workspace-names-daemon --uniq --delimiter=" "
+
+# Floating windows
+# Godot DEBUG windows
+for_window [instance="Godot_Engine" class="[^(Godot)]"] floating enable
+# Windows called "debug"
+for_window [title="debug"] floating enable
+# Minecraft
+for_window [title="(FML early loading progress)|(Minecraft.*)"] floating enable
