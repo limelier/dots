@@ -10,7 +10,7 @@ green = #b4d97c
 emerald = #8cd97c
 teal = #4cad83
 teal-dark = #1b825f
-red = #ff5555
+red = #ff773a
 
 [bar/main]
 font-0 = "FiraCode Nerd Font:pixelsize=12;2"
@@ -30,7 +30,7 @@ width = 100%
 height = 25
 
 modules-left = i3
-modules-center = xwindow
+modules-center = mpd
 modules-right = xkeyboard filesystem wlan pulseaudio battery date
 
 padding-left = 2
@@ -52,7 +52,7 @@ index-sort = true
 strip-wsnumbers = true
 label-focused = %{T3}%index%%{T-}: %{T7}%name%%{T-}
 label-focused-padding = 2
-label-focused-foreground = ${colors.gold}
+label-focused-foreground = ${colors.red}
 label-focused-background = ${colors.bg-light}
 label-focused-font = 7
 
@@ -65,6 +65,24 @@ type= internal/xwindow
 label = %title:0:100:...%
 label-font = 2
 format-padding = 4
+
+[module/mpd]
+type = internal/mpd
+host = 127.0.0.1
+port = 6600
+
+format-online = [<icon-prev> <toggle> <icon-next> <icon-random>] <label-song>
+
+label-song = %artist% - %title% (%album%)
+
+toggle-on-foreground = ${colors.gold}
+toggle-off-foreground = ${colors.fg}
+
+icon-play = 契
+icon-pause = 
+icon-prev = 玲
+icon-next = 怜
+icon-random = " "
 
 [module/battery]
 type = internal/battery

@@ -15,8 +15,8 @@ colors:
 
   normal:
     black: '#202030'
-    red: '#ffd15e'
-    yellow: '#d9d17c'
+    red: '#ff773a'
+    yellow: '#ffd15e'
     green: '#b4d97c'
     cyan: '#8cd97c'
     blue: '#4cad83'
@@ -25,8 +25,8 @@ colors:
 
   bright:
     black: '#121225'
-    red: '#ffe16e'
-    yellow: '#e9e18c'
+    red: '#ff662a'
+    yellow: '#ffe16e'
     green: '#c4e98c'
     cyan: '#9ce98c'
     blue: '#5cbd93'
