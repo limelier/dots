@@ -1,0 +1,431 @@
+**** BEGIN LOGGING AT Thu Apr  1 08:10:51 2021
+
+Apr 01 08:10:51 *	*** Looking up your hostname...
+Apr 01 08:10:51 *	*** Checking Ident
+Apr 01 08:10:51 *	*** No Ident response
+Apr 01 08:10:51 *	*** Couldn't look up your hostname
+Apr 01 08:10:51 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Apr 01 08:10:51 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 01 08:10:51 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 01 08:10:51 *	Authenticating via SASL as limelier (PLAIN)
+Apr 01 08:10:51 *	You are now logged in as limelier.
+Apr 01 08:10:51 *	SASL authentication successful
+**** ENDING LOGGING AT Thu Apr  1 08:10:52 2021
+
+**** BEGIN LOGGING AT Thu Apr  1 08:10:52 2021
+
+Apr 01 08:10:52 *	Welcome to the freenode Internet Relay Chat Network limelier
+Apr 01 08:10:52 *	Your host is niven.freenode.net[2a01:7e00::f03c:91ff:fee2:413b/6697], running version ircd-seven-1.1.9
+Apr 01 08:10:52 *	This server was created Sun Jul 12 2020 at 20:42:46 UTC
+Apr 01 08:10:52 *	niven.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Apr 01 08:10:52 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Apr 01 08:10:52 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU CPRIVMSG :are supported by this server
+Apr 01 08:10:52 *	CNOTICE MONITOR=100 WHOX ETRACE KNOCK :are supported by this server
+Apr 01 08:10:52 *	There are 96 users and 77978 invisible on 33 servers
+Apr 01 08:10:52 *	31 :IRC Operators online
+Apr 01 08:10:52 *	2 :unknown connection(s)
+Apr 01 08:10:52 *	46499 :channels formed
+Apr 01 08:10:52 *	I have 3868 clients and 1 servers
+Apr 01 08:10:52 *	3868 4483 :Current local users 3868, max 4483
+Apr 01 08:10:52 *	78074 82850 :Current global users 78074, max 82850
+Apr 01 08:10:52 *	Highest connection count: 4484 (4483 clients) (61366 connections received)
+Apr 01 08:10:52 *	- niven.freenode.net Message of the Day - 
+Apr 01 08:10:52 *	- Welcome to niven.freenode.net in London, United Kingdom, EU.
+Apr 01 08:10:52 *	- thanks to Linode for sponsoring this server!
+Apr 01 08:10:52 *	-  
+Apr 01 08:10:52 *	- NIVEN, LAWRENCE VAN COTT [1938-].  Architect of Known Space,
+Apr 01 08:10:52 *	- the setting of Protector, World of Ptaavs and the
+Apr 01 08:10:52 *	- Ringworld series.  Author of "Flash Crowd", a canonical
+Apr 01 08:10:52 *	- sociological hard science fiction short story dealing with
+Apr 01 08:10:52 *	- effects of near instantaneous transportation on a modern
+Apr 01 08:10:52 *	- technological society.  In addition, he is well known for his
+Apr 01 08:10:52 *	- collaborations with Jerry Pournelle, including The Mote in
+Apr 01 08:10:52 *	- God's Eye and Lucifer's Hammer.
+Apr 01 08:10:52 *	-  
+Apr 01 08:10:52 *	- Welcome to freenode - supporting the free and open source
+Apr 01 08:10:52 *	- software communities since 1998.
+Apr 01 08:10:52 *	-  
+Apr 01 08:10:52 *	- By connecting to freenode you indicate that you have read and
+Apr 01 08:10:52 *	- accept our policies and guidelines as set out on https://freenode.net
+Apr 01 08:10:52 *	-  
+Apr 01 08:10:52 *	- In the event that you observe behaviour that contravenes our policies,
+Apr 01 08:10:52 *	- please notify a volunteer staff member via private message, or send us an
+Apr 01 08:10:52 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Apr 01 08:10:52 *	- situation within a reasonable period of time, and we may request further
+Apr 01 08:10:52 *	- information or, as appropriate, involve other parties such as channel operators 
+Apr 01 08:10:52 *	- Group Contacts representing an on-topic group.
+Apr 01 08:10:52 *	-  
+Apr 01 08:10:52 *	- freenode runs an open proxy scanner.
+Apr 01 08:10:52 *	-  
+Apr 01 08:10:52 *	- If you are looking for assistance, you may be able to find a list of 
+Apr 01 08:10:52 *	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+Apr 01 08:10:52 *	- #freenode and using the '/who freenode/staff/*' command. You may message
+Apr 01 08:10:52 *	- any of us at any time. Please note that freenode predominantly provides 
+Apr 01 08:10:52 *	- assistance via private message, and while we have a network channel the 
+Apr 01 08:10:52 *	- primary venue for support requests is via private message to a member 
+Apr 01 08:10:52 *	- of the volunteer staff team.
+Apr 01 08:10:52 *	-  
+Apr 01 08:10:52 *	- From time to time, volunteer staff may send server-wide notices relating to
+Apr 01 08:10:52 *	- the project, or the communities that we host. The majority of such notices
+Apr 01 08:10:52 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Apr 01 08:10:52 *	- do not miss them. Important messages relating to the freenode project, including
+Apr 01 08:10:52 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Apr 01 08:10:52 *	- global notices.
+Apr 01 08:10:52 *	-  
+Apr 01 08:10:52 *	- Representing an on-topic project? Don't forget to register, more information
+Apr 01 08:10:52 *	- can be found on the https://freenode.net website under "Group Registration".
+Apr 01 08:10:52 *	-  
+Apr 01 08:10:52 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Apr 01 08:10:52 *	- network going for close to two decades.
+Apr 01 08:10:52 *	-  
+Apr 01 08:10:52 *	- Thank you for using freenode!
+Apr 01 08:10:52 *	End of /MOTD command.
+Apr 01 08:10:52 *	limelier sets mode +Z on limelier
+Apr 01 08:10:52 *	limelier sets mode +i on limelier
+Apr 01 08:10:52 -SaslServ-	1 failed login since last login.
+Apr 01 08:10:52 -SaslServ-	Last failed attempt from: tudor!~tudor@91-83-38-15.pool.digikabel.hu on Mar 31 17:01:25 2021.
+Apr 01 08:10:53 -freenode-connect-	Welcome to freenode. To protect the network all new connections will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Apr 01 08:10:53 *	Received a CTCP VERSION from freenode-connect
+**** ENDING LOGGING AT Thu Apr  1 08:11:49 2021
+
+**** BEGIN LOGGING AT Thu Apr  1 08:11:49 2021
+
+Apr 01 11:12:51 Perl interface unloaded
+Apr 01 11:12:51 Checksum plugin unloaded
+Apr 01 11:12:51 Sysinfo plugin unloaded
+**** ENDING LOGGING AT Thu Apr  1 11:12:51 2021
+
+**** BEGIN LOGGING AT Thu Apr  1 11:13:21 2021
+
+Apr 01 11:13:21 *	Welcome to the freenode Internet Relay Chat Network limelier
+Apr 01 11:13:21 *	Your host is niven.freenode.net[2a01:7e00::f03c:91ff:fee2:413b/6697], running version ircd-seven-1.1.9
+Apr 01 11:13:21 *	This server was created Sun Jul 12 2020 at 20:42:46 UTC
+Apr 01 11:13:21 *	niven.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Apr 01 11:13:21 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Apr 01 11:13:21 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU CPRIVMSG :are supported by this server
+Apr 01 11:13:21 *	CNOTICE MONITOR=100 WHOX ETRACE KNOCK :are supported by this server
+Apr 01 11:13:21 *	There are 96 users and 78018 invisible on 33 servers
+Apr 01 11:13:21 *	31 :IRC Operators online
+Apr 01 11:13:21 *	4 :unknown connection(s)
+Apr 01 11:13:21 *	46499 :channels formed
+Apr 01 11:13:21 *	I have 3868 clients and 1 servers
+Apr 01 11:13:21 *	3868 4483 :Current local users 3868, max 4483
+Apr 01 11:13:21 *	78114 82850 :Current global users 78114, max 82850
+Apr 01 11:13:21 *	Highest connection count: 4484 (4483 clients) (61375 connections received)
+Apr 01 11:13:21 *	- niven.freenode.net Message of the Day - 
+Apr 01 11:13:21 *	- Welcome to niven.freenode.net in London, United Kingdom, EU.
+Apr 01 11:13:21 *	- thanks to Linode for sponsoring this server!
+Apr 01 11:13:21 *	-  
+Apr 01 11:13:21 *	- NIVEN, LAWRENCE VAN COTT [1938-].  Architect of Known Space,
+Apr 01 11:13:21 *	- the setting of Protector, World of Ptaavs and the
+Apr 01 11:13:21 *	- Ringworld series.  Author of "Flash Crowd", a canonical
+Apr 01 11:13:21 *	- sociological hard science fiction short story dealing with
+Apr 01 11:13:21 *	- effects of near instantaneous transportation on a modern
+Apr 01 11:13:21 *	- technological society.  In addition, he is well known for his
+Apr 01 11:13:21 *	- collaborations with Jerry Pournelle, including The Mote in
+Apr 01 11:13:21 *	- God's Eye and Lucifer's Hammer.
+Apr 01 11:13:21 *	-  
+Apr 01 11:13:21 *	- Welcome to freenode - supporting the free and open source
+Apr 01 11:13:21 *	- software communities since 1998.
+Apr 01 11:13:21 *	-  
+Apr 01 11:13:21 *	- By connecting to freenode you indicate that you have read and
+Apr 01 11:13:21 *	- accept our policies and guidelines as set out on https://freenode.net
+Apr 01 11:13:21 *	-  
+Apr 01 11:13:21 *	- In the event that you observe behaviour that contravenes our policies,
+Apr 01 11:13:21 *	- please notify a volunteer staff member via private message, or send us an
+Apr 01 11:13:21 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Apr 01 11:13:21 *	- situation within a reasonable period of time, and we may request further
+Apr 01 11:13:21 *	- information or, as appropriate, involve other parties such as channel operators 
+Apr 01 11:13:21 *	- Group Contacts representing an on-topic group.
+Apr 01 11:13:21 *	-  
+Apr 01 11:13:21 *	- freenode runs an open proxy scanner.
+Apr 01 11:13:21 *	-  
+Apr 01 11:13:21 *	- If you are looking for assistance, you may be able to find a list of 
+Apr 01 11:13:21 *	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+Apr 01 11:13:21 *	- #freenode and using the '/who freenode/staff/*' command. You may message
+Apr 01 11:13:21 *	- any of us at any time. Please note that freenode predominantly provides 
+Apr 01 11:13:21 *	- assistance via private message, and while we have a network channel the 
+Apr 01 11:13:21 *	- primary venue for support requests is via private message to a member 
+Apr 01 11:13:21 *	- of the volunteer staff team.
+Apr 01 11:13:21 *	-  
+Apr 01 11:13:21 *	- From time to time, volunteer staff may send server-wide notices relating to
+Apr 01 11:13:21 *	- the project, or the communities that we host. The majority of such notices
+Apr 01 11:13:21 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Apr 01 11:13:21 *	- do not miss them. Important messages relating to the freenode project, including
+Apr 01 11:13:21 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Apr 01 11:13:21 *	- global notices.
+Apr 01 11:13:21 *	-  
+Apr 01 11:13:21 *	- Representing an on-topic project? Don't forget to register, more information
+Apr 01 11:13:21 *	- can be found on the https://freenode.net website under "Group Registration".
+Apr 01 11:13:21 *	-  
+Apr 01 11:13:21 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Apr 01 11:13:21 *	- network going for close to two decades.
+Apr 01 11:13:21 *	-  
+Apr 01 11:13:21 *	- Thank you for using freenode!
+Apr 01 11:13:21 *	End of /MOTD command.
+Apr 01 11:13:21 *	limelier sets mode +Z on limelier
+Apr 01 11:13:21 *	limelier sets mode +i on limelier
+Apr 01 11:13:22 -freenode-connect-	Welcome to freenode. To protect the network all new connections will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Apr 01 11:13:22 *	Received a CTCP VERSION from freenode-connect
+**** ENDING LOGGING AT Thu Apr  1 11:14:18 2021
+
+**** BEGIN LOGGING AT Thu Apr  1 11:14:18 2021
+
+**** ENDING LOGGING AT Thu Apr  1 11:15:28 2021
+
+**** BEGIN LOGGING AT Thu Apr  1 11:15:28 2021
+
+**** ENDING LOGGING AT Thu Apr  1 11:15:54 2021
+
+**** BEGIN LOGGING AT Thu Apr  1 11:15:54 2021
+
+**** ENDING LOGGING AT Thu Apr  1 11:16:05 2021
+
+**** BEGIN LOGGING AT Thu Apr  1 11:16:05 2021
+
+**** ENDING LOGGING AT Thu Apr  1 11:16:38 2021
+
+**** BEGIN LOGGING AT Thu Apr  1 11:16:38 2021
+
+**** ENDING LOGGING AT Thu Apr  1 12:42:47 2021
+
+**** BEGIN LOGGING AT Thu Apr  1 12:42:47 2021
+
+**** ENDING LOGGING AT Thu Apr  1 12:42:59 2021
+
+**** BEGIN LOGGING AT Thu Apr  1 12:42:59 2021
+
+**** ENDING LOGGING AT Thu Apr  1 12:43:13 2021
+
+**** BEGIN LOGGING AT Thu Apr  1 12:43:13 2021
+
+**** ENDING LOGGING AT Thu Apr  1 12:43:21 2021
+
+**** BEGIN LOGGING AT Thu Apr  1 12:43:21 2021
+
+Apr 01 12:43:47 Perl interface unloaded
+Apr 01 12:43:47 Checksum plugin unloaded
+Apr 01 12:43:47 Sysinfo plugin unloaded
+**** ENDING LOGGING AT Thu Apr  1 12:43:47 2021
+
+**** BEGIN LOGGING AT Thu Apr  1 12:43:52 2021
+
+Apr 01 12:43:52 *	Welcome to the freenode Internet Relay Chat Network limelier
+Apr 01 12:43:52 *	Your host is niven.freenode.net[2a01:7e00::f03c:91ff:fee2:413b/6697], running version ircd-seven-1.1.9
+Apr 01 12:43:52 *	This server was created Sun Jul 12 2020 at 20:42:46 UTC
+Apr 01 12:43:52 *	niven.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Apr 01 12:43:52 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Apr 01 12:43:52 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU CPRIVMSG :are supported by this server
+Apr 01 12:43:52 *	CNOTICE MONITOR=100 WHOX ETRACE KNOCK :are supported by this server
+Apr 01 12:43:52 *	There are 97 users and 78280 invisible on 33 servers
+Apr 01 12:43:52 *	31 :IRC Operators online
+Apr 01 12:43:52 *	6 :unknown connection(s)
+Apr 01 12:43:52 *	46563 :channels formed
+Apr 01 12:43:52 *	I have 3918 clients and 1 servers
+Apr 01 12:43:52 *	3918 4483 :Current local users 3918, max 4483
+Apr 01 12:43:52 *	78377 82850 :Current global users 78377, max 82850
+Apr 01 12:43:52 *	Highest connection count: 4484 (4483 clients) (61678 connections received)
+Apr 01 12:43:52 *	- niven.freenode.net Message of the Day - 
+Apr 01 12:43:52 *	- Welcome to niven.freenode.net in London, United Kingdom, EU.
+Apr 01 12:43:52 *	- thanks to Linode for sponsoring this server!
+Apr 01 12:43:52 *	-  
+Apr 01 12:43:52 *	- NIVEN, LAWRENCE VAN COTT [1938-].  Architect of Known Space,
+Apr 01 12:43:52 *	- the setting of Protector, World of Ptaavs and the
+Apr 01 12:43:52 *	- Ringworld series.  Author of "Flash Crowd", a canonical
+Apr 01 12:43:52 *	- sociological hard science fiction short story dealing with
+Apr 01 12:43:52 *	- effects of near instantaneous transportation on a modern
+Apr 01 12:43:52 *	- technological society.  In addition, he is well known for his
+Apr 01 12:43:52 *	- collaborations with Jerry Pournelle, including The Mote in
+Apr 01 12:43:52 *	- God's Eye and Lucifer's Hammer.
+Apr 01 12:43:52 *	-  
+Apr 01 12:43:52 *	- Welcome to freenode - supporting the free and open source
+Apr 01 12:43:52 *	- software communities since 1998.
+Apr 01 12:43:52 *	-  
+Apr 01 12:43:52 *	- By connecting to freenode you indicate that you have read and
+Apr 01 12:43:52 *	- accept our policies and guidelines as set out on https://freenode.net
+Apr 01 12:43:52 *	-  
+Apr 01 12:43:52 *	- In the event that you observe behaviour that contravenes our policies,
+Apr 01 12:43:52 *	- please notify a volunteer staff member via private message, or send us an
+Apr 01 12:43:52 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Apr 01 12:43:52 *	- situation within a reasonable period of time, and we may request further
+Apr 01 12:43:52 *	- information or, as appropriate, involve other parties such as channel operators 
+Apr 01 12:43:52 *	- Group Contacts representing an on-topic group.
+Apr 01 12:43:52 *	-  
+Apr 01 12:43:52 *	- freenode runs an open proxy scanner.
+Apr 01 12:43:52 *	-  
+Apr 01 12:43:52 *	- If you are looking for assistance, you may be able to find a list of 
+Apr 01 12:43:52 *	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+Apr 01 12:43:52 *	- #freenode and using the '/who freenode/staff/*' command. You may message
+Apr 01 12:43:52 *	- any of us at any time. Please note that freenode predominantly provides 
+Apr 01 12:43:52 *	- assistance via private message, and while we have a network channel the 
+Apr 01 12:43:52 *	- primary venue for support requests is via private message to a member 
+Apr 01 12:43:52 *	- of the volunteer staff team.
+Apr 01 12:43:52 *	-  
+Apr 01 12:43:52 *	- From time to time, volunteer staff may send server-wide notices relating to
+Apr 01 12:43:52 *	- the project, or the communities that we host. The majority of such notices
+Apr 01 12:43:52 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Apr 01 12:43:52 *	- do not miss them. Important messages relating to the freenode project, including
+Apr 01 12:43:52 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Apr 01 12:43:52 *	- global notices.
+Apr 01 12:43:52 *	-  
+Apr 01 12:43:52 *	- Representing an on-topic project? Don't forget to register, more information
+Apr 01 12:43:52 *	- can be found on the https://freenode.net website under "Group Registration".
+Apr 01 12:43:52 *	-  
+Apr 01 12:43:52 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Apr 01 12:43:52 *	- network going for close to two decades.
+Apr 01 12:43:52 *	-  
+Apr 01 12:43:52 *	- Thank you for using freenode!
+Apr 01 12:43:52 *	End of /MOTD command.
+Apr 01 12:43:52 *	limelier sets mode +Z on limelier
+Apr 01 12:43:52 *	limelier sets mode +i on limelier
+Apr 01 12:43:53 -freenode-connect-	Welcome to freenode. To protect the network all new connections will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Apr 01 12:43:53 *	Received a CTCP VERSION from freenode-connect
+Apr 01 16:36:20 Perl interface unloaded
+Apr 01 16:36:20 Checksum plugin unloaded
+Apr 01 16:36:20 Sysinfo plugin unloaded
+**** ENDING LOGGING AT Thu Apr  1 16:36:20 2021
+
+**** BEGIN LOGGING AT Thu Apr  1 16:51:13 2021
+
+Apr 01 16:51:13 *	Welcome to the freenode Internet Relay Chat Network limelier
+Apr 01 16:51:13 *	Your host is niven.freenode.net[2a01:7e00::f03c:91ff:fee2:413b/6697], running version ircd-seven-1.1.9
+Apr 01 16:51:13 *	This server was created Sun Jul 12 2020 at 20:42:46 UTC
+Apr 01 16:51:13 *	niven.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Apr 01 16:51:13 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Apr 01 16:51:13 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU CPRIVMSG :are supported by this server
+Apr 01 16:51:13 *	CNOTICE MONITOR=100 WHOX ETRACE KNOCK :are supported by this server
+Apr 01 16:51:13 *	There are 96 users and 79005 invisible on 34 servers
+Apr 01 16:51:13 *	31 :IRC Operators online
+Apr 01 16:51:13 *	5 :unknown connection(s)
+Apr 01 16:51:13 *	46631 :channels formed
+Apr 01 16:51:13 *	I have 3976 clients and 1 servers
+Apr 01 16:51:13 *	3976 4483 :Current local users 3976, max 4483
+Apr 01 16:51:13 *	79101 82850 :Current global users 79101, max 82850
+Apr 01 16:51:13 *	Highest connection count: 4484 (4483 clients) (62429 connections received)
+Apr 01 16:51:13 *	- niven.freenode.net Message of the Day - 
+Apr 01 16:51:13 *	- Welcome to niven.freenode.net in London, United Kingdom, EU.
+Apr 01 16:51:13 *	- thanks to Linode for sponsoring this server!
+Apr 01 16:51:13 *	-  
+Apr 01 16:51:13 *	- NIVEN, LAWRENCE VAN COTT [1938-].  Architect of Known Space,
+Apr 01 16:51:13 *	- the setting of Protector, World of Ptaavs and the
+Apr 01 16:51:13 *	- Ringworld series.  Author of "Flash Crowd", a canonical
+Apr 01 16:51:13 *	- sociological hard science fiction short story dealing with
+Apr 01 16:51:13 *	- effects of near instantaneous transportation on a modern
+Apr 01 16:51:13 *	- technological society.  In addition, he is well known for his
+Apr 01 16:51:13 *	- collaborations with Jerry Pournelle, including The Mote in
+Apr 01 16:51:13 *	- God's Eye and Lucifer's Hammer.
+Apr 01 16:51:13 *	-  
+Apr 01 16:51:13 *	- Welcome to freenode - supporting the free and open source
+Apr 01 16:51:13 *	- software communities since 1998.
+Apr 01 16:51:13 *	-  
+Apr 01 16:51:13 *	- By connecting to freenode you indicate that you have read and
+Apr 01 16:51:13 *	- accept our policies and guidelines as set out on https://freenode.net
+Apr 01 16:51:13 *	-  
+Apr 01 16:51:13 *	- In the event that you observe behaviour that contravenes our policies,
+Apr 01 16:51:13 *	- please notify a volunteer staff member via private message, or send us an
+Apr 01 16:51:13 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Apr 01 16:51:13 *	- situation within a reasonable period of time, and we may request further
+Apr 01 16:51:13 *	- information or, as appropriate, involve other parties such as channel operators 
+Apr 01 16:51:13 *	- Group Contacts representing an on-topic group.
+Apr 01 16:51:13 *	-  
+Apr 01 16:51:13 *	- freenode runs an open proxy scanner.
+Apr 01 16:51:13 *	-  
+Apr 01 16:51:13 *	- If you are looking for assistance, you may be able to find a list of 
+Apr 01 16:51:13 *	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+Apr 01 16:51:13 *	- #freenode and using the '/who freenode/staff/*' command. You may message
+Apr 01 16:51:13 *	- any of us at any time. Please note that freenode predominantly provides 
+Apr 01 16:51:13 *	- assistance via private message, and while we have a network channel the 
+Apr 01 16:51:13 *	- primary venue for support requests is via private message to a member 
+Apr 01 16:51:13 *	- of the volunteer staff team.
+Apr 01 16:51:13 *	-  
+Apr 01 16:51:13 *	- From time to time, volunteer staff may send server-wide notices relating to
+Apr 01 16:51:13 *	- the project, or the communities that we host. The majority of such notices
+Apr 01 16:51:13 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Apr 01 16:51:13 *	- do not miss them. Important messages relating to the freenode project, including
+Apr 01 16:51:13 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Apr 01 16:51:13 *	- global notices.
+Apr 01 16:51:13 *	-  
+Apr 01 16:51:13 *	- Representing an on-topic project? Don't forget to register, more information
+Apr 01 16:51:13 *	- can be found on the https://freenode.net website under "Group Registration".
+Apr 01 16:51:13 *	-  
+Apr 01 16:51:13 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Apr 01 16:51:13 *	- network going for close to two decades.
+Apr 01 16:51:13 *	-  
+Apr 01 16:51:13 *	- Thank you for using freenode!
+Apr 01 16:51:13 *	End of /MOTD command.
+Apr 01 16:51:13 *	limelier sets mode +Z on limelier
+Apr 01 16:51:13 *	limelier sets mode +i on limelier
+Apr 01 16:51:14 -freenode-connect-	Welcome to freenode. To protect the network all new connections will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Apr 01 16:51:14 *	Received a CTCP VERSION from freenode-connect
+**** BEGIN LOGGING AT Fri Apr  2 12:18:12 2021
+
+Apr 02 12:18:12 *	Welcome to the freenode Internet Relay Chat Network limelier
+Apr 02 12:18:12 *	Your host is niven.freenode.net[2a01:7e00::f03c:91ff:fee2:413b/6697], running version ircd-seven-1.1.9
+Apr 02 12:18:12 *	This server was created Sun Jul 12 2020 at 20:42:46 UTC
+Apr 02 12:18:12 *	niven.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Apr 02 12:18:12 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Apr 02 12:18:12 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU CPRIVMSG :are supported by this server
+Apr 02 12:18:12 *	CNOTICE MONITOR=100 WHOX ETRACE KNOCK :are supported by this server
+Apr 02 12:18:12 *	There are 94 users and 77011 invisible on 34 servers
+Apr 02 12:18:12 *	31 :IRC Operators online
+Apr 02 12:18:12 *	2 :unknown connection(s)
+Apr 02 12:18:12 *	46416 :channels formed
+Apr 02 12:18:12 *	I have 3709 clients and 1 servers
+Apr 02 12:18:12 *	3709 4483 :Current local users 3709, max 4483
+Apr 02 12:18:12 *	77105 82850 :Current global users 77105, max 82850
+Apr 02 12:18:12 *	Highest connection count: 4484 (4483 clients) (64973 connections received)
+Apr 02 12:18:12 *	- niven.freenode.net Message of the Day - 
+Apr 02 12:18:12 *	- Welcome to niven.freenode.net in London, United Kingdom, EU.
+Apr 02 12:18:12 *	- thanks to Linode for sponsoring this server!
+Apr 02 12:18:12 *	-  
+Apr 02 12:18:12 *	- NIVEN, LAWRENCE VAN COTT [1938-].  Architect of Known Space,
+Apr 02 12:18:12 *	- the setting of Protector, World of Ptaavs and the
+Apr 02 12:18:12 *	- Ringworld series.  Author of "Flash Crowd", a canonical
+Apr 02 12:18:12 *	- sociological hard science fiction short story dealing with
+Apr 02 12:18:12 *	- effects of near instantaneous transportation on a modern
+Apr 02 12:18:12 *	- technological society.  In addition, he is well known for his
+Apr 02 12:18:12 *	- collaborations with Jerry Pournelle, including The Mote in
+Apr 02 12:18:12 *	- God's Eye and Lucifer's Hammer.
+Apr 02 12:18:12 *	-  
+Apr 02 12:18:12 *	- Welcome to freenode - supporting the free and open source
+Apr 02 12:18:12 *	- software communities since 1998.
+Apr 02 12:18:12 *	-  
+Apr 02 12:18:12 *	- By connecting to freenode you indicate that you have read and
+Apr 02 12:18:12 *	- accept our policies and guidelines as set out on https://freenode.net
+Apr 02 12:18:12 *	-  
+Apr 02 12:18:12 *	- In the event that you observe behaviour that contravenes our policies,
+Apr 02 12:18:12 *	- please notify a volunteer staff member via private message, or send us an
+Apr 02 12:18:12 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Apr 02 12:18:12 *	- situation within a reasonable period of time, and we may request further
+Apr 02 12:18:12 *	- information or, as appropriate, involve other parties such as channel operators 
+Apr 02 12:18:12 *	- Group Contacts representing an on-topic group.
+Apr 02 12:18:12 *	-  
+Apr 02 12:18:12 *	- freenode runs an open proxy scanner.
+Apr 02 12:18:12 *	-  
+Apr 02 12:18:12 *	- If you are looking for assistance, you may be able to find a list of 
+Apr 02 12:18:12 *	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+Apr 02 12:18:12 *	- #freenode and using the '/who freenode/staff/*' command. You may message
+Apr 02 12:18:12 *	- any of us at any time. Please note that freenode predominantly provides 
+Apr 02 12:18:12 *	- assistance via private message, and while we have a network channel the 
+Apr 02 12:18:12 *	- primary venue for support requests is via private message to a member 
+Apr 02 12:18:12 *	- of the volunteer staff team.
+Apr 02 12:18:12 *	-  
+Apr 02 12:18:12 *	- From time to time, volunteer staff may send server-wide notices relating to
+Apr 02 12:18:12 *	- the project, or the communities that we host. The majority of such notices
+Apr 02 12:18:12 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Apr 02 12:18:12 *	- do not miss them. Important messages relating to the freenode project, including
+Apr 02 12:18:12 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Apr 02 12:18:12 *	- global notices.
+Apr 02 12:18:12 *	-  
+Apr 02 12:18:12 *	- Representing an on-topic project? Don't forget to register, more information
+Apr 02 12:18:12 *	- can be found on the https://freenode.net website under "Group Registration".
+Apr 02 12:18:12 *	-  
+Apr 02 12:18:12 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Apr 02 12:18:12 *	- network going for close to two decades.
+Apr 02 12:18:12 *	-  
+Apr 02 12:18:12 *	- Thank you for using freenode!
+Apr 02 12:18:12 *	End of /MOTD command.
+Apr 02 12:18:12 *	limelier sets mode +Z on limelier
+Apr 02 12:18:12 *	limelier sets mode +i on limelier
+Apr 02 12:18:13 -freenode-connect-	Welcome to freenode. To protect the network all new connections will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Apr 02 12:18:13 *	Received a CTCP VERSION from freenode-connect

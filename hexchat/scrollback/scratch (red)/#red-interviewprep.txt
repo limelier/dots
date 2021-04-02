@@ -1,0 +1,4 @@
+T 1617297934 19*	Now talking on 22#red-interviewprep
+T 1617297934 22*	Topic for 22#red-interviewprep is: Have you read https://interviewfor.red/ ? :: For questions about the interview process or follow-up :: 04Do NOT PM anyone w/o permission :: Don't ask to ask, just ask your question. :: You should /part when your question has been answered.
+T 1617297934 22*	Topic for 22#red-interviewprep set by 26nodisco!99@nodisco.alphateam.redacted.ch (24Wed Feb  3 01:27:39 2021)
+T 1617297994 20<limelier>30	hey, i heard #red-invites was having technical difficulties earlier today. since there's nothing in the channel topic, were they fixed? i'm curious if waiting in the queue is gonna be... productive

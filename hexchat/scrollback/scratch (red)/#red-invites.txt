@@ -1,0 +1,21 @@
+T 1617265187 19*	Now talking on 22#red-invites
+T 1617265187 22*	Topic for 22#red-invites is: :: #red-invites :: Read this https://interviewfor.red | Don't discuss the interview or its topics. Don’t PM anyone. Don’t chat DURING your interview. Don't highlight OPs, unless prompted. | HOME CONNECTION ONLY | No E.T.A’s | Questions? -> #red-interviewprep | Position? PM Gatekeeper with !position
+T 1617265187 22*	Topic for 22#red-invites set by 26Gord!18308@Gord.interviewer.redacted.ch (24Wed Feb  3 01:27:39 2021)
+T 1617265187 -18ChanServ-	[#red-invites] Welcome to #red-invites :: Please make sure you have read http://interviewfor.red and the topic in this room :: You must queue up in here. No idling. :: If you have any questions join #red-interviewprep.
+T 1617265298 20<limelier>30	!queue https://www.speedtest.net/result/11192137735.png
+T 1617265299 24*	Received a CTCP 24VERSION from 18Gatekeeper
+T 1617265691 23*	OwlCub (textual@red-ghv.qlp.qqkt4a.IP23) has joined
+T 1617265771 18<24OwlCub18>	!queue https://www.speedtest.net/result/11192162277.png
+T 1617266922 18<22OldMarsh18>	Hey everyone, they're having system issues and have paused interviews...no eta, could be as soon as 24-48 hours or longer.
+T 1617266929 18<22OldMarsh18>	no penalty for leaving queue
+T 1617297810 19*	Now talking on 22#red-invites
+T 1617297810 22*	Topic for 22#red-invites is: :: #red-invites :: Read this https://interviewfor.red | Don't discuss the interview or its topics. Don’t PM anyone. Don’t chat DURING your interview. Don't highlight OPs, unless prompted. | HOME CONNECTION ONLY | No E.T.A’s | Questions? -> #red-interviewprep | Position? PM Gatekeeper with !position
+T 1617297810 22*	Topic for 22#red-invites set by 26Gord!18308@Gord.interviewer.redacted.ch (24Wed Feb  3 01:27:39 2021)
+T 1617297810 -18ChanServ-	[#red-invites] Welcome to #red-invites :: Please make sure you have read http://interviewfor.red and the topic in this room :: You must queue up in here. No idling. :: If you have any questions join #red-interviewprep.
+T 1617297894 20<limelier>30	!queue https://www.speedtest.net/result/11194799154.png
+T 1617297895 24*	Received a CTCP 24VERSION from 18Gatekeeper
+T 1617298142 18<19IDDE196918>	Not sure if i'm doing this right. Been stuck at place 9 for 3 hours now.
+T 1617298204 18<29Poll1t018>	IDDE1969 the queue is currently paused so the admins can solve a systems issue
+T 1617298220 20<limelier>30	oh, okay, so i didn't get april foolsed when someone told me that a few hours ago
+T 1617298225 20<limelier>30	i was worried about that :p
+T 1617298308 23*	sprfj57 (textual@red-q2d.vfo.r5f2t7.IP23) has joined

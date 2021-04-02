@@ -1,0 +1,17 @@
+T 1617265299 18<Gatekeeper>	Thank you limelier. You are queued for interview. You are currently #9 in the queue. You can PM !position to learn your position in the queue.
+T 1617265332 20<limelier>30	!position
+T 1617265332 18<Gatekeeper>	You are in position 9 of 9.
+T 1617265428 20<limelier>30	!position
+T 1617265428 18<Gatekeeper>	You are in position 9 of 9.
+T 1617265615 20<limelier>30	!position
+T 1617265615 18<Gatekeeper>	You are in position 9 of 9.
+T 1617265823 20<limelier>30	!position
+T 1617265823 18<Gatekeeper>	You are in position 9 of 10.
+T 1617266331 20<limelier>30	!position
+T 1617266331 18<Gatekeeper>	You are in position 9 of 10.
+T 1617266511 20<limelier>30	!position
+T 1617266511 18<Gatekeeper>	You are in position 9 of 10.
+T 1617297896 18<Gatekeeper>	Thank you limelier. You are queued for interview. You are currently #10 in the queue. You can PM !position to learn your position in the queue.
+T 1617297901 20<limelier>30	!position
+T 1617297902 18<Gatekeeper>	You are in position 10 of 10.
+T 1617297935 18<Gatekeeper>	Hello, limelier and welcome to #red-interviewprep. If you have a question about the interview process or followup, please ask your question and wait for a response. If you do not have a question, please /part. Idling in this channel is not allowed.

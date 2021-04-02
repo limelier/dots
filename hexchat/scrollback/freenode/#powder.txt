@@ -1,0 +1,89 @@
+T 1617253858 19*	Now talking on 22#powder
+T 1617253858 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1617253858 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1617264771 FiSHLiM plugin unloaded
+T 1617264807 19*	Now talking on 22#powder
+T 1617264807 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1617264807 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1617264821 20<limelier>30	ok, yeah, fuck weechat
+T 1617264826 20<limelier>30	hexchat is way comfier
+T 1617264976 20<limelier>30 easier on the eyes, mostly
+T 1617266205 23*	Me4502 (~quassel@unaffiliated/me450223) has joined
+T 1617270227 FiSHLiM	hexchat_print called without a valid context.
+T 1617270238 19*	Now talking on 22#powder
+T 1617270238 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1617270238 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1617273935 20<limelier>30	Ristovski: i'm curious, you and savask seem to be playing Factorio every day. what's your save look like?
+T 1617273959 18<22Ristovski18>	we've been made! self-destruct
+T 1617273969 19<Ristovski>	limelier: spaghetti, but this time more organized
+T 1617273976 20<limelier>30	that's what they all say
+T 1617273990 18<22Ristovski18>	not that big yet, we don't play /that/ much
+T 1617273993 20<limelier>30	how far along are you?
+T 1617273995 20<limelier>30	also, mods?
+T 1617275060 19<Ristovski>	limelier: no mods, and we basically reached kovarex, so early mid-game
+T 1617275162 20<limelier>30	i see, neat
+T 1617275197 20<limelier>30	maybe you should give me the server info so i can drop in and turn all of your stone reserves into landfill and paths
+T 1617279779 24*	Me4502 has quit (Quit: http://quassel-irc.org - Chat comfortably. Anywhere.)
+T 1617280037 23*	savask (~savask@Powder/Developer/savask23) has joined
+T 1617284162 18<22Ristovski18>	savask: privet
+T 1617284180 FiSHLiM plugin unloaded
+T 1617285079 19*	Now talking on 22#powder
+T 1617285079 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1617285079 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1617286682 18<22Ristovski18>	savask: https://www.youtube.com/watch?v=_tU93mWvR6I
+T 1617286683 18<19PowderBot18>	Youtube video is "Tips and Tricks for Real Life - Travel Vlog"
+T 1617286790 23*	Gustavo6046 (~Gustavo60@unaffiliated/gustavo604623) has joined
+T 1617286887 18<20savask18>	Ristovski: Lol
+T 1617286902 18<20savask18>	Ristovski: Especially at that "air woosh" sound when he's flying
+T 1617286905 18<22Ristovski18>	savask: also LTTs latest video is.. interesting
+T 1617286916 18<20savask18>	LTT?
+T 1617287048 18<20savask18>	Ristovski: Okay, if you meant Linus Tech Tips then ...
+T 1617287302 24*	emu_spy has quit (Ping timeout: 268 seconds)
+T 1617287311 23*	emu_spy (~wren@75.76.39.17523) has joined
+T 1617287519 18<22Ristovski18>	savask: I did
+T 1617287909 24*	mniip has quit (Ping timeout: 608 seconds)
+T 1617289784 18<20savask18>	Ristovski: https://www.youtube.com/watch?v=mD4J5VUwiAs
+T 1617290412 18<22Ristovski18>	savask: oh yeah I have read about this on wikipedia
+T 1617290433 18<20savask18>	Yeah, also read about it before
+T 1617290780 18<22Ristovski18>	savask: also he video has unbalanced audio :(
+T 1617291394 18<22Ristovski18>	savask: still very interesting
+T 1617291482 18<20savask18>	Ristovski: I linked it before I finished watching, and to be honest, it turned out to be less interesting than I thought
+T 1617291511 18<22Ristovski18>	savask: lol
+T 1617291544 18<20savask18>	Ristovski: It all can be summarized by "a scientist got shot with a beam in the brain. He survived but couldn't get medical help/pension afterwards because of bureaucracy. He returned to his work"
+T 1617291555 18<22Ristovski18>	savask: yeah, lol
+T 1617294029 18<20savask18>	Ristovski: Seth Everman posted, lol
+T 1617294176 23*	Doxin (~Doxin@unaffiliated/doxin23) has joined
+T 1617294197 24*	Doxin has quit (Remote host closed the connection)
+T 1617294215 23*	Doxin (~Doxin@unaffiliated/doxin23) has joined
+T 1617294951 18<22Ristovski18>	savask: and ofc its a shitpost, lmfao
+T 1617295202 18<20Doxin18>	*ahem*
+T 1617295207 18<20Doxin18>	FUCK valheim
+T 1617295354 18<22Ristovski18>	Doxin: how come
+T 1617295371 18<20Doxin18>	everything in that game is obnoxiously slow on purpose
+T 1617295374 18<20Doxin18>	it's infuriating
+T 1617295602 24*	28c[_] is now known as 18doge
+T 1617295652 18<20savask18>	Ristovski: As expected
+T 1617296351 18<20savask18>	Ristovski: I wish you could click on a map and let your factorio character go there automatically
+T 1617296375 18<22Ristovski18>	savask: spidertron be like
+T 1617296386 18<20savask18>	Hmm, indeed
+T 1617296389 18<22Ristovski18>	savask: wait can you command a spidertron if you get in it?
+T 1617296394 18<20savask18>	Hmm
+T 1617296407 18<20savask18>	I don't know, lol
+T 1617296434 18<20savask18>	Ristovski: As far as I remember, you can build stuff out of remote-controlled spidertron, so there's little reason to sit in it
+T 1617296441 18<20savask18>	>Avatar
+T 1617296569 18<20savask18>	Ristovski: Is it intended that the blueprint can't be moved tile by tile?
+T 1617296585 18<22Ristovski18>	savask: theres a setting to "lock it in a grid"
+T 1617296591 18<22Ristovski18>	for easy tiling
+T 1617296609 18<20savask18>	Right
+T 1617296613 18<22Ristovski18>	savask: i guess you can turn it off by opening the blueprint
+T 1617296643 18<20savask18>	Yeah, did that, thanks
+T 1617296653 18<20savask18>	Aand it can't be flipped
+T 1617296700 18<22Ristovski18>	savask: yeah, limited by the refineries having specific inputs, I think
+T 1617296715 18<20savask18>	Ah, right
+T 1617296727 18<20savask18>	That's unfortunate, really
+T 1617297436 18<22kou18>	someone keeps dumping 60s hifi stuff at the local appliance container
+T 1617297489 18<22kou18>	copped two philips 4 tracks, one in pretty good condition and one with a cut power cord and screws and pieces missing
+T 1617297506 18<22kou18>	*70s of course
+T 1617355098 19*	Now talking on 22#powder
+T 1617355098 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1617355098 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)

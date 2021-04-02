@@ -1,0 +1,16 @@
+**** BEGIN LOGGING AT Thu Apr  1 11:19:27 2021
+
+Apr 01 11:19:27 *	Looking up irc.scratch-network.net
+**** BEGIN LOGGING AT Thu Apr  1 20:23:03 2021
+
+Apr 01 20:23:03 *	Looking up irc.scratch-network.net
+Apr 01 20:23:03 *	Connecting to irc.scratch-network.net (192.81.221.18:6667)
+Apr 01 20:23:03 *	Connected. Now logging in.
+Apr 01 20:23:03 *	*** Looking up your hostname...
+Apr 01 20:23:03 *	Capabilities supported: away-notify extended-join account-notify multi-prefix userhost-in-names
+Apr 01 20:23:03 *	Capabilities requested: away-notify extended-join account-notify multi-prefix userhost-in-names 
+Apr 01 20:23:03 *	Capabilities acknowledged: away-notify extended-join account-notify multi-prefix userhost-in-names
+Apr 01 20:23:09 *	*** Could not resolve your hostname: Request timed out; using your IP address (79.112.117.210) instead.
+Apr 01 20:23:09 *	Welcome to Scratch-Network!
+**** ENDING LOGGING AT Thu Apr  1 20:23:09 2021
+

@@ -1,0 +1,40 @@
+**** BEGIN LOGGING AT Thu Apr  1 11:19:27 2021
+
+Apr 01 11:19:27 *	*** Looking up your hostname...
+Apr 01 11:19:27 *	Capabilities supported: away-notify extended-join account-notify multi-prefix userhost-in-names
+Apr 01 11:19:27 *	Capabilities requested: away-notify extended-join account-notify multi-prefix userhost-in-names 
+Apr 01 11:19:28 *	Capabilities acknowledged: away-notify extended-join account-notify multi-prefix userhost-in-names
+Apr 01 11:19:28 *	*** Could not resolve your hostname: Domain name not found; using your IP address (79.112.117.210) instead.
+Apr 01 11:19:33 *	Welcome to Scratch-Network!
+**** ENDING LOGGING AT Thu Apr  1 11:19:33 2021
+
+**** BEGIN LOGGING AT Thu Apr  1 11:19:33 2021
+
+Apr 01 11:19:33 *	Welcome to the Scratch-Network IRC Network limelier!limelier@79.112.117.210
+Apr 01 11:19:33 *	Your host is tokyo.scratch-network.net, running version InspIRCd-2.0
+Apr 01 11:19:33 *	This server was created 14:32:01 Feb  2 2019
+Apr 01 11:19:33 *	tokyo.scratch-network.net InspIRCd-2.0 BHILRSWcdgikorswx CDFIJLMNOPQRSTXYabcdefhijklmnopqrstuvwz FIJLXYabdefhjkloqvw
+Apr 01 11:19:33 *	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbew,k,FJLdfjl,CDMNOPQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,CNOQRSTUcjmprsz FNC INVEX=I :are supported by this server
+**** BEGIN LOGGING AT Thu Apr  1 20:23:09 2021
+
+Apr 01 20:23:09 *	Welcome to the Scratch-Network IRC Network limelier!limelier@79.112.117.210
+Apr 01 20:23:09 *	Your host is tokyo.scratch-network.net, running version InspIRCd-2.0
+Apr 01 20:23:09 *	This server was created 14:32:01 Feb  2 2019
+Apr 01 20:23:09 *	tokyo.scratch-network.net InspIRCd-2.0 BHILRSWcdgikorswx CDFIJLMNOPQRSTXYabcdefhijklmnopqrstuvwz FIJLXYabdefhjkloqvw
+Apr 01 20:23:09 *	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbew,k,FJLdfjl,CDMNOPQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,CNOQRSTUcjmprsz FNC INVEX=I :are supported by this server
+Apr 01 20:23:09 *	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=120 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Scratch-Network NICKLEN=31 OPERLOG PREFIX=(Yqaohv)!~&@%+ REMOVE :are supported by this server
+Apr 01 20:23:09 *	SECURELIST SILENCE=32 SSL=192.81.221.18:6697 STATUSMSG=!~&@%+ TOPICLEN=307 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+Apr 01 20:23:09 *	867BMOYD0 :your unique ID
+Apr 01 20:23:09 *	tokyo.scratch-network.net message of the day
+Apr 01 20:23:09 *	End of message of the day.
+Apr 01 20:23:09 *	There are 1014 users and 623 invisible on 5 servers
+Apr 01 20:23:09 *	7 :operator(s) online
+Apr 01 20:23:09 *	1 :unknown connections
+Apr 01 20:23:09 *	529 :channels formed
+Apr 01 20:23:09 *	I have 1611 clients and 1 servers
+Apr 01 20:23:09 *	Current Local Users: 1611  Max: 1767
+Apr 01 20:23:09 *	Current Global Users: 1637  Max: 1784
+Apr 01 20:23:09 *	red-i6q.5qf.te90h7.IP :is now your displayed host
+Apr 01 20:23:09 *	limelier sets mode +x on limelier
+**** ENDING LOGGING AT Thu Apr  1 20:36:22 2021
+

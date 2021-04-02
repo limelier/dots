@@ -1,0 +1,11 @@
+writeCommonTags: couldn't write 'year' tag to 'nothing_but_thieves/Amsterdam.m4a' as it's not a positive integer
+writeCommonTags: couldn't write 'year' tag to 'nothing_but_thieves/Broken Machine.m4a' as it's not a positive integer
+writeCommonTags: couldn't write 'year' tag to 'nothing_but_thieves/Drawing Pins.m4a' as it's not a positive integer
+writeCommonTags: couldn't write 'year' tag to 'nothing_but_thieves/Forever & Ever More.m4a' as it's not a positive integer
+writeCommonTags: couldn't write 'year' tag to 'nothing_but_thieves/Is Everybody Going Crazy.m4a' as it's not a positive integer
+writeCommonTags: couldn't write 'year' tag to 'nothing_but_thieves/Neon Brother.m4a' as it's not a positive integer
+writeCommonTags: couldn't write 'year' tag to 'nothing_but_thieves/Particles.m4a' as it's not a positive integer
+writeCommonTags: couldn't write 'year' tag to 'nothing_but_thieves/Real Love Song.m4a' as it's not a positive integer
+writeCommonTags: couldn't write 'year' tag to 'nothing_but_thieves/Sorry ft. Fans.m4a' as it's not a positive integer
+writeCommonTags: couldn't write 'year' tag to 'nothing_but_thieves/You Know Me Too Well.m4a' as it's not a positive integer
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.

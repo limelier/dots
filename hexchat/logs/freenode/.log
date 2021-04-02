@@ -1,0 +1,22 @@
+**** BEGIN LOGGING AT Thu Apr  1 08:10:50 2021
+
+Apr 01 08:10:50 *	Connecting to chat.freenode.net (2a01:7e00::f03c:91ff:fee2:413b:6697)
+Apr 01 08:10:51 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 01 08:10:51 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 01 08:10:51 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 01 08:10:51 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 01 08:10:51 *	* Subject: /CN=niven.freenode.net
+Apr 01 08:10:51 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 01 08:10:51 *	* Certification info:
+Apr 01 08:10:51 *	  Subject:
+Apr 01 08:10:51 *	    CN=niven.freenode.net
+Apr 01 08:10:51 *	  Issuer:
+Apr 01 08:10:51 *	    C=US
+Apr 01 08:10:51 *	    O=Let's Encrypt
+Apr 01 08:10:51 *	    CN=R3
+Apr 01 08:10:51 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 01 08:10:51 *	  Sign algorithm sha256WithRSAEncryption
+Apr 01 08:10:51 *	  Valid since Jan 30 18:30:38 2021 GM to Apr 30 18:30:38 2021 GM
+Apr 01 08:10:51 *	* Cipher info:
+Apr 01 08:10:51 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 01 08:10:51 *	Connected. Now logging in.
