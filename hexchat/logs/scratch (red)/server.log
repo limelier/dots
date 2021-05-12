@@ -14,3 +14,81 @@ Apr 01 20:23:09 *	*** Could not resolve your hostname: Request timed out; using 
 Apr 01 20:23:09 *	Welcome to Scratch-Network!
 **** ENDING LOGGING AT Thu Apr  1 20:23:09 2021
 
+**** BEGIN LOGGING AT Tue Apr  6 12:39:47 2021
+
+Apr 06 12:39:47 *	Looking up irc.scratch-network.net
+Apr 06 12:39:47 *	Connecting to irc.scratch-network.net (192.81.221.18:6667)
+Apr 06 12:39:47 *	Connected. Now logging in.
+Apr 06 12:39:47 *	*** Looking up your hostname...
+Apr 06 12:39:47 *	Capabilities supported: away-notify extended-join account-notify multi-prefix userhost-in-names
+Apr 06 12:39:47 *	Capabilities requested: away-notify extended-join account-notify multi-prefix userhost-in-names 
+Apr 06 12:39:47 *	Capabilities acknowledged: away-notify extended-join account-notify multi-prefix userhost-in-names
+Apr 06 12:39:53 *	*** Could not resolve your hostname: Request timed out; using your IP address (79.112.117.210) instead.
+Apr 06 12:39:53 *	Welcome to Scratch-Network!
+**** ENDING LOGGING AT Tue Apr  6 12:39:53 2021
+
+**** BEGIN LOGGING AT Tue Apr  6 18:15:08 2021
+
+Apr 06 18:15:08 *	Looking up irc.scratch-network.net
+Apr 06 18:15:09 *	Connecting to irc.scratch-network.net (192.81.221.18:6667)
+Apr 06 18:15:09 *	Connected. Now logging in.
+Apr 06 18:15:09 *	*** Looking up your hostname...
+Apr 06 18:15:09 *	Capabilities supported: away-notify extended-join account-notify multi-prefix userhost-in-names
+Apr 06 18:15:09 *	Capabilities requested: away-notify extended-join account-notify multi-prefix userhost-in-names 
+Apr 06 18:15:09 *	Capabilities acknowledged: away-notify extended-join account-notify multi-prefix userhost-in-names
+Apr 06 18:15:09 *	*** Could not resolve your hostname: Domain name not found; using your IP address (79.112.117.210) instead.
+Apr 06 18:15:11 *	Welcome to Scratch-Network!
+**** ENDING LOGGING AT Tue Apr  6 18:15:11 2021
+
+**** BEGIN LOGGING AT Wed Apr  7 19:02:52 2021
+
+Apr 07 19:02:52 *	Looking up irc.scratch-network.net
+Apr 07 19:02:52 *	Connecting to irc.scratch-network.net (192.81.221.18:6667)
+Apr 07 19:02:52 *	Connected. Now logging in.
+Apr 07 19:02:52 *	*** Looking up your hostname...
+Apr 07 19:02:52 *	Capabilities supported: away-notify extended-join account-notify multi-prefix userhost-in-names
+Apr 07 19:02:52 *	Capabilities requested: away-notify extended-join account-notify multi-prefix userhost-in-names 
+Apr 07 19:02:53 *	Capabilities acknowledged: away-notify extended-join account-notify multi-prefix userhost-in-names
+Apr 07 19:02:53 *	*** Could not resolve your hostname: Domain name not found; using your IP address (79.112.117.210) instead.
+Apr 07 19:02:58 *	Welcome to Scratch-Network!
+**** ENDING LOGGING AT Wed Apr  7 19:02:58 2021
+
+**** BEGIN LOGGING AT Thu Apr  8 14:53:10 2021
+
+Apr 08 14:53:10 *	Looking up irc.scratch-network.net
+Apr 08 14:53:10 *	Connecting to irc.scratch-network.net (192.81.221.18:6667)
+Apr 08 14:53:10 *	Connected. Now logging in.
+Apr 08 14:53:10 *	*** Looking up your hostname...
+Apr 08 14:53:10 *	Capabilities supported: away-notify extended-join account-notify multi-prefix userhost-in-names
+Apr 08 14:53:10 *	Capabilities requested: away-notify extended-join account-notify multi-prefix userhost-in-names 
+Apr 08 14:53:10 *	Capabilities acknowledged: away-notify extended-join account-notify multi-prefix userhost-in-names
+Apr 08 14:53:10 *	*** Could not resolve your hostname: Domain name not found; using your IP address (79.112.30.246) instead.
+Apr 08 14:53:16 *	Welcome to Scratch-Network!
+**** ENDING LOGGING AT Thu Apr  8 14:53:16 2021
+
+**** BEGIN LOGGING AT Fri Apr  9 11:42:51 2021
+
+Apr 09 11:42:51 *	Looking up irc.scratch-network.net
+Apr 09 11:42:51 *	Connecting to irc.scratch-network.net (192.81.221.18:6667)
+Apr 09 11:42:51 *	Connected. Now logging in.
+Apr 09 11:42:51 *	*** Looking up your hostname...
+Apr 09 11:42:51 *	Capabilities supported: away-notify extended-join account-notify multi-prefix userhost-in-names
+Apr 09 11:42:51 *	Capabilities requested: away-notify extended-join account-notify multi-prefix userhost-in-names 
+Apr 09 11:42:51 *	*** Could not resolve your hostname: Domain name not found; using your IP address (79.112.30.246) instead.
+Apr 09 11:42:51 *	Capabilities acknowledged: away-notify extended-join account-notify multi-prefix userhost-in-names
+Apr 09 11:42:55 *	Welcome to Scratch-Network!
+**** ENDING LOGGING AT Fri Apr  9 11:42:55 2021
+
+**** BEGIN LOGGING AT Sat Apr 10 17:06:16 2021
+
+Apr 10 17:06:16 *	Looking up irc.scratch-network.net
+Apr 10 17:06:16 *	Connecting to irc.scratch-network.net (192.81.221.18:6667)
+Apr 10 17:06:16 *	Connected. Now logging in.
+Apr 10 17:06:16 *	*** Looking up your hostname...
+Apr 10 17:06:16 *	Capabilities supported: away-notify extended-join account-notify multi-prefix userhost-in-names
+Apr 10 17:06:16 *	Capabilities requested: away-notify extended-join account-notify multi-prefix userhost-in-names 
+Apr 10 17:06:16 *	Capabilities acknowledged: away-notify extended-join account-notify multi-prefix userhost-in-names
+Apr 10 17:06:22 *	*** Could not resolve your hostname: Request timed out; using your IP address (79.112.30.246) instead.
+Apr 10 17:06:22 *	Welcome to Scratch-Network!
+**** ENDING LOGGING AT Sat Apr 10 17:06:22 2021
+

@@ -170,3 +170,538 @@ Apr 02 12:18:11 *	You are now logged in as limelier.
 Apr 02 12:18:11 *	SASL authentication successful
 **** ENDING LOGGING AT Fri Apr  2 12:18:12 2021
 
+**** BEGIN LOGGING AT Fri Apr  2 17:08:21 2021
+
+Apr 02 17:08:21 Lua version 1.3/5.4 loaded.
+Apr 02 17:08:21 Sysinfo plugin loaded
+Apr 02 17:08:21 Python interface loaded
+Apr 02 17:08:21 Checksum plugin loaded
+Apr 02 17:08:21 FiSHLiM plugin loaded
+Apr 02 17:08:21 Perl interface loaded
+Apr 02 17:08:21 *	Looking up irc.freenode.net
+Apr 02 17:08:21 *	Connecting to chat.freenode.net (2a01:7e00::f03c:91ff:fee2:413b:6697)
+Apr 02 17:08:22 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 02 17:08:22 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 02 17:08:22 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 02 17:08:22 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 02 17:08:22 *	* Subject: /CN=niven.freenode.net
+Apr 02 17:08:22 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 02 17:08:22 *	* Certification info:
+Apr 02 17:08:22 *	  Subject:
+Apr 02 17:08:22 *	    CN=niven.freenode.net
+Apr 02 17:08:22 *	  Issuer:
+Apr 02 17:08:22 *	    C=US
+Apr 02 17:08:22 *	    O=Let's Encrypt
+Apr 02 17:08:22 *	    CN=R3
+Apr 02 17:08:22 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 02 17:08:22 *	  Sign algorithm sha256WithRSAEncryption
+Apr 02 17:08:22 *	  Valid since Jan 30 18:30:38 2021 GM to Apr 30 18:30:38 2021 GM
+Apr 02 17:08:22 *	* Cipher info:
+Apr 02 17:08:22 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 02 17:08:22 *	Connected. Now logging in.
+Apr 02 17:08:22 *	*** Looking up your hostname...
+Apr 02 17:08:22 *	*** Checking Ident
+Apr 02 17:08:22 *	*** No Ident response
+Apr 02 17:08:22 *	*** Couldn't look up your hostname
+Apr 02 17:08:22 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Apr 02 17:08:22 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 02 17:08:22 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 02 17:08:22 *	Authenticating via SASL as limelier (PLAIN)
+Apr 02 17:08:23 *	You are now logged in as limelier.
+Apr 02 17:08:23 *	SASL authentication successful
+**** ENDING LOGGING AT Fri Apr  2 17:08:23 2021
+
+**** BEGIN LOGGING AT Fri Apr  2 17:10:51 2021
+
+Apr 02 17:10:51 Lua version 1.3/5.4 loaded.
+Apr 02 17:10:51 Sysinfo plugin loaded
+Apr 02 17:10:51 Python interface loaded
+Apr 02 17:10:51 Checksum plugin loaded
+Apr 02 17:10:51 FiSHLiM plugin loaded
+Apr 02 17:10:51 Perl interface loaded
+Apr 02 17:10:51 *	Looking up irc.freenode.net
+Apr 02 17:10:51 *	Connecting to chat.freenode.net (2a01:7e00::f03c:91ff:fee2:413b:6697)
+Apr 02 17:10:52 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 02 17:10:52 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 02 17:10:52 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 02 17:10:52 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 02 17:10:52 *	* Subject: /CN=niven.freenode.net
+Apr 02 17:10:52 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 02 17:10:52 *	* Certification info:
+Apr 02 17:10:52 *	  Subject:
+Apr 02 17:10:52 *	    CN=niven.freenode.net
+Apr 02 17:10:52 *	  Issuer:
+Apr 02 17:10:52 *	    C=US
+Apr 02 17:10:52 *	    O=Let's Encrypt
+Apr 02 17:10:52 *	    CN=R3
+Apr 02 17:10:52 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 02 17:10:52 *	  Sign algorithm sha256WithRSAEncryption
+Apr 02 17:10:52 *	  Valid since Jan 30 18:30:38 2021 GM to Apr 30 18:30:38 2021 GM
+Apr 02 17:10:52 *	* Cipher info:
+Apr 02 17:10:52 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 02 17:10:52 *	Connected. Now logging in.
+Apr 02 17:10:52 *	*** Looking up your hostname...
+Apr 02 17:10:52 *	*** Checking Ident
+Apr 02 17:10:52 *	*** No Ident response
+Apr 02 17:10:52 *	*** Couldn't look up your hostname
+Apr 02 17:10:52 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Apr 02 17:10:52 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 02 17:10:52 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 02 17:10:52 *	Authenticating via SASL as limelier (PLAIN)
+Apr 02 17:10:53 *	You are now logged in as limelier.
+Apr 02 17:10:53 *	SASL authentication successful
+**** ENDING LOGGING AT Fri Apr  2 17:10:53 2021
+
+**** BEGIN LOGGING AT Fri Apr  2 17:15:39 2021
+
+Apr 02 17:15:39 Lua version 1.3/5.4 loaded.
+Apr 02 17:15:39 Sysinfo plugin loaded
+Apr 02 17:15:39 Python interface loaded
+Apr 02 17:15:39 Checksum plugin loaded
+Apr 02 17:15:39 FiSHLiM plugin loaded
+Apr 02 17:15:39 Perl interface loaded
+Apr 02 17:15:39 *	Looking up irc.freenode.net
+Apr 02 17:15:39 *	Connecting to chat.freenode.net (2a01:7e00::f03c:91ff:fee2:413b:6697)
+Apr 02 17:15:40 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 02 17:15:40 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 02 17:15:40 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 02 17:15:40 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 02 17:15:40 *	* Subject: /CN=niven.freenode.net
+Apr 02 17:15:40 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 02 17:15:40 *	* Certification info:
+Apr 02 17:15:40 *	  Subject:
+Apr 02 17:15:40 *	    CN=niven.freenode.net
+Apr 02 17:15:40 *	  Issuer:
+Apr 02 17:15:40 *	    C=US
+Apr 02 17:15:40 *	    O=Let's Encrypt
+Apr 02 17:15:40 *	    CN=R3
+Apr 02 17:15:40 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 02 17:15:40 *	  Sign algorithm sha256WithRSAEncryption
+Apr 02 17:15:40 *	  Valid since Jan 30 18:30:38 2021 GM to Apr 30 18:30:38 2021 GM
+Apr 02 17:15:40 *	* Cipher info:
+Apr 02 17:15:40 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 02 17:15:40 *	Connected. Now logging in.
+Apr 02 17:15:40 *	*** Looking up your hostname...
+Apr 02 17:15:40 *	*** Checking Ident
+Apr 02 17:15:40 *	*** No Ident response
+Apr 02 17:15:40 *	*** Couldn't look up your hostname
+Apr 02 17:15:40 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Apr 02 17:15:40 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 02 17:15:40 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 02 17:15:40 *	Authenticating via SASL as limelier (PLAIN)
+Apr 02 17:15:40 *	You are now logged in as limelier.
+Apr 02 17:15:41 *	SASL authentication successful
+**** ENDING LOGGING AT Fri Apr  2 17:15:41 2021
+
+**** BEGIN LOGGING AT Fri Apr  2 20:48:11 2021
+
+Apr 02 20:48:11 Lua version 1.3/5.4 loaded.
+Apr 02 20:48:11 Sysinfo plugin loaded
+Apr 02 20:48:11 Python interface loaded
+Apr 02 20:48:11 Checksum plugin loaded
+Apr 02 20:48:11 FiSHLiM plugin loaded
+Apr 02 20:48:11 Perl interface loaded
+Apr 02 20:48:11 *	Looking up chat.freenode.net
+Apr 02 20:48:11 *	Connecting to chat.freenode.net (2a01:7e00::f03c:91ff:fee2:413b:6697)
+Apr 02 20:48:12 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 02 20:48:12 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 02 20:48:12 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 02 20:48:12 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 02 20:48:12 *	* Subject: /CN=niven.freenode.net
+Apr 02 20:48:12 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 02 20:48:12 *	* Certification info:
+Apr 02 20:48:12 *	  Subject:
+Apr 02 20:48:12 *	    CN=niven.freenode.net
+Apr 02 20:48:12 *	  Issuer:
+Apr 02 20:48:12 *	    C=US
+Apr 02 20:48:12 *	    O=Let's Encrypt
+Apr 02 20:48:12 *	    CN=R3
+Apr 02 20:48:12 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 02 20:48:12 *	  Sign algorithm sha256WithRSAEncryption
+Apr 02 20:48:12 *	  Valid since Jan 30 18:30:38 2021 GM to Apr 30 18:30:38 2021 GM
+Apr 02 20:48:12 *	* Cipher info:
+Apr 02 20:48:12 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 02 20:48:12 *	Connected. Now logging in.
+Apr 02 20:48:12 *	*** Looking up your hostname...
+Apr 02 20:48:12 *	*** Checking Ident
+Apr 02 20:48:12 *	*** No Ident response
+Apr 02 20:48:12 *	*** Couldn't look up your hostname
+Apr 02 20:48:12 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Apr 02 20:48:12 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 02 20:48:12 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 02 20:48:12 *	Authenticating via SASL as limelier (PLAIN)
+Apr 02 20:48:12 *	You are now logged in as limelier.
+Apr 02 20:48:12 *	SASL authentication successful
+**** ENDING LOGGING AT Fri Apr  2 20:48:13 2021
+
+**** BEGIN LOGGING AT Sat Apr  3 11:52:17 2021
+
+Apr 03 11:52:17 Lua version 1.3/5.4 loaded.
+Apr 03 11:52:17 Sysinfo plugin loaded
+Apr 03 11:52:17 Python interface loaded
+Apr 03 11:52:17 Checksum plugin loaded
+Apr 03 11:52:17 FiSHLiM plugin loaded
+Apr 03 11:52:17 Perl interface loaded
+Apr 03 11:52:17 *	Looking up irc.freenode.net
+Apr 03 11:52:17 *	Connecting to chat.freenode.net (2a01:7e00::f03c:91ff:fee2:413b:6697)
+Apr 03 11:52:18 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 03 11:52:18 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 03 11:52:18 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 03 11:52:18 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 03 11:52:18 *	* Subject: /CN=niven.freenode.net
+Apr 03 11:52:18 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 03 11:52:18 *	* Certification info:
+Apr 03 11:52:18 *	  Subject:
+Apr 03 11:52:18 *	    CN=niven.freenode.net
+Apr 03 11:52:18 *	  Issuer:
+Apr 03 11:52:18 *	    C=US
+Apr 03 11:52:18 *	    O=Let's Encrypt
+Apr 03 11:52:18 *	    CN=R3
+Apr 03 11:52:18 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 03 11:52:18 *	  Sign algorithm sha256WithRSAEncryption
+Apr 03 11:52:18 *	  Valid since Jan 30 18:30:38 2021 GM to Apr 30 18:30:38 2021 GM
+Apr 03 11:52:18 *	* Cipher info:
+Apr 03 11:52:18 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 03 11:52:18 *	Connected. Now logging in.
+Apr 03 11:52:18 *	*** Looking up your hostname...
+Apr 03 11:52:18 *	*** Checking Ident
+Apr 03 11:52:18 *	*** No Ident response
+Apr 03 11:52:18 *	*** Couldn't look up your hostname
+Apr 03 11:52:18 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Apr 03 11:52:18 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 03 11:52:18 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 03 11:52:18 *	Authenticating via SASL as limelier (PLAIN)
+Apr 03 11:52:19 *	You are now logged in as limelier.
+Apr 03 11:52:19 *	SASL authentication successful
+**** ENDING LOGGING AT Sat Apr  3 11:52:20 2021
+
+**** BEGIN LOGGING AT Sun Apr  4 11:31:36 2021
+
+Apr 04 11:31:36 Lua version 1.3/5.4 loaded.
+Apr 04 11:31:36 Sysinfo plugin loaded
+Apr 04 11:31:36 Python interface loaded
+Apr 04 11:31:36 Checksum plugin loaded
+Apr 04 11:31:36 FiSHLiM plugin loaded
+Apr 04 11:31:36 Perl interface loaded
+Apr 04 11:31:36 *	Looking up irc.freenode.net
+Apr 04 11:31:36 *	Connecting to chat.freenode.net (2a01:7e00::f03c:91ff:fee2:413b:6697)
+Apr 04 11:31:37 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 04 11:31:37 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 04 11:31:37 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 04 11:31:37 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 04 11:31:37 *	* Subject: /CN=niven.freenode.net
+Apr 04 11:31:37 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 04 11:31:37 *	* Certification info:
+Apr 04 11:31:37 *	  Subject:
+Apr 04 11:31:37 *	    CN=niven.freenode.net
+Apr 04 11:31:37 *	  Issuer:
+Apr 04 11:31:37 *	    C=US
+Apr 04 11:31:37 *	    O=Let's Encrypt
+Apr 04 11:31:37 *	    CN=R3
+Apr 04 11:31:37 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 04 11:31:37 *	  Sign algorithm sha256WithRSAEncryption
+Apr 04 11:31:37 *	  Valid since Jan 30 18:30:38 2021 GM to Apr 30 18:30:38 2021 GM
+Apr 04 11:31:37 *	* Cipher info:
+Apr 04 11:31:37 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 04 11:31:37 *	Connected. Now logging in.
+Apr 04 11:31:37 *	*** Looking up your hostname...
+Apr 04 11:31:37 *	*** Checking Ident
+Apr 04 11:31:37 *	*** No Ident response
+Apr 04 11:31:37 *	*** Couldn't look up your hostname
+Apr 04 11:31:37 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Apr 04 11:31:37 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 04 11:31:37 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 04 11:31:37 *	Authenticating via SASL as limelier (PLAIN)
+Apr 04 11:31:37 *	You are now logged in as limelier.
+Apr 04 11:31:37 *	SASL authentication successful
+**** ENDING LOGGING AT Sun Apr  4 11:31:38 2021
+
+**** BEGIN LOGGING AT Tue Apr  6 12:31:50 2021
+
+Apr 06 12:31:50 Lua version 1.3/5.4 loaded.
+Apr 06 12:31:50 Sysinfo plugin loaded
+Apr 06 12:31:50 Python interface loaded
+Apr 06 12:31:50 Checksum plugin loaded
+Apr 06 12:31:50 FiSHLiM plugin loaded
+Apr 06 12:31:50 Perl interface loaded
+Apr 06 12:31:50 *	Looking up irc.freenode.net
+Apr 06 12:31:50 *	Connecting to chat.freenode.net (2a01:7e00::f03c:91ff:fee2:413b:6697)
+Apr 06 12:31:51 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 06 12:31:51 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 06 12:31:51 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 06 12:31:51 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 06 12:31:51 *	* Subject: /CN=niven.freenode.net
+Apr 06 12:31:51 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 06 12:31:51 *	* Certification info:
+Apr 06 12:31:51 *	  Subject:
+Apr 06 12:31:51 *	    CN=niven.freenode.net
+Apr 06 12:31:51 *	  Issuer:
+Apr 06 12:31:51 *	    C=US
+Apr 06 12:31:51 *	    O=Let's Encrypt
+Apr 06 12:31:51 *	    CN=R3
+Apr 06 12:31:51 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 06 12:31:51 *	  Sign algorithm sha256WithRSAEncryption
+Apr 06 12:31:51 *	  Valid since Jan 30 18:30:38 2021 GM to Apr 30 18:30:38 2021 GM
+Apr 06 12:31:51 *	* Cipher info:
+Apr 06 12:31:51 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 06 12:31:51 *	Connected. Now logging in.
+Apr 06 12:31:51 *	*** Looking up your hostname...
+Apr 06 12:31:51 *	*** Checking Ident
+Apr 06 12:31:51 *	*** No Ident response
+Apr 06 12:31:51 *	*** Couldn't look up your hostname
+Apr 06 12:31:51 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Apr 06 12:31:51 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 06 12:31:51 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 06 12:31:51 *	Authenticating via SASL as limelier (PLAIN)
+Apr 06 12:31:51 *	You are now logged in as limelier.
+Apr 06 12:31:51 *	SASL authentication successful
+**** ENDING LOGGING AT Tue Apr  6 12:31:52 2021
+
+**** BEGIN LOGGING AT Tue Apr  6 18:15:00 2021
+
+Apr 06 18:15:00 Lua version 1.3/5.4 loaded.
+Apr 06 18:15:00 Sysinfo plugin loaded
+Apr 06 18:15:00 Python interface loaded
+Apr 06 18:15:00 Checksum plugin loaded
+Apr 06 18:15:00 FiSHLiM plugin loaded
+Apr 06 18:15:00 Perl interface loaded
+Apr 06 18:15:00 *	Looking up irc.freenode.net
+Apr 06 18:15:00 *	Connecting to chat.freenode.net (2a01:270:0:666f::1:6697)
+Apr 06 18:15:01 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 06 18:15:01 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 06 18:15:01 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 06 18:15:01 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 06 18:15:01 *	* Subject: /CN=adams.freenode.net
+Apr 06 18:15:01 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 06 18:15:01 *	* Certification info:
+Apr 06 18:15:01 *	  Subject:
+Apr 06 18:15:01 *	    CN=adams.freenode.net
+Apr 06 18:15:01 *	  Issuer:
+Apr 06 18:15:01 *	    C=US
+Apr 06 18:15:01 *	    O=Let's Encrypt
+Apr 06 18:15:01 *	    CN=R3
+Apr 06 18:15:01 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 06 18:15:01 *	  Sign algorithm sha256WithRSAEncryption
+Apr 06 18:15:01 *	  Valid since Jan 30 17:33:17 2021 GM to Apr 30 17:33:17 2021 GM
+Apr 06 18:15:01 *	* Cipher info:
+Apr 06 18:15:01 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 06 18:15:01 *	Connected. Now logging in.
+Apr 06 18:15:01 *	*** Looking up your hostname...
+Apr 06 18:15:01 *	*** Checking Ident
+Apr 06 18:15:01 *	*** No Ident response
+Apr 06 18:15:01 *	*** Couldn't look up your hostname
+Apr 06 18:15:01 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Apr 06 18:15:01 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 06 18:15:01 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 06 18:15:01 *	Authenticating via SASL as limelier (PLAIN)
+Apr 06 18:15:02 *	You are now logged in as limelier.
+Apr 06 18:15:02 *	SASL authentication successful
+**** ENDING LOGGING AT Tue Apr  6 18:15:03 2021
+
+**** BEGIN LOGGING AT Wed Apr  7 19:02:42 2021
+
+Apr 07 19:02:42 Lua version 1.3/5.4 loaded.
+Apr 07 19:02:42 Sysinfo plugin loaded
+Apr 07 19:02:42 Python interface loaded
+Apr 07 19:02:42 Checksum plugin loaded
+Apr 07 19:02:42 FiSHLiM plugin loaded
+Apr 07 19:02:42 Perl interface loaded
+Apr 07 19:02:42 *	Looking up irc.freenode.net
+Apr 07 19:02:42 *	Connecting to chat.freenode.net (2a01:270:0:666f::1:6697)
+Apr 07 19:02:43 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 07 19:02:43 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 07 19:02:43 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 07 19:02:43 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 07 19:02:43 *	* Subject: /CN=adams.freenode.net
+Apr 07 19:02:43 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 07 19:02:43 *	* Certification info:
+Apr 07 19:02:43 *	  Subject:
+Apr 07 19:02:43 *	    CN=adams.freenode.net
+Apr 07 19:02:43 *	  Issuer:
+Apr 07 19:02:43 *	    C=US
+Apr 07 19:02:43 *	    O=Let's Encrypt
+Apr 07 19:02:43 *	    CN=R3
+Apr 07 19:02:43 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 07 19:02:43 *	  Sign algorithm sha256WithRSAEncryption
+Apr 07 19:02:43 *	  Valid since Jan 30 17:33:17 2021 GM to Apr 30 17:33:17 2021 GM
+Apr 07 19:02:43 *	* Cipher info:
+Apr 07 19:02:43 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 07 19:02:43 *	Connected. Now logging in.
+Apr 07 19:02:43 *	*** Looking up your hostname...
+Apr 07 19:02:43 *	*** Checking Ident
+Apr 07 19:02:43 *	*** No Ident response
+Apr 07 19:02:43 *	*** Couldn't look up your hostname
+Apr 07 19:02:43 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Apr 07 19:02:43 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 07 19:02:43 *	limelier is already in use. Retrying with solitaire...
+Apr 07 19:02:43 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 07 19:02:44 *	Authenticating via SASL as limelier (PLAIN)
+Apr 07 19:02:45 *	You are now logged in as limelier.
+Apr 07 19:02:45 *	SASL authentication successful
+**** ENDING LOGGING AT Wed Apr  7 19:02:46 2021
+
+**** BEGIN LOGGING AT Thu Apr  8 14:53:01 2021
+
+Apr 08 14:53:01 Lua version 1.3/5.4 loaded.
+Apr 08 14:53:01 Sysinfo plugin loaded
+Apr 08 14:53:01 Python interface loaded
+Apr 08 14:53:01 Checksum plugin loaded
+Apr 08 14:53:01 FiSHLiM plugin loaded
+Apr 08 14:53:01 Perl interface loaded
+Apr 08 14:53:01 *	Looking up irc.freenode.net
+Apr 08 14:53:02 *	Connecting to chat.freenode.net (2a01:270:0:666f::1:6697)
+Apr 08 14:53:02 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 08 14:53:02 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 08 14:53:02 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 08 14:53:02 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 08 14:53:02 *	* Subject: /CN=adams.freenode.net
+Apr 08 14:53:02 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 08 14:53:02 *	* Certification info:
+Apr 08 14:53:02 *	  Subject:
+Apr 08 14:53:02 *	    CN=adams.freenode.net
+Apr 08 14:53:02 *	  Issuer:
+Apr 08 14:53:02 *	    C=US
+Apr 08 14:53:02 *	    O=Let's Encrypt
+Apr 08 14:53:02 *	    CN=R3
+Apr 08 14:53:02 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 08 14:53:02 *	  Sign algorithm sha256WithRSAEncryption
+Apr 08 14:53:02 *	  Valid since Jan 30 17:33:17 2021 GM to Apr 30 17:33:17 2021 GM
+Apr 08 14:53:02 *	* Cipher info:
+Apr 08 14:53:02 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 08 14:53:02 *	Connected. Now logging in.
+Apr 08 14:53:02 *	*** Looking up your hostname...
+Apr 08 14:53:02 *	*** Checking Ident
+Apr 08 14:53:02 *	*** No Ident response
+Apr 08 14:53:02 *	*** Couldn't look up your hostname
+Apr 08 14:53:02 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Apr 08 14:53:02 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 08 14:53:02 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 08 14:53:03 *	Authenticating via SASL as limelier (PLAIN)
+Apr 08 14:53:03 *	You are now logged in as limelier.
+Apr 08 14:53:03 *	SASL authentication successful
+**** ENDING LOGGING AT Thu Apr  8 14:53:04 2021
+
+**** BEGIN LOGGING AT Fri Apr  9 11:42:22 2021
+
+Apr 09 11:42:22 Lua version 1.3/5.4 loaded.
+Apr 09 11:42:22 Sysinfo plugin loaded
+Apr 09 11:42:22 Python interface loaded
+Apr 09 11:42:22 Checksum plugin loaded
+Apr 09 11:42:23 FiSHLiM plugin loaded
+Apr 09 11:42:23 Perl interface loaded
+Apr 09 11:42:23 *	Looking up irc.freenode.net
+Apr 09 11:42:23 *	Connecting to chat.freenode.net (2001:6b0:e:2a18::119:6697)
+Apr 09 11:42:23 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 09 11:42:23 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 09 11:42:23 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 09 11:42:23 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 09 11:42:23 *	* Subject: /CN=leguin.freenode.net
+Apr 09 11:42:23 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 09 11:42:23 *	* Certification info:
+Apr 09 11:42:23 *	  Subject:
+Apr 09 11:42:23 *	    CN=leguin.freenode.net
+Apr 09 11:42:23 *	  Issuer:
+Apr 09 11:42:23 *	    C=US
+Apr 09 11:42:23 *	    O=Let's Encrypt
+Apr 09 11:42:23 *	    CN=R3
+Apr 09 11:42:23 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 09 11:42:23 *	  Sign algorithm sha256WithRSAEncryption
+Apr 09 11:42:23 *	  Valid since Mar 15 05:28:02 2021 GM to Jun 13 05:28:02 2021 GM
+Apr 09 11:42:23 *	* Cipher info:
+Apr 09 11:42:23 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 09 11:42:23 *	Connected. Now logging in.
+Apr 09 11:42:24 *	*** Looking up your hostname...
+Apr 09 11:42:24 *	*** Checking Ident
+Apr 09 11:42:24 *	*** No Ident response
+Apr 09 11:42:26 *	*** Couldn't look up your hostname
+Apr 09 11:42:26 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Apr 09 11:42:26 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 09 11:42:26 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 09 11:42:26 *	Authenticating via SASL as limelier (PLAIN)
+Apr 09 11:42:26 *	You are now logged in as limelier.
+Apr 09 11:42:26 *	SASL authentication successful
+**** ENDING LOGGING AT Fri Apr  9 11:42:27 2021
+
+**** BEGIN LOGGING AT Sat Apr 10 00:50:59 2021
+
+Apr 10 00:50:59 Lua version 1.3/5.4 loaded.
+Apr 10 00:50:59 Sysinfo plugin loaded
+Apr 10 00:50:59 Python interface loaded
+Apr 10 00:50:59 Checksum plugin loaded
+Apr 10 00:50:59 FiSHLiM plugin loaded
+Apr 10 00:50:59 Perl interface loaded
+Apr 10 00:50:59 *	Looking up irc.freenode.net
+Apr 10 00:50:59 *	Connecting to chat.freenode.net (2a01:270:0:666f::1:6697)
+Apr 10 00:51:00 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 10 00:51:00 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 10 00:51:00 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 10 00:51:00 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 10 00:51:00 *	* Subject: /CN=adams.freenode.net
+Apr 10 00:51:00 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 10 00:51:00 *	* Certification info:
+Apr 10 00:51:00 *	  Subject:
+Apr 10 00:51:00 *	    CN=adams.freenode.net
+Apr 10 00:51:00 *	  Issuer:
+Apr 10 00:51:00 *	    C=US
+Apr 10 00:51:00 *	    O=Let's Encrypt
+Apr 10 00:51:00 *	    CN=R3
+Apr 10 00:51:00 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 10 00:51:00 *	  Sign algorithm sha256WithRSAEncryption
+Apr 10 00:51:00 *	  Valid since Apr  6 05:10:12 2021 GM to Jul  5 05:10:12 2021 GM
+Apr 10 00:51:00 *	* Cipher info:
+Apr 10 00:51:00 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 10 00:51:00 *	Connected. Now logging in.
+Apr 10 00:51:00 *	*** Looking up your hostname...
+Apr 10 00:51:00 *	*** Checking Ident
+Apr 10 00:51:00 *	*** No Ident response
+Apr 10 00:51:00 *	*** Couldn't look up your hostname
+Apr 10 00:51:00 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Apr 10 00:51:00 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 10 00:51:00 *	limelier is already in use. Retrying with solitaire...
+Apr 10 00:51:00 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 10 00:51:01 *	Authenticating via SASL as limelier (PLAIN)
+Apr 10 00:51:02 *	You are now logged in as limelier.
+Apr 10 00:51:02 *	SASL authentication successful
+**** ENDING LOGGING AT Sat Apr 10 00:51:03 2021
+
+**** BEGIN LOGGING AT Sat Apr 10 17:06:01 2021
+
+Apr 10 17:06:01 Lua version 1.3/5.4 loaded.
+Apr 10 17:06:01 Sysinfo plugin loaded
+Apr 10 17:06:01 Python interface loaded
+Apr 10 17:06:01 Checksum plugin loaded
+Apr 10 17:06:01 FiSHLiM plugin loaded
+Apr 10 17:06:01 Perl interface loaded
+Apr 10 17:06:01 *	Looking up irc.freenode.net
+Apr 10 17:06:01 *	Connecting to chat.freenode.net (2a01:270:0:666f::1:6697)
+Apr 10 17:06:02 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 10 17:06:02 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 10 17:06:02 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 10 17:06:02 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Apr 10 17:06:02 *	* Subject: /CN=adams.freenode.net
+Apr 10 17:06:02 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 10 17:06:02 *	* Certification info:
+Apr 10 17:06:02 *	  Subject:
+Apr 10 17:06:02 *	    CN=adams.freenode.net
+Apr 10 17:06:02 *	  Issuer:
+Apr 10 17:06:02 *	    C=US
+Apr 10 17:06:02 *	    O=Let's Encrypt
+Apr 10 17:06:02 *	    CN=R3
+Apr 10 17:06:02 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 10 17:06:02 *	  Sign algorithm sha256WithRSAEncryption
+Apr 10 17:06:02 *	  Valid since Apr  6 05:10:12 2021 GM to Jul  5 05:10:12 2021 GM
+Apr 10 17:06:02 *	* Cipher info:
+Apr 10 17:06:02 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 10 17:06:02 *	Connected. Now logging in.
+Apr 10 17:06:02 *	*** Looking up your hostname...
+Apr 10 17:06:02 *	*** Checking Ident
+Apr 10 17:06:02 *	*** No Ident response
+Apr 10 17:06:02 *	*** Couldn't look up your hostname
+Apr 10 17:06:02 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Apr 10 17:06:02 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 10 17:06:02 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl 
+Apr 10 17:06:02 *	Authenticating via SASL as limelier (PLAIN)
+Apr 10 17:06:03 *	You are now logged in as limelier.
+Apr 10 17:06:03 *	SASL authentication successful
+**** ENDING LOGGING AT Sat Apr 10 17:06:04 2021
+

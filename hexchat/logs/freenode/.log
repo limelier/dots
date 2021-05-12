@@ -20,3 +20,19 @@ Apr 01 08:10:51 *	  Valid since Jan 30 18:30:38 2021 GM to Apr 30 18:30:38 2021 
 Apr 01 08:10:51 *	* Cipher info:
 Apr 01 08:10:51 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
 Apr 01 08:10:51 *	Connected. Now logging in.
+**** BEGIN LOGGING AT Fri Apr  2 19:48:23 2021
+
+Apr 02 19:48:23 *	limelier sets mode +Z on limelier
+Apr 02 19:48:23 *	limelier sets mode +i on limelier
+Apr 02 19:48:23 -freenode-connect-	Welcome to freenode. To protect the network all new connections will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Apr 02 19:48:23 *	Received a CTCP VERSION from freenode-connect
+**** ENDING LOGGING AT Fri Apr  2 19:48:29 2021
+
+**** BEGIN LOGGING AT Wed Apr  7 11:57:13 2021
+
+Apr 07 11:57:13 *	limelier sets mode +Z on limelier
+Apr 07 11:57:13 *	limelier sets mode +i on limelier
+Apr 07 11:57:14 -freenode-connect-	Welcome to freenode. To protect the network all new connections will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Apr 07 11:57:14 *	Received a CTCP VERSION from freenode-connect
+**** ENDING LOGGING AT Wed Apr  7 11:57:19 2021
+

@@ -19,3 +19,472 @@ T 1617298204 18<29Poll1t018>	IDDE1969 the queue is currently paused so t
 T 1617298220 20<limelier>30	oh, okay, so i didn't get april foolsed when someone told me that a few hours ago
 T 1617298225 20<limelier>30	i was worried about that :p
 T 1617298308 23*	sprfj57 (textual@red-q2d.vfo.r5f2t7.IP23) has joined
+T 1617702565 19*	Now talking on 22#red-invites
+T 1617702565 22*	Topic for 22#red-invites is: :: #red-invites :: INTERVIEWS TEMPORARILY PAUSED - NO ETA :: Read this https://interviewfor.red | Don't discuss the interview or its topics. Don’t PM anyone. Don’t chat DURING your interview. Don't highlight OPs, unless prompted. | HOME CONNECTION ONLY | No E.T.A’s | Questions? -> #red-interviewprep 
+T 1617702565 22*	Topic for 22#red-invites set by 26Greenstar!46924@Greenstar.moderator.redacted.ch (24Mon Apr  5 23:03:52 2021)
+T 1617702565 -18ChanServ-	[#red-invites] Welcome to #red-invites :: Please make sure you have read http://interviewfor.red and the topic in this room :: You must queue up in here. No idling. :: If you have any questions join #red-interviewprep.
+T 1617702593 20<limelier>30	oh, interviews still paused? alright
+T 1617702639 20*	Disconnected (20)
+T 1617722121 19*	Now talking on 22#red-invites
+T 1617722121 22*	Topic for 22#red-invites is: :: #red-invites :: INTERVIEWS TEMPORARILY PAUSED - NO ETA :: Read this https://interviewfor.red | Don't discuss the interview or its topics. Don’t PM anyone. Don’t chat DURING your interview. Don't highlight OPs, unless prompted. | HOME CONNECTION ONLY | No E.T.A’s | Questions? -> #red-interviewprep 
+T 1617722121 22*	Topic for 22#red-invites set by 26Greenstar!46924@Greenstar.moderator.redacted.ch (24Mon Apr  5 23:03:52 2021)
+T 1617722121 -18ChanServ-	[#red-invites] Welcome to #red-invites :: Please make sure you have read http://interviewfor.red and the topic in this room :: You must queue up in here. No idling. :: If you have any questions join #red-interviewprep.
+T 1617811383 19*	Now talking on 22#red-invites
+T 1617811383 22*	Topic for 22#red-invites is: :: #red-invites :: Read this https://interviewfor.red | Don't discuss the interview or its topics. Don’t PM anyone. Don’t chat DURING your interview. Don't highlight OPs, unless prompted. | HOME CONNECTION ONLY | No E.T.A’s | Questions? -> #red-interviewprep 
+T 1617811383 22*	Topic for 22#red-invites set by 26Fibonacci!45391@Fibonacci.moderator.redacted.ch (24Tue Apr  6 20:11:22 2021)
+T 1617811383 -18ChanServ-	[#red-invites] Welcome to #red-invites :: Please make sure you have read http://interviewfor.red and the topic in this room :: You must queue up in here. No idling. :: If you have any questions join #red-interviewprep.
+T 1617811543 20<limelier>30	!queue https://www.speedtest.net/result/11226349204.png
+T 1617811544 24*	Received a CTCP 24VERSION from 18Gatekeeper
+T 1617811588 23*	superchiva78 (superchiva7@red-d3s.uch.ao6pce.IP23) has joined
+T 1617811622 18<26superchiva7818>	https://www.speedtest.net/result/11226358587.png
+T 1617811628 18<26superchiva7818>	!queue
+T 1617811676 18<26superchiva7818>	!queue https://www.speedtest.net/result/11226358587.png
+T 1617812311 23*	lefagdusiecle (textual@red-6fu.hov.ap2179.IP23) has joined
+T 1617812839 23*	geraffs (geraffs@red-ce5.djn.7squjj.IP23) has joined
+T 1617812851 18<26geraffs18>	!queue https://www.speedtest.net/result/11226476996.png
+T 1617812913 22*	26Gatekeeper sets ban on 18*!*@red-6fu.hov.ap2179.IP
+T 1617812913 22*	26Gatekeeper has kicked 18lefagdusiecle from 22#red-invites (24No idling. You may not stay in this channel without !queueing. (expires in 14m 59s))
+T 1617813015 24*	superchiva78 has quit (Connection closed)
+T 1617813260 20*	Disconnected (20)
+T 1617882798 19*	Now talking on 22#red-invites
+T 1617882798 22*	Topic for 22#red-invites is: :: #red-invites :: Read this https://interviewfor.red | Don't discuss the interview or its topics. Don’t PM anyone. Don’t chat DURING your interview. Don't highlight OPs, unless prompted. | HOME CONNECTION ONLY | No E.T.A’s | Questions? -> #red-interviewprep 
+T 1617882798 22*	Topic for 22#red-invites set by 26Fibonacci!45391@Fibonacci.moderator.redacted.ch (24Tue Apr  6 20:11:22 2021)
+T 1617882798 -18ChanServ-	[#red-invites] Welcome to #red-invites :: Please make sure you have read http://interviewfor.red and the topic in this room :: You must queue up in here. No idling. :: If you have any questions join #red-interviewprep.
+T 1617882819 18<22plankie18>	I think it's the same one I'm using now, if not I can guess what it was
+T 1617882851 18<22rhett18>	jesse1412?
+T 1617882852 20<limelier>30	!queue https://www.speedtest.net/result/11230913454.png
+T 1617882853 24*	Received a CTCP 24VERSION from 18Gatekeeper
+T 1617882862 18<22plankie18>	yes that sounds right
+T 1617882866 24*	28plankie is now known as 18jesse1412
+T 1617882877 18<19jesse141218>	changed :)
+T 1617882888 18<22rhett18>	Thanks jesse1412. Good luck on the interview, whenever that may be.
+T 1617882897 18<19jesse141218>	thanks!
+T 1617882955 20<limelier>30	same queue position as yesterday, that's a bad omen if i've ever seen one lol
+T 1617883380 22*	26Gatekeeper removes ban on 18*!*@red-6oj.h1o.ba78oi.IP
+T 1617883529 23*	lefagdusiecle (textual@red-6fu.hov.ap2179.IP23) has joined
+T 1617884131 22*	26Gatekeeper sets ban on 18*!*@red-6fu.hov.ap2179.IP
+T 1617884131 22*	26Gatekeeper has kicked 18lefagdusiecle from 22#red-invites (24No idling. You may not stay in this channel without !queueing. (expires in 14m 59s))
+T 1617884335 23*	Alias (Alias@red-ahq.vji.7g9lb0.IP23) has joined
+T 1617884395 18<25Alias18>	!queue https://www.speedtest.net/result/11231035558.png
+T 1617885031 22*	26Gatekeeper removes ban on 18*!*@red-6fu.hov.ap2179.IP
+T 1617887129 23*	Godklng (Godklng@red-s8a.s0u.ubsamr.IP23) has joined
+T 1617887156 18<29Godklng18>	!queue https://www.speedtest.net/result/11231257870.png
+T 1617889227 23*	Derpy (Luciel@red-un5.fkd.bcjjoc.IP23) has joined
+T 1617889828 22*	26Gatekeeper sets ban on 18*!*@red-un5.fkd.bcjjoc.IP
+T 1617889828 22*	26Gatekeeper has kicked 18Derpy from 22#red-invites (24No idling. You may not stay in this channel without !queueing. (expires in 14m 59s))
+T 1617890508 23*	whatfor (whatfor@red-mjo.6hm.6dmpi2.IP23) has joined
+T 1617890509 22*	26Gatekeeper sets ban on 18*!*@red-mjo.6hm.6dmpi2.IP
+T 1617890509 22*	26Gatekeeper has kicked 18whatfor from 22#red-invites (24Please use your home connection. (does not expire))
+T 1617890729 22*	26Gatekeeper removes ban on 18*!*@red-un5.fkd.bcjjoc.IP
+T 1617891409 22*	26Gatekeeper removes ban on 18*!*@red-mjo.6hm.6dmpi2.IP
+T 1617892626 23*	Derpy (Luciel@red-un5.fkd.bcjjoc.IP23) has joined
+T 1617893228 22*	26Gatekeeper sets ban on 18*!*@red-un5.fkd.bcjjoc.IP
+T 1617893228 22*	26Gatekeeper has kicked 18Derpy from 22#red-invites (24No idling. You may not stay in this channel without !queueing. (expires in 14m 59s))
+T 1617894128 22*	26Gatekeeper removes ban on 18*!*@red-un5.fkd.bcjjoc.IP
+T 1617894942 23*	cyrus (cyrus@red-pl5.kgd.347vls.IP23) has joined
+T 1617895172 18<29cyrus18>	!queue https://www.speedtest.net/result/11231956906.png
+T 1617895203 20<limelier>30	is uh... is the queue stopped again? not asking for an ETA, but i've been queued for almost 3 and a half hours without changing my place and i'm curious if i've missed something
+T 1617895610 24*	cyrus has quit (Quit: Leaving)
+T 1617895941 18<29zed18>	topic says no ETA, queue moves when interviewers (volunteers) are available.
+T 1617896097 18<22AsparagusOmelette18>	from my short experience, the queue appears to move 2 persons per day
+T 1617896173 18<22AsparagusOmelette18>	i'm not saying it's a fixed schedule, but it has been like this for the past 3 days
+T 1617896731 18<28Zeitgeist18>	AsparagusOmelette, that's inaccurate, and its from people parting/leaving, now from people being interviewed.
+T 1617896738 18<28Zeitgeist18>	*not from people being interviewed.
+T 1617896834 18<26Capacity444418>	2 days ago there were 4 interviews all at once, i haven't seen any since
+T 1617896849 18<26Capacity444418>	just gotta keep waiting
+T 1617896917 18<19sprfj5718>	and i was number 5 lmao
+T 1617897213 18<26Capacity444418>	silver lining, now you're first!
+T 1617897512 23*	CoralineJones (CoralineJon@red-h7b.ut9.b6s9k9.IP23) has joined
+T 1617897531 24*	CoralineJones has quit (Quit: )
+T 1617897954 23*	theradiantcoder (Adium@red-dfs.bja.9s6kpg.IP23) has joined
+T 1617898261 23*	Folklord (Open@red-7u3.kjb.k694u1.IP23) has joined
+T 1617898412 18<20Folklord18>	!queue https://www.speedtest.net/result/11232283338.png
+T 1617898555 22*	26Gatekeeper sets ban on 18*!*@red-dfs.bja.9s6kpg.IP
+T 1617898555 22*	26Gatekeeper has kicked 18theradiantcoder from 22#red-invites (24No idling. You may not stay in this channel without !queueing. (expires in 14m 59s))
+T 1617899240 23*	Frank (frank@red-74q.m6b.lc1p4k.IP23) has joined
+T 1617899456 22*	26Gatekeeper removes ban on 18*!*@red-dfs.bja.9s6kpg.IP
+T 1617899494 24*	Godklng has quit (Ping timeout: 121 seconds)
+T 1617899725 23*	Hughes (Hughes@red-lrc.ba8.0pcn81.IP23) has joined
+T 1617899741 24*	Hughes (Hughes@red-lrc.ba8.0pcn81.IP24) has left
+T 1617899842 22*	26Gatekeeper sets ban on 18*!*@red-74q.m6b.lc1p4k.IP
+T 1617899842 22*	26Gatekeeper has kicked 18Frank from 22#red-invites (24No idling. You may not stay in this channel without !queueing. (expires in 14m 59s))
+T 1617900300 23*	starcraftmarine2 (4gate@red-aia.63e.rnq8kc.IP23) has joined
+T 1617900311 18<19starcraftmarine218>	!queue https://www.speedtest.net/result/11232453134.png
+T 1617900743 22*	26Gatekeeper removes ban on 18*!*@red-74q.m6b.lc1p4k.IP
+T 1617902219 23*	Derpy (Luciel@red-un5.fkd.bcjjoc.IP23) has joined
+T 1617902821 22*	26Gatekeeper sets ban on 18*!*@red-un5.fkd.bcjjoc.IP
+T 1617902821 22*	26Gatekeeper has kicked 18Derpy from 22#red-invites (24No idling. You may not stay in this channel without !queueing. (expires in 14m 59s))
+T 1617903099 18<22disdyakis18>	yea i'm definitely not complaining or anything - like geraffs said, they're volunteers so i'm just grateful this process exists
+T 1617903121 18<22disdyakis18>	ignore me lol - meant to check my position and up-enter failed me because i was in the wrong window -_-
+T 1617903132 18<26geraffs18>	np lol
+T 1617903139 18<26geraffs18>	I did the same yesterday
+T 1617903722 22*	26Gatekeeper removes ban on 18*!*@red-un5.fkd.bcjjoc.IP
+T 1617903915 23*	_57331_ (_57331_@red-a83.320.ecjqcj.IP23) has joined
+T 1617904006 18<29_57331_18>	!queue https://www.speedtest.net/result/11232773907.png
+T 1617905169 18<26Capacity444418>	disdyakis, thanks for the "up-enter" trick.  it will now be easier for me to obsesivley check my position
+T 1617905294 18<22disdyakis18>	np! yea i just keep coming back to my computer ~half hour to see if there's any updates/check my position so it's real convinient - one perk of shelter in place and working from home is that other than the occassional errand, waiting in this queue/being near my computer is very easy
+T 1617905422 18<26Capacity444418>	ha, i hear that
+T 1617906255 23*	GodKing (GodKing@red-s8a.s0u.ubsamr.IP23) has joined
+T 1617906333 18<19GodKing18>	!queue https://www.speedtest.net/result/11232968896.png
+T 1617906409 23*	jasper (jasper@red-8ar.o4b.l0ulqh.IP23) has joined
+T 1617906471 18<27jasper18>	!queue https://www.speedtest.net/result/11232971543.png
+T 1617907768 24*	Folklord has quit (Quit: Leaving)
+T 1617908730 23*	Derpy (Luciel@red-un5.fkd.bcjjoc.IP23) has joined
+T 1617909076 18<24Derpy18>	�!queue https://www.speedtest.net/result/11233187807.png
+T 1617909332 22*	26Gatekeeper sets ban on 18*!*@red-un5.fkd.bcjjoc.IP
+T 1617909332 22*	26Gatekeeper has kicked 18Derpy from 22#red-invites (24No idling. You may not stay in this channel without !queueing. (expires in 14m 59s))
+T 1617909925 24*	starcraftmarine2 has quit (Ping timeout: 121 seconds)
+T 1617910232 22*	26Gatekeeper removes ban on 18*!*@red-un5.fkd.bcjjoc.IP
+T 1617910251 23*	piyush (piyush@red-137.qut.156sut.IP23) has joined
+T 1617910321 18<29piyush18>	!queue https://www.speedtest.net/result/11233282498.png
+T 1617910525 23*	GeminiBear (GeminiBear@red-3ir.68e.fvulqc.IP23) has joined
+T 1617910667 18<28GeminiBear18>	!queue https://www.speedtest.net/result/11233307362.png
+T 1617910803 24*	GeminiBear has quit (Quit: )
+T 1617911350 23*	starcraftmarine2 (4gate@red-aia.63e.rnq8kc.IP23) has joined
+T 1617911379 24*	starcraftmarine2 has quit (Quit: Leaving)
+T 1617913240 23*	TimK (TimK@red-03e.7a4.lr1lto.IP23) has joined
+T 1617913240 22*	26Gatekeeper sets ban on 18TimK!*@*
+T 1617913240 22*	26Gatekeeper has kicked 18TimK from 22#red-invites (24Please choose a longer nick. [TimK] (expires in 14m 59s))
+T 1617913286 24*	_57331_ has quit (Quit: Cya all!)
+T 1617913445 23*	TiiiimK (TiiiimK@red-03e.7a4.lr1lto.IP23) has joined
+T 1617913544 18<25TiiiimK18>	!queue https://www.speedtest.net/result/11233507401.png
+T 1617914063 20<limelier>30	i, uh.. i'm gonna have to go to sleep soon. i'm not entirely sure how i could advance in the queue if, I assume, the interviews happen to be during European night-time. anyone got any tips? should I set up a ZNC so I don't lose my spot, or something along those lines?
+T 1617914084 20<limelier>30	or, well, just leave my PC on overnight, I guess
+T 1617914108 18<22AsparagusOmelette18>	i just leave my PC on overnight
+T 1617914118 18<22disdyakis18>	what's your position? i've been #4 for a full day now so if you're behind me in the queue i'd say don't worry about missing your slot
+T 1617914125 20<limelier>30	i'm #17
+T 1617914142 22*	26Gatekeeper removes ban on 18TimK!*@*
+T 1617914155 18<22disdyakis18>	yea then just make sure your computer doesn't sleep or lose its internet connection
+T 1617914197 20<limelier>30	that'll be a bit difficult, since i dual boot a lot... might have to find a weekend where i really don't need one of the OSes, I guess
+T 1617914414 18<22disdyakis18>	setting up a znc might work well for you then - i don't think that's discouraged as long as it's hosted from your home internet connection
+T 1617914427 20<limelier>30	i'll look into that, then. thanks for the tips
+T 1617914499 18<22disdyakis18>	or i guess is should say, i am not in any way an authority here, but the irc rules seem to be focused on making sure you're always logging in from your home internet connection, and i've seen nothing one way or another about zrc so i'd assume it's fine lol
+T 1617914661 23*	whatfor (whatfor@red-kvv.kj6.81eabl.IP23) has joined
+T 1617914670 19<geraffs>	limelier: bouncers are prohibited. "YOU MAY ONLY INTERVIEW WHEN YOU ARE AT HOME AND DIRECTLY CONNECTED."
+T 1617914784 18<22disdyakis18>	ah that makes sense - i guess i was thinking if a bouncer is hosted on your home network it would count as directly connected
+T 1617914810 18<26geraffs18>	even if it's hosted on local, I wouldn't risk it
+T 1617914928 20<limelier>30	god damn it
+T 1617914936 18<22disdyakis18>	out of curiosity where did you get that quote from - the topic just has a bit that says "HOME CONNECTION ONLY"
+T 1617914962 18<26geraffs18>	starting page at the prep site
+T 1617914983 18<26geraffs18>	under the "connecting to RED's irc"
+T 1617915023 18<22disdyakis18>	i'm only seeing in the FAQ where it says "You must physically be at home and on your home connection in order to be allowed to be interviewed."
+T 1617915071 18<22disdyakis18>	interviewfor.red?
+T 1617915094 18<26geraffs18>	yeah, it's on the Starting the Interview page
+T 1617915108 18<22disdyakis18>	oh i'm so dumb i see that now
+T 1617915123 18<22disdyakis18>	i thought you meant the landing page
+T 1617915150 18<22disdyakis18>	oh yea it very specifically says bouncers are not allowed
+T 1617915150 20<limelier>30	well, be seeing you guys around a lot, then
+T 1617915153 18<26geraffs18>	my bad, I had to be more clear
+T 1617915154 20<limelier>30	'night
+T 1617915174 20*	Disconnected (20)
+T 1617957960 19*	Now talking on 22#red-invites
+T 1617957960 22*	Topic for 22#red-invites is: :: #red-invites :: Read this https://interviewfor.red | Don't discuss the interview or its topics. Don’t PM anyone. Don’t chat DURING your interview. Don't highlight OPs, unless prompted. | HOME CONNECTION ONLY | No E.T.A’s | Questions? -> #red-interviewprep 
+T 1617957960 22*	Topic for 22#red-invites set by 26Fibonacci!45391@Fibonacci.moderator.redacted.ch (24Tue Apr  6 20:11:22 2021)
+T 1617957960 -18ChanServ-	[#red-invites] Welcome to #red-invites :: Please make sure you have read http://interviewfor.red and the topic in this room :: You must queue up in here. No idling. :: If you have any questions join #red-interviewprep.
+T 1617957963 20<limelier>30	!queue https://www.speedtest.net/result/11235710803.png
+T 1617957964 24*	Received a CTCP 24VERSION from 18Gatekeeper
+T 1617957977 18<22disdyakis18>	that sounds like the kind of thing parents say that isn't true
+T 1617958052 18<20Folklord18>	I like to believe that. lol
+T 1617958078 18<22disdyakis18>	to clarify, i don't usualy have my desktop on 24/7 (it's usually sleeping), i do have a home server that's always on
+T 1617958172 18<22AsparagusOmelette18>	is the server a dedicated device, or just a repurposed headless desktop?
+T 1617958178 18<22AsparagusOmelette18>	or a pi maybe?
+T 1617958189 18<22disdyakis18>	my mom would always unplug my chargers that didn't have anything plugged into them - and i tried explaining to her that if it's just sitting in the wall it's using at most $0.01 of electricity a year and that was not worth the inconvinience of my phone randomly dying because i thought it was charging but it wasn't
+T 1617958230 18<22disdyakis18>	the later - it's an intel nuc with a 10tb external harddrive
+T 1617958247 20<limelier>30	oh hey, you're still here
+T 1617958293 18<22disdyakis18>	i live here now
+T 1617958293 18<20Folklord18>	I guess I'll queue another time.
+T 1617958296 20<limelier>30	no luck, then?
+T 1617958309 18<22disdyakis18>	nope still #4
+T 1617958312 20<limelier>30	oof
+T 1617958319 20<limelier>30	i guess right now people are just busy
+T 1617958336 20<limelier>30	and theres probably a backlog of interviewees after the outage last week or so
+T 1617958363 18<20Folklord18>	Oh, I see. Thanks for the info.
+T 1617958384 18<20Folklord18>	I noticed last week the interview process was paused.
+T 1617958392 20<limelier>30	i just queue up now to see how the queue is doing
+T 1617958409 18<22disdyakis18>	yea fairs fair - i'm just glad that the queue didn't pass me up while i was out running errands today - idk if the boba i got on my way home would have been worth it, but it was really good boba so maybe it would have been
+T 1617958419 20<limelier>30	i don't think i can get to the front of the queue unless i get a device i can leave running for a few days
+T 1617958655 22*	26Gatekeeper removes ban on 18*!*@red-blo.87b.8ca67l.IP
+T 1617958685 18<22disdyakis18>	yea that sounds accurate - i also queued up a few months ago - maybe closer to a year ago now :o - and i think i was queued up for a couple of days and had to disconnect because i was going out of town for the weekend
+T 1617958735 18<22disdyakis18>	so i think that's just how it is, and isn't unique to this week
+T 1617958754 20<limelier>30	honestly, i can understand that these interviews are all powered by volunteers doing it for free and they're not going to be very fast
+T 1617958762 20<limelier>30	that's fine
+T 1617958790 20<limelier>30	i just wish there was a more sane way to queue up in a process that'll apparently take multiple days
+T 1617958845 20<limelier>30	as it stands it's very a very limiting process
+T 1617958893 20<limelier>30	to have to connect from home and stay online for days at a time... i guess it favors people who will be able to seed the most as well but it still doesn't seem that solid of a process
+T 1617958894 18<22disdyakis18>	yea idk what the replacement would look like though - maybe once you get in you could spearhead an update :P
+T 1617958955 20<limelier>30	i'm not sure either, perhaps keeping your spot in the queue for 24h and allowing you to retake it when you come online
+T 1617958955 18<22disdyakis18>	it did take me a year into the pandemic to realize that sheltering in place, working from home, and not going on vacations is the perfect recipe for queueing up for this process
+T 1617959001 20<limelier>30	the thing that stops me from just powering through things by leaving my laptop on for a week is the fact that i dual boot between linux and windows
+T 1617959008 20<limelier>30	and i need both for college and stuff :/
+T 1617959042 19<geraffs>	welcome back limelier!
+T 1617959045 20<limelier>30	hi
+T 1617959065 18<26geraffs18>	hi o/
+T 1617959095 20<limelier>30	it sucks too because the strict interviewing rules prevent any reasonable alternatives for me too
+T 1617959116 20<limelier>30	like using a ZNC, or booting up my old desktop without a screen and SSHing into it to queue
+T 1617959223 18<26geraffs18>	my laptop and irc client is on 24/7 so it doesn't change anything for me
+T 1617959235 20<limelier>30	well, it's good that you have that option
+T 1617959245 20<limelier>30	sadly not everybody does
+T 1617959255 18<27Kristophersson18>	sup everyone
+T 1617959257 20<limelier>30	hi
+T 1617959271 18<26geraffs18>	hello
+T 1617959274 18<22disdyakis18>	yea i'm curious the exact reasoning behind some of the irc rules because i'm not super familiar with irc and in general, i know very little about networking despite literally taking a course on it
+T 1617959299 20<limelier>30	i'm guessing a lot of the rules are to ensure you don't sidestep the "interview from a home connection" rule
+T 1617959301 18<27Kristophersson18>	so from the sound of this chat it should be safe to keep my laptop running in the queue while I go home to my parents over the weekend?
+T 1617959305 20<limelier>30	probably
+T 1617959345 20<limelier>30	disdyakis: what i mean is, i'm guessing people would use a vpn, or an SSH server, or something else to connect from their "home connection" while away from home
+T 1617959416 18<27Kristophersson18>	I mean you aren't even allowed to use a remote desktop application to take the interview. to me it sounds like they're trying to make it purposfully make it hard to join.
+T 1617959422 20<limelier>30	iunno. i understand being selective, and i'm thankful that RED even takes new users at all, but I do wish the process made a bit more... sense
+T 1617959466 20<limelier>30	it doesn't really take a rocket scientist to not upload trash and keep up a good ratio
+T 1617959488 20<limelier>30	to me it seems like the interview queuing process is way bigger of a hurdle than the interview itself
+T 1617959492 18<22disdyakis18>	yea, i guess my specific question is, are the rules just written to gauruntee you're at home on your home connection, or is there other rationale behind banning setups where you are at home on your home connection, but want to protect yourself from disconnecting - like maybe there was an issue in the past with people being away from their computers but still being on irc?
+T 1617959544 20<limelier>30	i doubt that, because as it stands there's nothing stopping you from just leaving your pc open and going somewhere else
+T 1617959564 18<22disdyakis18>	yea because like, if the queue moves up while i'm sleeping that's essentially the same as if i had a znc on my home server to keep me in this room even if my desktop shut off so idk
+T 1617959575 20<limelier>30	yeah
+T 1617959608 18<22disdyakis18>	so, like i said, i'm curious what the rationale is - it does sound like the kind of rule one makes when a loophole was abused in the past
+T 1617959608 20<limelier>30	i would understand the really strict connection rules if you could feasibly queue up in the morning and actually get interviewed by the evening
+T 1617959636 20<limelier>30	but its not, and i can understand that. like they say, everyone who interviews volunteers to do it for free, they don't have that much free time to waste
+T 1617959649 20<limelier>30	but in that case it sounds like maybe the queueing process shouldn't be so restrictive
+T 1617959675 18<22disdyakis18>	yea - it's also totally possible it's just entrenched in the interview process
+T 1617959694 20<limelier>30	maybe my hunch was right, and they are specifically trying to filter people who can't keep their pcs on all the time (to seed)
+T 1617959696 18<22disdyakis18>	the red interview process up until the interview itself (which i have not yet taken) is identical to the what.cd one
+T 1617959697 20<limelier>30	hm
+T 1617959719 20<limelier>30	oh, i'm not familiar. this is my first private tracker interview
+T 1617959722 18<27Kristophersson18>	I think it's mainly to combat cheaters. As to not make it easy for them to create duplicate accounts or whatever. But it's sad that that is at the cost of all the legitimate interested
+T 1617959729 20<limelier>30	yeah
+T 1617959739 20<limelier>30	it's a bit disheartening
+T 1617959790 18<22disdyakis18>	yea it doesn't sound like it's to filter out people who can't seed as much because my home server is going to be my seedbox essentially because it has a wired connection to my router
+T 1617959817 20<limelier>30	i guess i'll just stay queued here for a while and see if there's any news
+T 1617959823 20<limelier>30	doubt i'll be getting to the front any time soon, though
+T 1617959847 20<limelier>30	good luck to you, disdyakis. maybe you can get a better idea of what's going on when you get in
+T 1617959999 18<27Kristophersson18>	limeliner you might want to try getting into other ones first, to get some experience and whatnot. I am on a bunch of general content trackers and I hope that'll help my interview. Just browse reddit.com/r/opensignups, where people post if their tracker has signups available. Many private trackers also recruit on other trackers, so that could also be a way for you to get into more exclusive ones. I believe you can use this tracker 
+T 1617959999 18<27Kristophersson18>	for reference for another high-level tracker, though I don't remember which. So, can't hurt to get into a couple of private trackers. I definitely recommend blu, a great general content tracker, and losslessclub for music
+T 1617960034 20<limelier>30	i see, thanks! i'll be sure to check those out
+T 1617960057 18<27Kristophersson18>	many trackers also require "proof", screenshots of your profile on another tracker, if you wish to sign up without an invite, so having a small collection definitely is an advantage
+T 1617960067 20<limelier>30	alright
+T 1617960869 24*	Folklord (Open@red-7u3.kjb.k694u1.IP24) has left ("Leaving")
+T 1617961281 23*	_57331_ (_57331_@red-a83.320.ecjqcj.IP23) has joined
+T 1617961283 18<29_57331_18>	!queue https://www.speedtest.net/result/11235908121.png
+T 1617961829 23*	amaterasu (amaterasu@red-6qp.vhr.dr3uui.IP23) has joined
+T 1617961855 18<19amaterasu18>	!queue https://www.speedtest.net/result/11235945142.png
+T 1617962465 23*	lefagdusiecle (textual@red-6fu.hov.ap2179.IP23) has joined
+T 1617962707 24*	lefagdusiecle has quit (Ping timeout: 121 seconds)
+T 1617963931 24*	Kristophersson has quit (Ping timeout: 121 seconds)
+T 1617964432 23*	theradiantcoder (Adium@red-sti.ubr.384p9e.IP23) has joined
+T 1617964676 24*	theradiantcoder has quit (Ping timeout: 121 seconds)
+T 1617964741 23*	theradiantcoder (Adium@red-sti.ubr.384p9e.IP23) has joined
+T 1617964866 18<20theradiantcoder18>	!queue https://www.speedtest.net/result/11236139423.png
+T 1617965598 23*	f4dbo (werik@red-mc2.tgc.rg363r.IP23) has joined
+T 1617965711 24*	f4dbo has quit (Quit: Leaving)
+T 1617966194 24*	waldo has quit (Quit: Connection closed)
+T 1617966567 24*	theradiantcoder has quit (Quit: Leaving.)
+T 1617966580 18<22AsparagusOmelette18>	what the hell happened here
+T 1617966675 18<26geraffs18>	it was a bloodbath
+T 1617966705 23*	Kristophersson (Kristophers@red-fqc.11g.rgo3gm.IP23) has joined
+T 1617966794 18<27Kristophersson18>	!queue https://www.speedtest.net/result/11236261890.png
+T 1617966979 20<limelier>30	welcome back, Kristophersson 
+T 1617967051 23*	fljasdcg (5ec62b43@red-6oj.h1o.ba78oi.IP23) has joined
+T 1617967052 22*	26Gatekeeper sets ban on 18*!*@red-6oj.h1o.ba78oi.IP
+T 1617967052 22*	26Gatekeeper has kicked 18fljasdcg from 22#red-invites (24Please use your home connection. (does not expire))
+T 1617967952 22*	26Gatekeeper removes ban on 18*!*@red-6oj.h1o.ba78oi.IP
+T 1617968080 18<27Kristophersson18>	Hello there, limeliner
+T 1617968112 18<27Kristophersson18>	Forgot to plug in my laptop and it shut off
+T 1617969196 20<limelier>30	oof
+T 1617970116 18<27Kristophersson18>	What position you in? And how long have you been queueing?
+T 1617970375 20<limelier>30	19, 3 and a half hours
+T 1617970401 20<limelier>30	no interviews are actually happening as far as i can tell, i've just advanced in the queue by way of other people in front of me quitting
+T 1617971047 18<27Kristophersson18>	All right... Guess I'll leave this open and hope I can get an interview by monday
+T 1617971346 18<22rhett18>	quantrix: If you are here, please say my name.
+T 1617971625 18<22rhett18>	Alias: If you are here, please say my name.
+T 1617971633 23*	waldo (6d9cdb00@red-eqb.kg2.hg649r.IP23) has joined
+T 1617971707 18<25waldo18>	!queue https://www.speedtest.net/result/11236616130.png
+T 1617971735 18<25Alias18>	rhett
+T 1617971750 18<22rhett18>	Hi Alias have you ever had an account on RED or interviewed for one before?
+T 1617971768 18<25Alias18>	No, never had an account or interviewed before 
+T 1617971780 18<22rhett18>	Are you at home and connecting from your home connection?
+T 1617971784 18<25Alias18>	At home
+T 1617971804 18<22rhett18>	Alright please change your nick to something more unique. You can use /nick <newnick> to remain in the queue.
+T 1617971817 18<25Alias18>	hah ok
+T 1617971823 24*	28Alias is now known as 18xAlias
+T 1617971825 18<28xAlias18>	is that fine?
+T 1617971844 18<22rhett18>	Try again :) 
+T 1617971902 18<22rhett18>	jasper: If you are here, please say my name.
+T 1617971931 24*	28xAlias is now known as 18Dezolator
+T 1617971942 18<22rhett18>	Thank you 
+T 1617971947 18<24Dezolator18>	Not a problem!
+T 1617971951 18<22rhett18>	Good luck with your interview, whenever that may be.
+T 1617971960 18<24Dezolator18>	Thank you
+T 1617972472 18<22rhett18>	amaterasu: If you are here, please say my name.
+T 1617972873 23*	r_notebook (r_notebook@red-4o4.urh.ei280u.IP23) has joined
+T 1617972974 18<24r_notebook18>	!queue https://www.speedtest.net/result/11236698481.png
+T 1617973920 23*	theradiantcoder (Adium@red-sti.ubr.384p9e.IP23) has joined
+T 1617974521 22*	26Gatekeeper sets ban on 18*!*@red-sti.ubr.384p9e.IP
+T 1617974521 22*	26Gatekeeper has kicked 18theradiantcoder from 22#red-invites (24No idling. You may not stay in this channel without !queueing. (expires in 14m 59s))
+T 1617975049 23*	pepeontarios (pepeontario@red-b6f.hgo.dmq2ns.IP23) has joined
+T 1617975104 18<19pepeontarios18>	!queue https://www.speedtest.net/result/11236899152.png
+T 1617975422 22*	26Gatekeeper removes ban on 18*!*@red-sti.ubr.384p9e.IP
+T 1617975809 24*	r_notebook has quit (Connection closed)
+T 1617976888 18<19amaterasu18>	rhett
+T 1617976913 18<19amaterasu18>	Sorry, I'm 99% of the time in Gatekeeper's lounge, refreshing the queue
+T 1617977763 24*	skillquill has quit (Connection closed)
+T 1617978358 23*	edgarf (edgarf@red-h2n.md4.9gs574.IP23) has joined
+T 1617978483 18<26edgarf18>	!queue https://www.speedtest.net/result/11237142777.png
+T 1617979489 23*	Folklord (Open@red-7u3.kjb.k694u1.IP23) has joined
+T 1617979681 18<20Folklord18>	!queue https://www.speedtest.net/result/11237303539.png
+T 1617981094 18<27jasper18>	rhett
+T 1617981413 24*	quantrix has quit (Connection closed)
+T 1617984569 23*	piyush (piyush@red-2e6.k1q.aqneq4.IP23) has joined
+T 1617984762 23*	sovereign (piyush@red-a7n.ikj.eo88mc.IP23) has joined
+T 1617984812 24*	piyush has quit (Ping timeout: 121 seconds)
+T 1617984854 18<27sovereign18>	!queue https://www.speedtest.net/result/11237754262.png
+T 1617985677 24*	Folklord has quit (Quit: Leaving)
+T 1617985683 24*	TiiiimK has quit (Connection closed)
+T 1617985714 23*	TimK (TimK@red-03e.7a4.lr1lto.IP23) has joined
+T 1617985714 22*	26Gatekeeper sets ban on 18TimK!*@*
+T 1617985714 22*	26Gatekeeper has kicked 18TimK from 22#red-invites (24Please choose a longer nick. [TimK] (expires in 14m 59s))
+T 1617985784 23*	TiiiimK (TiiiimK@red-03e.7a4.lr1lto.IP23) has joined
+T 1617985813 18<25TiiiimK18>	!queue https://www.speedtest.net/result/11237838382.png
+T 1617986615 22*	26Gatekeeper removes ban on 18TimK!*@*
+T 1617987158 23*	ayothepizzahere (walalalalal@red-bj3.ccp.puoe1e.IP23) has joined
+T 1617987237 18<29ayothepizzahere18>	!queue https://www.speedtest.net/result/11237915363.png
+T 1617989141 23*	zaied (87b48679@red-r1n.9f3.7jqdas.IP23) has joined
+T 1617989279 18<24zaied18>	!queue https://www.speedtest.net/result/11238129102
+T 1617990834 23*	tjoeptie (tjoeptie@red-630.u5q.lguot9.IP23) has joined
+T 1617990967 18<25tjoeptie18>	!queue https://www.speedtest.net/result/11238262069.png
+T 1617992291 24*	zaied has quit (Ping timeout: 121 seconds)
+T 1617992780 23*	superchiva78 (superchiva7@red-d3s.uch.ao6pce.IP23) has joined
+T 1617992793 18<26superchiva7818>	https://www.speedtest.net/result/11238360271.png
+T 1617992803 18<26superchiva7818>	!queue https://www.speedtest.net/result/11238360271.png
+T 1617992920 24*	superchiva78 has quit (Quit: )
+T 1617992950 23*	jasper_ (jasper@red-8ar.o4b.l0ulqh.IP23) has joined
+T 1617992972 24*	jasper has quit (Ping timeout: 121 seconds)
+T 1617993551 22*	26Gatekeeper sets ban on 18*!*@red-8ar.o4b.l0ulqh.IP
+T 1617993551 22*	26Gatekeeper has kicked 18jasper_ from 22#red-invites (24No idling. You may not stay in this channel without !queueing. (expires in 14m 59s))
+T 1617994452 22*	26Gatekeeper removes ban on 18*!*@red-8ar.o4b.l0ulqh.IP
+T 1617996146 23*	jasper_ (jasper@red-8ar.o4b.l0ulqh.IP23) has joined
+T 1617996222 18<22jasper_18>	!queue https://www.speedtest.net/result/11238661430.png
+T 1617996382 18<19pepeontarios18>	Are you doing interviews? Last time I tryed you said you couldn't interview due to Gatekeeper problem(?)
+T 1617996867 18<25Gatekeeper18>	Interviews have indeed resumed, subject to interviewer availability, which is variable. Thanks for your interest in joining RED.
+T 1617997212 23*	zaied (87b48679@red-r1n.9f3.7jqdas.IP23) has joined
+T 1617997235 18<24zaied18>	!queue https://www.speedtest.net/result/11238129102
+T 1617997813 22*	26Gatekeeper sets ban on 18*!*@red-r1n.9f3.7jqdas.IP
+T 1617997813 22*	26Gatekeeper has kicked 18zaied from 22#red-invites (24No idling. You may not stay in this channel without !queueing. (expires in 14m 59s))
+T 1617998714 22*	26Gatekeeper removes ban on 18*!*@red-r1n.9f3.7jqdas.IP
+T 1618001356 24*	_57331_ has quit (Quit: Cya all!)
+T 1618001943 24*	jasper_ has quit (Client exited)
+T 1618002312 23*	jasper (jasper@red-8ar.o4b.l0ulqh.IP23) has joined
+T 1618002372 18<27jasper18>	!queue https://www.speedtest.net/result/11239055121.png
+T 1618003439 23*	Johnws (Johnws@red-k8l.gam.ub4mch.IP23) has joined
+T 1618003541 18<24Johnws18>	!queue https://www.speedtest.net/result/11239115737.png
+T 1618004743 23*	ratclown (rat.clown@red-kng.0mv.3a6k0q.IP23) has joined
+T 1618004842 18<20ratclown18>	!queue https://www.speedtest.net/result/11239185313.png
+T 1618006450 24*	geraffs has quit (Connection closed)
+T 1618006553 23*	geraffs (geraffs@red-ce5.djn.7squjj.IP23) has joined
+T 1618006569 18<26geraffs18>	damn hexchat crashed...
+T 1618006679 18<26geraffs18>	!queue https://www.speedtest.net/result/11239276516.png
+T 1618006697 18<26geraffs18>	here I go from #11 to #27
+T 1618006714 18<22disdyakis18>	oh no :o
+T 1618006720 18<29ayothepizzahere18>	damn
+T 1618006786 18<25TiiiimK18>	Same thing happened to me earlier lol
+T 1618006934 18<26geraffs18>	note to self: do not use search in hexchat
+T 1618007254 18<22AsparagusOmelette18>	ouch, sorry man
+T 1618007367 18<26Capacity444418>	ooof, bummer.  sorry to hear that man
+T 1618007451 18<22AsparagusOmelette18>	i'm also probably going to the back of the que in an hour, unless i figure out why it consistently disconnects me at 01:27
+T 1618008390 18<26geraffs18>	AsparagusOmelette: maybe your router has a reboot schedule?
+T 1618008714 18<22AsparagusOmelette18>	i'm fairly sure it doesn't, though the DHCP refresh was set to 1 day, i'll set it to 3 weeks and cross my fingers
+T 1618008780 23*	jaymurk (jaymurk@red-u88.rl3.jm9oit.IP23) has joined
+T 1618008794 18*	26geraffs wishes luck!
+T 1618008963 24*	jaymurk (jaymurk@red-u88.rl3.jm9oit.IP24) has left
+T 1618009454 23*	pinkypie (459d01d7@red-4sm.gjv.34044j.IP23) has joined
+T 1618010055 22*	26Gatekeeper sets ban on 18*!*@red-4sm.gjv.34044j.IP
+T 1618010055 22*	26Gatekeeper has kicked 18pinkypie from 22#red-invites (24No idling. You may not stay in this channel without !queueing. (expires in 14m 59s))
+T 1618010920 23*	starcraftmarine2 (4gate@red-aia.63e.rnq8kc.IP23) has joined
+T 1618010956 22*	26Gatekeeper removes ban on 18*!*@red-4sm.gjv.34044j.IP
+T 1618010997 18<19starcraftmarine218>	!queue https://www.speedtest.net/result/11239468298.png
+T 1618011143 18<22AsparagusOmelette18>	i don't wanna jinx it, but i think i'm off the hook
+T 1618011236 23*	Aw_Sil_Later (Aw_Sil_Late@red-3na.lq1.9lt8ne.IP23) has joined
+T 1618011280 18<25Aw_Sil_Later18>	!queue https://www.speedtest.net/result/11239476949.png
+T 1618034722 20*	Disconnected (20)
+T 1618034738 19*	Now talking on 22#red-invites
+T 1618034738 22*	Topic for 22#red-invites is: :: #red-invites :: Read this https://interviewfor.red | Don't discuss the interview or its topics. Don’t PM anyone. Don’t chat DURING your interview. Don't highlight OPs, unless prompted. | HOME CONNECTION ONLY | No E.T.A’s | Questions? -> #red-interviewprep 
+T 1618034738 22*	Topic for 22#red-invites set by 26Fibonacci!45391@Fibonacci.moderator.redacted.ch (24Tue Apr  6 20:11:22 2021)
+T 1618034738 -18ChanServ-	[#red-invites] Welcome to #red-invites :: Please make sure you have read http://interviewfor.red and the topic in this room :: You must queue up in here. No idling. :: If you have any questions join #red-interviewprep.
+T 1618034769 20*	Disconnected (20)
+T 1618063713 19*	Now talking on 22#red-invites
+T 1618063713 22*	Topic for 22#red-invites is: :: #red-invites :: Read this https://interviewfor.red | Don't discuss the interview or its topics. Don’t PM anyone. Don’t chat DURING your interview. Don't highlight OPs, unless prompted. | HOME CONNECTION ONLY | No E.T.A’s | Questions? -> #red-interviewprep 
+T 1618063713 22*	Topic for 22#red-invites set by 26Fibonacci!45391@Fibonacci.moderator.redacted.ch (24Tue Apr  6 20:11:22 2021)
+T 1618063713 -18ChanServ-	[#red-invites] Welcome to #red-invites :: Please make sure you have read http://interviewfor.red and the topic in this room :: You must queue up in here. No idling. :: If you have any questions join #red-interviewprep.
+T 1618063717 20<limelier>30	!queue https://www.speedtest.net/result/11242047539.png
+T 1618063718 24*	Received a CTCP 24VERSION from 18Gatekeeper
+T 1618063759 20<limelier>30	i think i have a suggestion that could help ease the queuing process for people who can't, for some reason, have the same device on at all times
+T 1618063763 20<limelier>30	(like my and my dual booting)
+T 1618063829 20<limelier>30	how about a !cede <user> command that would give your spot in the queue to another currently queued user? that way you could connect a second time on your home network, cede your spot to that connection, and then disconnect from the first one
+T 1618063917 20<limelier>30	someone like me could then do this twice (laptop -> phone -> laptop) to mantain a queue spot through a device restart
+T 1618064684 23*	selenopscurioso (selenopscur@red-31d.tgv.5i1vsf.IP23) has joined
+T 1618064846 23*	selenopscurioso_ (selenopscur@red-31d.tgv.5i1vsf.IP23) has joined
+T 1618064983 24*	selenopscurioso has quit (Ping timeout: 121 seconds)
+T 1618064987 24*	28selenopscurioso_ is now known as 18selenopscurioso
+T 1618065020 20<limelier>30	unless this already works by just reconnecting from the same ip like selenopscurioso just did.... hmm
+T 1618065447 22*	26Gatekeeper sets ban on 18*!*@red-31d.tgv.5i1vsf.IP
+T 1618065447 22*	26Gatekeeper has kicked 18selenopscurioso from 22#red-invites (24No idling. You may not stay in this channel without !queueing. (expires in 14m 59s))
+T 1618065639 23*	limelier_ (limelier@red-dm4.mh4.te90h7.IP23) has joined
+T 1618065646 23*	28[18limelier28] 30(24limelier@red-dm4.mh4.te90h7.IP30): 18realname
+T 1618065646 23*	28[18limelier28] is connecting from limelier@79.112.30.246 79.112.30.246
+T 1618065646 23*	28[18limelier28] #red-invites 
+T 1618065646 23*	28[18limelier28] 29tokyo.scratch-network.net :scratch-network
+T 1618065646 23*	28[18limelier28] is using modes +x
+T 1618065646 23*	28[18limelier28] End of WHOIS list.
+T 1618065685 24*	limelier_ (limelier@red-dm4.mh4.te90h7.IP24) has left
+T 1618065697 20<limelier>30	nope, doesn't work
+T 1618065698 20<limelier>30	dang
+T 1618065788 18<26geraffs18>	lol
+T 1618065819 23*	28[18limelier28] 30(24limelier@red-dm4.mh4.te90h7.IP30): 18realname
+T 1618065819 23*	28[18limelier28] is connecting from limelier@79.112.30.246 79.112.30.246
+T 1618065819 23*	28[18limelier28] #red-invites 
+T 1618065819 23*	28[18limelier28] 29tokyo.scratch-network.net :scratch-network
+T 1618065819 23*	28[18limelier28] is using modes +x
+T 1618065819 23*	28[18limelier28] End of WHOIS list.
+T 1618065829 19<geraffs>	limelier don's forget to queue again
+T 1618065838 18<26geraffs18>	don't*
+T 1618065846 20<limelier>30	i connected and disconnected from my phone
+T 1618065851 20<limelier>30	i'm still connected on my laptop
+T 1618065861 18<26geraffs18>	ah okay
+T 1618065868 20<limelier>30	i'm like #27 in the queue anyway
+T 1618065876 20<limelier>30	had to disconnect last night
+T 1618066348 22*	26Gatekeeper removes ban on 18*!*@red-31d.tgv.5i1vsf.IP
+T 1618066518 23*	Nio9345 (Nio9345@red-7s1.v3l.hi065u.IP23) has joined
+T 1618066528 24*	Nio9345 has quit (Quit: )
+T 1618066555 23*	Nio9345 (Nio9345@red-7s1.v3l.hi065u.IP23) has joined
+T 1618066705 18<24Nio934518>	!queue https://www.speedtest.net/result/11242266958.png
+T 1618066818 23*	j4mers (j4mers@red-j07.0ar.qtm678.IP23) has joined
+T 1618066931 24*	j4mers (j4mers@red-j07.0ar.qtm678.IP24) has left
+T 1618067025 23*	j4mers (j4mers@red-j07.0ar.qtm678.IP23) has joined
+T 1618067025 24*	TiiiimK has quit (Connection closed)
+T 1618067032 18<24j4mers18>	!queue https://www.speedtest.net/result/11242294223
+T 1618067033 23*	TiiiimK (TiiiimK@red-0hi.pof.1qhj7g.IP23) has joined
+T 1618067034 22*	26Gatekeeper sets ban on 18*!*@red-0hi.pof.1qhj7g.IP
+T 1618067034 22*	26Gatekeeper has kicked 18TiiiimK from 22#red-invites (24Please use your home connection. (does not expire))
+T 1618067935 22*	26Gatekeeper removes ban on 18*!*@red-0hi.pof.1qhj7g.IP
+T 1618069230 24*	Nio9345 (Nio9345@red-7s1.v3l.hi065u.IP24) has left
+T 1618070747 23*	Slimeyy (Slimeyy@red-kih.sq5.q3o1nr.IP23) has joined
+T 1618070748 22*	26Gatekeeper sets ban on 18*!*@red-kih.sq5.q3o1nr.IP
+T 1618070748 22*	26Gatekeeper has kicked 18Slimeyy from 22#red-invites (24Please use your home connection. (does not expire))
+T 1618070761 23*	Folklord (Open@red-7u3.kjb.k694u1.IP23) has joined
+T 1618070786 24*	Folklord has quit (Quit: Leaving)
+T 1618071648 22*	26Gatekeeper removes ban on 18*!*@red-kih.sq5.q3o1nr.IP
+T 1618072112 23*	woooooooooooo (walalalalal@red-v7l.mvh.1qeute.IP23) has joined
+T 1618072113 22*	26Gatekeeper sets ban on 18*!*@red-v7l.mvh.1qeute.IP
+T 1618072113 22*	26Gatekeeper has kicked 18woooooooooooo from 22#red-invites (24Please use your home connection. (does not expire))
+T 1618072233 24*	ayothepizzahere has quit (Ping timeout: 121 seconds)
+T 1618072420 24*	IDDE1969 has quit (Ping timeout: 121 seconds)
+T 1618073014 22*	26Gatekeeper removes ban on 18*!*@red-v7l.mvh.1qeute.IP
+T 1618073257 23*	AtarashiYume (AtarashiYum@red-ppe.nnj.p63mgd.IP23) has joined
+T 1618073267 18<26AtarashiYume18>	!queue https://www.speedtest.net/result/11242739344
+T 1618073453 18<26geraffs18>	welcome AtarashiYume
+T 1618073498 18<26AtarashiYume18>	Thank you :)
+T 1618073848 23*	starcraftmarine2 (4gate@red-aia.63e.rnq8kc.IP23) has joined
+T 1618073901 23*	partyfamine (partyfamine@red-c2q.1gf.bb56tr.IP23) has joined
+T 1618074062 18<26partyfamine18>	!queue https://www.speedtest.net/result/11242798839.png
+T 1618074069 24*	starcraftmarine2 has quit (Quit: Leaving)
+T 1618077679 23*	mCgillikhuddies (mCgillikhud@red-e56.2aj.0lcdoq.IP23) has joined
+T 1618077765 18<27mCgillikhuddies18>	!queue https://www.speedtest.net/result/11243055007.png
+T 1618079878 23*	ampicillin (ampicillin@red-jkt.pfi.j332ie.IP23) has joined

@@ -87,3 +87,726 @@ T 1617297506 18<22kou18>	*70s of course
 T 1617355098 19*	Now talking on 22#powder
 T 1617355098 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
 T 1617355098 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1617356884 23*	savask (~savask@Powder/Developer/savask23) has joined
+T 1617362390 18<22Ristovski18>	savask: privet
+T 1617362598 18<20savask18>	Ristovski: Hello, this is 2 minute powder with Dr. Ristovski
+T 1617362603 18<22Ristovski18>	savask: lol
+T 1617363271 20<limelier>30	i wonder how many people here actually actively play tpt
+T 1617364673 18<22Ristovski18>	none
+T 1617365202 20<limelier>30	f
+T 1617365981 24*	emu_spy has quit (Ping timeout: 240 seconds)
+T 1617366381 23*	emu_spy (~wren@75.76.39.17523) has joined
+T 1617369940 24*	moony has quit (Ping timeout: 258 seconds)
+T 1617369959 23*	moony (moony@hellomouse/dev/moony23) has joined
+T 1617371419 18<20savask18>	Ristovski: https://www.barrons.com/news/russian-doctors-complete-heart-surgery-during-hospital-fire-01617364212
+T 1617372499 FiSHLiM plugin unloaded
+T 1617372509 19*	Now talking on 22#powder
+T 1617372509 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1617372509 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1617372586 19*	Now talking on 22#powder
+T 1617372586 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1617372586 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1617372659 19*	Now talking on 22#powder
+T 1617372659 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1617372947 19*	Now talking on 22#powder
+T 1617372947 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1617372947 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1617372968 20<limelier>30	sorry for the parts/joins, hexchat is being fucky
+T 1617373271 20<limelier>30	i should probably turn off autojoin for a little bit while i'm messing with it
+T 1617373646 23*	AmyCupcake__ (~AmyCupcak@95.169.232.22123) has joined
+T 1617373838 24*	AmyCupcake_ has quit (Ping timeout: 240 seconds)
+T 1617377264 19<hhes>	limelier: get a shell account
+T 1617377267 18<20hhes18>	and setup weechat
+T 1617377729 19<SpiritOfSummer>	limelier: funny that, hexchat was recommended to me yesterday
+T 1617379764 24*	SpiritOfSummer has quit (Quit: We be chillin' - IceChat style)
+T 1617379998 20<limelier>30	hhes: what's a shell acount, and also no
+T 1617380013 20<limelier>30	i have weechat installed too but i think hexchat might just be a little more uhhh
+T 1617380021 20<limelier>30	user friendly
+T 1617380039 20<limelier>30	doesnt have that same sexy terminal aesthetic but i like being able to actually click long links, for one
+T 1617382090 20*	Disconnected (20)
+T 1617382103 22*	26limelier sets mode 24+Z on 22limelier
+T 1617382103 22*	26limelier sets mode 24+i on 22limelier
+T 1617382103 -18freenode-connect-	Welcome to freenode. To protect the network all new connections will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+T 1617382103 24*	Received a CTCP 24VERSION from 18freenode-connect
+T 1617382109 19*	Now talking on 22#powder
+T 1617382109 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1617382109 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1617384390 24*	28bildramer1 is now known as 18bildramer
+T 1617385688 FiSHLiM plugin unloaded
+T 1617385702 19*	Now talking on 22#powder
+T 1617385702 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1617385702 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1617385713 20<limelier>30	yay 
+T 1617385720 20<limelier>30	i themed hexchat and gtk3 
+T 1617386757 18<26emu_spy18>	nice, which theme?
+T 1617387290 23*	SpiritOfSummer (~IceChat9@64.44.42.18023) has joined
+T 1617387986 18<19SpiritOfSummer18>	give a man fish, he day, teach a fish man to, man always
+T 1617388050 18<19SpiritOfSummer18>	$seen doxin
+T 1617388051 18<19PowderBot18>	SpiritOfSummer: doxin was last seen in #powder 22 hours, 27 minutes, and 17 seconds ago: <Doxin> all I remember is all the smurfs lined up on a conveyor headed for a boiling pot, and none of em getting off even though they weren't tied down or anything
+T 1617388701 23*	Doxin (~Doxin@unaffiliated/doxin23) has joined
+T 1617388714 18<19SpiritOfSummer18>	ah yes, hello Doxin. 
+T 1617388720 18<20Doxin18>	man, chemical wood burning is a fun technique
+T 1617388729 18<19SpiritOfSummer18>	as it sounds
+T 1617388736 18<20Doxin18>	hm?
+T 1617388742 18<19SpiritOfSummer18>	it sounds as if it would be fun 
+T 1617388744 18<20savask18>	Doxin: What is used for that? Some sort of acid?
+T 1617388770 18<20Doxin18>	savask: yes but also no
+T 1617388784 18<20Doxin18>	it's a super benign chemical that decomposes into acid when you heat it
+T 1617388818 18<20Doxin18>	savask: ammonium chloride dissolved in water
+T 1617388844 18<20Doxin18>	the one thing I haven't quite figured out yet is how to get crisp lines, the stuff seeps into the wood making the burned area bleed a bit
+T 1617388863 18<20Doxin18>	you basically just brush it on, and then point a heat gun at it. the treated area will burn in seconds
+T 1617389012 18<20savask18>	I see
+T 1617389059 18<20Doxin18>	it's quite a pretty effect, the bleed is even nice if using something like ariel bold :P
+T 1617389060 18<20savask18>	Doxin: The smell must be something
+T 1617389067 18<20Doxin18>	smells like burnt wood mostly
+T 1617389082 18<20Doxin18>	the chemical itself is pretty much odorless
+T 1617389095 18<20savask18>	What
+T 1617389170 18<20savask18>	Ah, I misinterpreted it
+T 1617389192 18<20savask18>	Ammonia smells bad
+T 1617389207 18<20Doxin18>	ah right
+T 1617389223 18<29Skylark18>	Doxin: salmiak
+T 1617389231 18<20Doxin18>	I mean technically this stuff is supposed to decompose into ammonia and hydrochloric acid, but it's such minute amounts I don't think there's enough for a smell
+T 1617389232 18<20Doxin18>	Skylark: yep
+T 1617389240 18<29Skylark18>	technically this stuff is supposed to be put in liquorice
+T 1617389245 18<20Doxin18>	Skylark: stuff is cheap A/F too :P
+T 1617389256 18<29Skylark18>	yeah it is. well it's not exactly fine chemistry
+T 1617389262 18<20Doxin18>	and yes it goes very well with licorice :3
+T 1617389580 20<limelier>30	oh shoot people are talking
+T 1617389607 20<limelier>30	emu_spy: custom theme
+T 1617389695 20<limelier>30	i don't really have any kind of quick image uploading setup handy anymore since i use discord most of the time
+T 1617389697 20<limelier>30	hold on
+T 1617389904 20<limelier>30	https://files.catbox.moe/8ydkgc.png
+T 1617389918 18<20Doxin18>	boy that looks gay as heck!
+T 1617389983 20<limelier>30	god damn it
+T 1617390007 18<20Doxin18>	what?
+T 1617390008 20<limelier>30	at least when i send dark themes to Eyess i know they're gonna talk shit about them 
+T 1617390019 18<20Doxin18>	well I mean the dark theme is one issue
+T 1617390027 18<20Doxin18>	add to that the flat theme
+T 1617390036 18<20Doxin18>	tiling wm is nice, but then you go and have one with margins
+T 1617390064 20<limelier>30	well, it's a pretty particular aesthetic
+T 1617390071 20<limelier>30	but it's one i like a lot
+T 1617390132 18<20Doxin18>	well like I said
+T 1617390134 18<20Doxin18>	gay as heck
+T 1617390161 20<limelier>30	my terminal color scheme is actually missing at least two colors of the rainbow
+T 1617390278 18<20Doxin18>	you don't need a rainbow to be gay though
+T 1617390297 20<limelier>30	thats fair
+T 1617390303 20<limelier>30	it does help though
+T 1617390344 -18SaslServ-	limelier_!uid387045@unaffiliated/limelier has just authenticated as you (limelier)
+T 1617390350 23*	limelier_ (uid387045@gateway/web/irccloud.com/x-iivtoqqgvqkricky23) has joined
+T 1617439946 19*	Now talking on 22#powder
+T 1617439946 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1617439946 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1617440206 23*	simtr (~simtr@Powder/Developer/Simon23) has joined
+T 1617440206 22*	26ChanServ gives voice to 18simtr
+T 1617440329 18<29Crackbot18>	05LBPHacker edited page 02Legacy Compile Guides: Add outdated notice - https://powdertoy.co.uk/Wiki/index.php?title=Legacy+Compile+Guides&curid=1434&diff=8024&oldid=7892
+T 1617440329 18<29Crackbot18>	05LBPHacker edited page 02Scons command line flags: Add outdated notice - https://powdertoy.co.uk/Wiki/index.php?title=Scons+command+line+flags&curid=868&diff=8025&oldid=7849
+T 1617440329 18<29Crackbot18>	05LBPHacker edited page 02Compiling for Mac on Linux: Add outdated notice - https://powdertoy.co.uk/Wiki/index.php?title=Compiling+for+Mac+on+Linux&curid=1133&diff=8026&oldid=7385
+T 1617440330 18<22LBPHacker18>	brb getting rate-limited by the wiki
+T 1617440341 18<29Crackbot18>	05LBPHacker edited page 02Compiling for Windows on Linux: Add outdated notice - https://powdertoy.co.uk/Wiki/index.php?title=Compiling+for+Windows+on+Linux&curid=71&diff=8027&oldid=7713
+T 1617440350 18<29Crackbot18>	05LBPHacker edited page 02Compiling for Raspberry Pi: Add outdated notice - https://powdertoy.co.uk/Wiki/index.php?title=Compiling+for+Raspberry+Pi&curid=740&diff=8028&oldid=7376
+T 1617440350 18<29Crackbot18>	05LBPHacker edited page 02Compiling for Windows with scons: Add outdated notice - https://powdertoy.co.uk/Wiki/index.php?title=Compiling+for+Windows+with+scons&curid=809&diff=8029&oldid=7554
+T 1617440353 18<22LBPHacker18>	fun
+T 1617448926 23*	AmyCupcake (~AmyCupcak@95.169.232.22123) has joined
+T 1617449351 24*	emu_spy has quit (Ping timeout: 240 seconds)
+T 1617449637 23*	Doxin (~Doxin@unaffiliated/doxin23) has joined
+T 1617449658 24*	Doxin has quit (Remote host closed the connection)
+T 1617449676 23*	Doxin (~Doxin@unaffiliated/doxin23) has joined
+T 1617449786 23*	emu_spy (~wren@75.76.39.17523) has joined
+T 1617450840 18<29Crackbot18>	05LBPHacker edited page 02Building TPT with Meson: Add Raspbian 10 to list of tested distros - https://powdertoy.co.uk/Wiki/index.php?title=Building+TPT+with+Meson&curid=1433&diff=8030&oldid=7969
+T 1617457504 18<26Radon18>	> raspbian 10
+T 1617457508 18<26Radon18>	o_O
+T 1617457519 18<26Radon18>	who uses a raspberry pi to play tpt
+T 1617457545 18<22LBPHacker18>	someone whose mobo got fried
+T 1617457557 18<22LBPHacker18>	https://tpt.io/:24976
+T 1617457558 18<19PowderBot18>	Forum post is "screen resolution messed up fix?" in the Help section, posted by drako2009 and has 2 replies. Last post was by drako2009 at 2021-04-03 12:28:39
+T 1617457560 18<22LBPHacker18>	ehrm
+T 1617457563 18<22LBPHacker18>	gg lbp
+T 1617457570 18<22LBPHacker18>	https://tpt.io/:24977
+T 1617457571 18<19PowderBot18>	Forum post is "Trouble compiling on rpi with scons" in the Development Assistance section, posted by Rjonesy and has 11 replies. Last post was by LBPHacker at 2021-04-03 11:55:24
+T 1617457702 18<26Radon18>	> installs luajit and not the dev package
+T 1617457708 18<26Radon18>	*facepalm*
+T 1617457710 18<22LBPHacker18>	:P
+T 1617457743 18<22LBPHacker18>	also doesn't do apt update, despite the guide telling them to do so
+T 1617459598 24*	emu_spy has quit (Ping timeout: 265 seconds)
+T 1617525104 19*	Now talking on 22#powder
+T 1617525104 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1617525104 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1617525634 23*	simtr (~simtr@Powder/Developer/Simon23) has joined
+T 1617525634 22*	26ChanServ gives voice to 18simtr
+T 1617526890 23*	savask (~savask@Powder/Developer/savask23) has joined
+T 1617534006 18<22kou18>	me irl https://i.redd.it/0vgyambot3r61.png
+T 1617534067 18<20savask18>	Ha posted it here yesterday
+T 1617534143 18<22kou18>	guess i'll die
+T 1617537198 18<22Ristovski18>	Salutations
+T 1617537460 18<20savask18>	Greetings
+T 1617537644 18<20savask18>	Ristovski: https://www.youtube.com/watch?v=I-hexSKHnS0
+T 1617537728 23*	Doxin (~Doxin@unaffiliated/doxin23) has joined
+T 1617537749 24*	Doxin has quit (Remote host closed the connection)
+T 1617537757 18<22Ristovski18>	savask: rofl
+T 1617537767 23*	Doxin (~Doxin@unaffiliated/doxin23) has joined
+T 1617537841 18<20savask18>	Oh and here's Doxin
+T 1617537861 18<20savask18>	And I happen to have a somewhat relevant meme
+T 1617537863 18<20savask18>	Doxin: https://i.redd.it/f4wy06wrk0r61.jpg
+T 1617537921 18<20Doxin18>	I see
+T 1617539802 23*	mniip (mniip@freenode/staff/mniip23) has joined
+T 1617539802 22*	26ChanServ gives voice to 18mniip
+T 1617544303 24*	Radon has quit (Ping timeout: 258 seconds)
+T 1617544454 23*	Radon (wolfy1339@hellomouse/dev/wolfy133923) has joined
+T 1617545042 18<26emu_spy18>	savask: is this why i started walking fast around the time i came out
+T 1617546011 18<20savask18>	emu_spy: Yes
+T 1617546169 18<22Ristovski18>	savask: tfw someone spends years ricing themselves to become faster and then someone gets it as a random perk :|
+T 1617546256 18<20savask18>	Ristovski: Evolution giving speed advantage to gay people, sounds reasonable
+T 1617546268 18<20savask18>	If you're not going to reproduce, at least you will  s p r e a d
+T 1617547449 24*	NaviTheFairy has quit (Quit: This is a quit message. I'm making a note here: huge restart)
+T 1617547793 23*	NaviTheFairy (~Squirrel@trivialand/staff/toagac23) has joined
+T 1617701518 19*	Now talking on 22#powder
+T 1617701518 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1617701518 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1617701844 18<20Doxin18>	Skylark: https://pbs.twimg.com/media/EyQfnM9UcAkMvEg?format=jpg&name=medium
+T 1617704222 18<22Ristovski18>	Doxin: connect them together with male-to-male cables
+T 1617704258 18<20Doxin18>	lol
+T 1617705673 23*	boxmein (~johannesb@Powder/Cardboard/boxmein23) has joined
+T 1617705673 22*	26ChanServ gives voice to 18boxmein
+T 1617705674 18<28boxmein18>	lol
+T 1617705682 18<20Doxin18>	lol?
+T 1617706116 20<limelier>30	lol
+T 1617706515 23*	Gustavo6046 (~Gustavo60@unaffiliated/gustavo604623) has joined
+T 1617708457 18<22Ristovski18>	lol
+T 1617708579 18<22Ristovski18>	Doxin: https://robertchen.cc/blog/2018/07/27/tjctf18-abyss
+T 1617708655 18<20Doxin18>	Ristovski: yeah all pretty basic stuff
+T 1617708806 18<20Doxin18>	Ristovski: now try and figure out how this hello world code works: https://gist.github.com/SuperDoxin/fde4fdad237e85a90c8764cdf88eadf5
+T 1617708819 18<22Ristovski18>	jesus
+T 1617708829 24*	Me4502 has quit (Read error: Connection reset by peer)
+T 1617708886 18<20Doxin18>	Ristovski: I love the dict assignment on line 2-6
+T 1617708906 18<20Doxin18>	never knew you could destructure into a dict like that
+T 1617709033 18<22Ristovski18>	lol
+T 1617709052 18<20Doxin18>	until I wrote that code that is :D
+T 1617709065 18<20Doxin18>	that "do complex things" function is hella tricky too :P
+T 1617710255 18<28boxmein18>	what in tarnation
+T 1617710267 18<28boxmein18>	Doxin, can I get a python minify plugin that does that
+T 1617710316 18<20Doxin18>	unlikely
+T 1617710321 18<20Doxin18>	boxmein: it's hand-written to be awful :P
+T 1617710332 18<20Doxin18>	I mean you could write an encoder for the decode function
+T 1617710346 18<20Doxin18>	that has like a state machine going on, I dunno even what exactly it's doing tbh :P
+T 1617710353 18<20Doxin18>	might be janky run length encoding?
+T 1617712538 23*	savask (~savask@Powder/Developer/savask23) has joined
+T 1617712593 18<20savask18>	Ristovski: https://therecord.media/github-investigating-crypto-mining-campaign-abusing-its-server-infrastructure/
+T 1617712609 18<22Ristovski18>	savask: seen that, kinda sad
+T 1617712627 18<20savask18>	Sad? Why?
+T 1617712648 18<22Ristovski18>	savask: Well hopefully they wont limit ghactions due to this
+T 1617712659 18<22Ristovski18>	iirc jobs can run for max 5 hours right now
+T 1617712670 18<20savask18>	>Risto mining his own stuff
+T 1617712677 18<22Ristovski18>	( ͡° ͜ʖ ͡°)
+T 1617713130 18<20savask18>	Ristovski: Anyway, what's up?
+T 1617713248 18<22Ristovski18>	savask: hmm nothing much, will update my kernel soon, so that will be interesting
+T 1617713268 18<22Ristovski18>	hopefully I won't need to go and yell at amd guys again
+T 1617713284 18<22Ristovski18>	but given the history, its not unlikely
+T 1617713295 18<20savask18>	Just don't update it
+T 1617713309 18<22Ristovski18>	savask: lol
+T 1617713672 18<20savask18>	Ristovski: https://www.youtube.com/watch?v=6MkofGHkQO0
+T 1617713807 18<22Ristovski18>	savask: the facial capture rig looks heavy
+T 1617713822 18<22Ristovski18>	also amazing how using an iphone for it is more feasable than some custom solution, lol
+T 1617713872 18<20savask18>	Ristovski: I mean, is it amazing that making new things is harder than buying already made ones, lol
+T 1617713896 18<20savask18>	And I linked the vid mostly because she is talking to herself
+T 1617714260 18<22Ristovski18>	savask: her detachment from reality has begun :^)
+T 1617714293 18<20savask18>	Creepy
+T 1617714395 18<22Ristovski18>	savask: There was a Black Mirror episode that reminds me this
+T 1617714398 18<22Ristovski18>	of this*
+T 1617714447 18<20savask18>	I see
+T 1617714465 18<20savask18>	Ristovski: Though in this case it's some sort of digital ventriloquism
+T 1617714473 18<22Ristovski18>	savask: lol
+T 1617722109 19*	Now talking on 22#powder
+T 1617722109 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1617722109 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1617722392 18<22Ristovski18>	savask: perhaps it's time
+T 1617722407 18<22Ristovski18>	savask: more ram == more cache == less disk usage, maybe I can finally migrate to ssd
+T 1617722416 18<20savask18>	Oh
+T 1617722428 18<20savask18>	Ristovski: But do you want gentoo on your SSD
+T 1617722448 18<22Ristovski18>	savask: I mean, I would move stuff that gets written to (when compiling gentoo stuff) to the hdd
+T 1617722456 18<22Ristovski18>	and use the hdd as long term "storage"
+T 1617722480 18<20savask18>	Ristovski: I meant, didn't you want to switch from gentoo to something else
+T 1617722489 18<20savask18>	If so, then why take the effort and reinstall gentoo on ssd
+T 1617722492 18<22Ristovski18>	savask: nothing else is as good
+T 1617722500 18<22Ristovski18>	which is sad, but true
+T 1617722506 18<20savask18>	I thought pretty much everything is better than gentoo
+T 1617722513 18<22Ristovski18>	lol
+T 1617722523 18<20savask18>	Like, take any distro without systemd
+T 1617722550 18<22Ristovski18>	savask: might as well just make my own distro then
+T 1617722566 18<20savask18>	Oh yeah a terrible idea
+T 1617722595 18<22Ristovski18>	rofl
+T 1617722654 18<22Ristovski18>	savask: I actually came up with an idea I need to ponder on further
+T 1617722676 18<20savask18>	?
+T 1617722741 18<22Ristovski18>	savask: Don't know how feasible it is, but I could have Gentoo as a "base", and then run VMs/containers with something like Arch or w/e to run random crap
+T 1617722759 18<20savask18>	Jesus christ
+T 1617722760 18<22Ristovski18>	savask: which makes sense, I would only want to run a couple of things "natively" on gentoo anyways
+T 1617722803 18<22Ristovski18>	savask: You laugh but it would actually be /more/ efficient if I tinker with qemu enough
+T 1617722826 18<22Ristovski18>	(to implement "suspending" VMs etc, or where it allocates only a fraction of CPU time to a VM in background, given nothing critical is running in it)
+T 1617722846 18<20savask18>	I can't imagine a sane usecase for that
+T 1617723876 18<19SpiritOfSummer18>	I have recovered
+T 1617723967 18<22jacob118>	SpiritOfSummer: but was it coronavirus?
+T 1617724122 18<19SpiritOfSummer18>	jacob1: test results come within 1-3 days, was tested yesterday
+T 1617724138 18<22jacob118>	ok. Well, cool that you are better now
+T 1617724138 18<19SpiritOfSummer18>	I don't know where I would have gotten it other than my dad though, who tested positive
+T 1617724141 18<19SpiritOfSummer18>	thank you
+T 1617724156 18<22jacob118>	uh, well that seems like an obvious way you would have gotten it
+T 1617724176 18<19SpiritOfSummer18>	yeah considering he handed me a slim jim last sunday right before his symptoms showed 
+T 1617724572 18<19SpiritOfSummer18>	jacob1: literally just received the call, positive
+T 1617785821 20*	Disconnected (20)
+T 1617785833 22*	26limelier sets mode 24+Z on 22limelier
+T 1617785833 22*	26limelier sets mode 24+i on 22limelier
+T 1617785834 -18freenode-connect-	Welcome to freenode. To protect the network all new connections will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+T 1617785834 24*	Received a CTCP 24VERSION from 18freenode-connect
+T 1617785839 19*	Now talking on 22#powder
+T 1617785839 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1617785839 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1617787407 23*	boxmein (~johannesb@Powder/Cardboard/boxmein23) has joined
+T 1617787407 22*	26ChanServ gives voice to 18boxmein
+T 1617787408 18<28boxmein18>	a few colleagues got the vaccine early
+T 1617787408 18<28boxmein18>	i'm just sitting here
+T 1617787408 18<28boxmein18>	waiting
+T 1617787418 18<20Doxin18>	lucky them
+T 1617787431 18<20Doxin18>	over here we're still busy vaccinating the 65 and older crowd
+T 1617787433 18<28boxmein18>	they drove across the country to a different hospital with tests left over
+T 1617787436 18<28boxmein18>	yeah, same here
+T 1617787437 18<20Doxin18>	so at this rate it'll be months before it'
+T 1617787442 18<20Doxin18>	s even close to my turn
+T 1617787443 18<28boxmein18>	and then I hear how the UK has 31M people vaccinated
+T 1617787518 18*	20Doxin shakes his fist at the UK
+T 1617787523 18<20Doxin18>	buncha gremlins they are
+T 1617787553 18<28boxmein18>	+ I heard everyone in the UK is getting two-a-week covid home tests for free
+T 1617787558 18<28boxmein18>	 * plus, I heard everyone in the UK is getting two-a-week covid home tests for free
+T 1617787596 18<20Doxin18>	well I mean testing is free over here too
+T 1617787615 18<20Doxin18>	not home tests though :P
+T 1617790939 20<limelier>30	god using rust is infuriating sometimes
+T 1617790967 20<limelier>30	it turns some things that would be trivial in other languages into a fucking puzzle from hell just for the sake of safet
+T 1617790970 20<limelier>30	safety*
+T 1617790977 19<Doxin>	limelier: learn D instead
+T 1617790981 20<limelier>30	i can't untagle this for the life of me
+T 1617790988 18<20hhes18>	learn Zig
+T 1617790990 19<Doxin>	limelier: it has @safe if you like, but it's hella optional
+T 1617790992 18<20Doxin18>	nah fuck zig
+T 1617790996 18<20Doxin18>	D is where it's at
+T 1617790999 20<limelier>30	if i could go back and tell past me to do this project in another language i would
+T 1617791010 18<20hhes18>	he wants the D
+T 1617791030 18<20Doxin18>	can't you just mark the whole thing as unsafe and #YOLO it
+T 1617791046 19<hhes>	limelier: I use Go for everything that isn't low-level system programming or frontend
+T 1617791056 18<20Doxin18>	go sucks though
+T 1617791061 18<20hhes18>	yeah, but it sucks less
+T 1617791063 18<20Doxin18>	they move complexity out of the language into your programs
+T 1617791104 18<20hhes18>	it's kinda true, but at the same time adding complexity to the language and actually get into the way while using it
+T 1617791104 20<limelier>30	Doxin: i... don't know :(
+T 1617791110 19<mniip>	limelier, safety is an investment that takes a while to reap the benefits of
+T 1617791112 18<20Doxin18>	lol
+T 1617791123 18<20hhes18>	s/the language/the language can/
+T 1617791133 18<20hhes18>	fuck, s/can and/can/
+T 1617791134 18<20Doxin18>	hhes: okay but consider: D is super simple, and yet doesn't move complexity into your programs
+T 1617791142 18<20hhes18>	Doxin: I know
+T 1617791147 18<20hhes18>	but: adoption
+T 1617791156 18<20Doxin18>	who gives a shit?
+T 1617791162 18<20hhes18>	inb4 with that attitude it won't be adopted ever
+T 1617791163 18<20mniip18>	libraries
+T 1617791168 18<20hhes18>	^
+T 1617791170 18<20mniip18>	adoption = libraries
+T 1617791184 20<limelier>30	the conundrum is: i need to pick a random node from a tree, with a certain weight for leaves and a certain weight for non-leaves
+T 1617791196 18<20Doxin18>	right
+T 1617791211 18<20mniip18>	uniformly?
+T 1617791212 20<limelier>30	immutably, this is pretty easy. build an iterator for every node in the tree, use it to build a "wheel of fortune", go through that iterator and pick the right reference
+T 1617791216 18<20Doxin18>	mniip: there's plenty of libraries for D, not to mention that C and C++ integration is hella solid
+T 1617791217 20<limelier>30	uniformly yeah
+T 1617791219 19<hhes>	limelier: isn't there a library for that? it's rust, they've got generics so it could be generalised to any tree type
+T 1617791226 18<20mniip18>	do you know how many nodes either side has?
+T 1617791230 18<20Doxin18>	mniip: you can for instance throw an exception in C++ code and catch it in D code.
+T 1617791235 20<limelier>30	no, also it's not a binary tree
+T 1617791253 18<20mniip18>	you might need to do counting then
+T 1617791273 20<limelier>30	mutably, the method i was using will absolutely not work at all because it would require an iterator of mutable references to the same tree
+T 1617791275 20<limelier>30	which is mega illegal
+T 1617791280 18<20mniip18>	uh
+T 1617791292 18<20mniip18>	why do you need mutation?
+T 1617791299 20<limelier>30	so i can replace that node
+T 1617791307 18<20hhes18>	generate a new tree
+T 1617791314 18<20Doxin18>	that's like immutable shit 101
+T 1617791329 18<20mniip18>	you want to replace a random node in a tree?
+T 1617791346 20<limelier>30	yeah, i want to replace a random node in a tree (a random subtree, effectively) with another subtree
+T 1617791377 18<20mniip18>	traverse the tree, count how many nodes and leaves there are. Do your random magic to figure out what you want to replace
+T 1617791386 18<20mniip18>	traverse the tree again counting until you reach the desired index
+T 1617791395 18<20mniip18>	splice
+T 1617791403 18<20mniip18>	which you can do if you have ownership of the node
+T 1617791479 18<20mniip18>	(disclaimer: I don't actually know rust, but I have a vague idea of linear ownership semantics)
+T 1617791538 18<20Doxin18>	disclaimer: rust is for dweebs.
+T 1617791554 18<20Doxin18>	the thing I dislike most about rust is all the damn directives looking like line noise
+T 1617791593 20<limelier>30	i might be being really thick right now but i cant really picture how you can traverse a tree to get to the nth node while only keeping one mutable reference in that tree
+T 1617791606 20<limelier>30	ill look into it and see what i can find
+T 1617791657 18<20mniip18>	huh?
+T 1617791666 18<20mniip18>	don't you own the entire tree
+T 1617791779 20<limelier>30	i do
+T 1617791971 20<limelier>30	it's just... with only one mutable reference, i don't have any way of going back up in the tree after i've gone down... ugh, i'm feeling dumb here
+T 1617792179 18<20mniip18>	return?
+T 1617793836 19<hhes>	limelier: don’t modify, create a new tree by copying nodes from the previous one
+T 1617795774 23*	savask (~savask@Powder/Developer/savask23) has joined
+T 1617795956 18<20savask18>	Hi
+T 1617796092 18<20Doxin18>	greetings
+T 1617796353 18<28boxmein18>	hi
+T 1617799850 18<22kou18>	https://i.redd.it/db0bvo9k5mr61.png
+T 1617799927 18<20Doxin18>	._.
+T 1617801020 18<28boxmein18>	kou: big knowledge
+T 1617801529 18<22Ristovski18>	savask: Greetings
+T 1617801537 18<20savask18>	Ristovski: Hello
+T 1617801568 18<20savask18>	Ristovski: https://coub.com/view/2qoiga
+T 1617801737 18<22Ristovski18>	savask: rofl
+T 1617801948 18<20savask18>	Ristovski: https://www.youtube.com/watch?v=5rVnJI4Zxmc
+T 1617802485 18<22Ristovski18>	savask: "he is starting to believe"
+T 1617802549 18<20savask18>	Yeah, looks pretty wicked
+T 1617802556 18<20savask18>	Ristovski: Anyway, what's up?
+T 1617802595 18<22Ristovski18>	savask: Hmm, nothing much, finished some series I had left
+T 1617802626 18<20savask18>	Ah
+T 1617805104 18<20savask18>	Ristovski: Did you reinstall linux?
+T 1617805117 18<22Ristovski18>	savask: I have not
+T 1617805160 18<22Ristovski18>	savask: even if I did, I would do it gradually, in a VM with the disk passed through (essentially booting the driver in the VM)
+T 1617805162 18<22Ristovski18>	drive*
+T 1617805177 18<20savask18>	Right
+T 1617805713 24*	SpiritOfSummer has quit (Ping timeout: 265 seconds)
+T 1617805743 23*	SpiritOfSummer (~IceChat9@2600:1702:18d0:18f0:fd43:2d5e:e84f:d50123) has joined
+T 1617805757 18<19SpiritOfSummer18>	I am officially connected to ethernet
+T 1617805777 18<19SpiritOfSummer18>	*via ethernet
+T 1617805778 18<19SpiritOfSummer18>	rather
+T 1617805852 18<29Skylark18>	allegedly connected
+T 1617806418 18<28boxmein18>	allegedly
+T 1617811366 -18SaslServ-	solitaire!~limelier@unaffiliated/limelier has just authenticated as you (limelier)
+T 1617811372 23*	solitaire (~limelier@unaffiliated/limelier23) has joined
+T 1617811372 19*	Now talking on 22#powder
+T 1617811372 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1617811372 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1617811477 20<limelier>30	uh
+T 1617811477 18<26limelier18>	uh
+T 1617811482 20<limelier>30	i forgot i already had hexchat open lol
+T 1617811482 18<26limelier18>	i forgot i already had hexchat open lol
+T 1617811485 FiSHLiM plugin unloaded
+T 1617811485 24*	limelier has quit (Quit: Leaving)
+T 1617811497 20*	You are now known as 18limelier
+T 1617812784 18<20savask18>	"Children under ten are made a little shorter and chubbier than normal, since this effect is considered more desirable; those over ten, a little taller than normal - for the same reason"
+T 1617882790 19*	Now talking on 22#powder
+T 1617882790 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1617882790 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1617891167 23*	savask (~savask@Powder/Developer/savask23) has joined
+T 1617891334 18<20savask18>	Hi
+T 1617891542 24*	simtr has quit (Read error: Connection reset by peer)
+T 1617891701 23*	simtr (~simtr@Powder/Developer/Simon23) has joined
+T 1617891701 22*	26ChanServ gives voice to 18simtr
+T 1617892183 18<22Ristovski18>	savask: greetings
+T 1617892420 18<20savask18>	Ristovski: Hello
+T 1617892424 18<20savask18>	What's up?
+T 1617892853 18<22Ristovski18>	savask: hmm nothing much once again, sadly
+T 1617892987 18<20savask18>	I see
+T 1617894219 18<20savask18>	Ristovski: And I've finally managed to buy parker ink
+T 1617894231 18<22Ristovski18>	savask: nice
+T 1617894245 18<20savask18>	Ristovski: A few years ago it was 2.5 times cheaper
+T 1617894252 18<20savask18>	Maybe I should have invested in ink
+T 1617894273 18<22Ristovski18>	lol
+T 1617895230 18<29Skylark18>	it doesn't keep
+T 1617895246 18<29Skylark18>	not indefinitely anyway
+T 1617895387 18<20savask18>	Skylark: People say it will last decades
+T 1617895451 18<29Skylark18>	hmm maybe some do better than others. i've seen reports of microbial contamination in ink
+T 1617895508 18<20savask18>	I had one ink bottle go bad over time, but it was very cheap russian ink (literally water + pigment)
+T 1617895537 18<20savask18>	Parker ink on the contrary seems to last longer, at least, it doesn't develop a smell or mold
+T 1617895562 18<20savask18>	I guess if it's kept closed it should be fine. Apparently some people use 50 year old inks without any problems
+T 1617895811 18<20savask18>	Ristovski: Did you hear that story of a russian guy which randomly got enrolled in a chinese pop idol TV show, and now he can't go leave the show since viewers keep voting for him out of memes
+T 1617895821 18<22Ristovski18>	savask: I have not, no
+T 1617895836 18<22Ristovski18>	sounds amusing
+T 1617895910 18<20savask18>	Ristovski: Well, that's it. Apparently he was helping his friends who got into a casting of that show, and producers lacked one participant for a round number. He agreed to participate since he hoped to get fired in the next round or something
+T 1617895921 18<22Ristovski18>	savask: rofl
+T 1617896020 18<20savask18>	Ristovski: I mean, either it's true or it's a brilliant PR campaign, but in either case he has pokerface on each episode of the show and literally does everything to slack off yet viewers vote because of memes
+T 1617896041 18<22Ristovski18>	savask: I see, interesting
+T 1617896079 18<20savask18>	Meanwhile americans who elected Trump because of memes: "..."
+T 1617896270 18<22Ristovski18>	rofl
+T 1617898060 18<29Skylark18>	i think that was marginal
+T 1617898757 18<22Ristovski18>	kou: for the love of god fix that guys shitty PR in raspi-keygen, i told him to edit the readme and instead he makes a PR with a section "how to patch the latest version", taking up 5 fucking commits
+T 1617898766 18<22Ristovski18>	i'll do it on sunday if I have the time
+T 1617903578 18<20savask18>	Note to self: suggest factorio on sunday
+T 1617904136 18<22Ristovski18>	savask: yes
+T 1617904202 18<20savask18>	Ristovski: Also, almost missed secret meeting today since Europeans shifted time
+T 1617904212 23*	Doxin (~Doxin@unaffiliated/doxin23) has joined
+T 1617905582 18<22Ristovski18>	savask: lol
+T 1617910038 24*	Doxin has quit (Remote host closed the connection)
+T 1617910109 23*	Doxin (~Doxin@unaffiliated/doxin23) has joined
+T 1617910568 23*	simtr_ (~simtr@Powder/Developer/Simon23) has joined
+T 1617910568 22*	26ChanServ gives voice to 18simtr_
+T 1617910604 23*	simtr__ (~simtr@Powder/Developer/Simon23) has joined
+T 1617910604 22*	26ChanServ gives voice to 18simtr__
+T 1617910753 24*	simtr has quit (Ping timeout: 250 seconds)
+T 1617910856 24*	simtr_ has quit (Ping timeout: 260 seconds)
+T 1617911607 24*	savask (~savask@Powder/Developer/savask24) has left
+T 1617911909 24*	simtr__ has quit (Read error: Connection reset by peer)
+T 1617911992 23*	simtr (~simtr@Powder/Developer/Simon23) has joined
+T 1617911992 22*	26ChanServ gives voice to 18simtr
+T 1617913714 18<20Doxin18>	ohai simtr
+T 1617913794 18<20simtr18>	hi
+T 1617913822 18<20Doxin18>	simtr: I made a new element :D
+T 1617913830 18<20simtr18>	Oh, Thorium?
+T 1617913848 18<20Doxin18>	yap!
+T 1617913870 18<20Doxin18>	simtr: jacob1 is being lazy with the release though
+T 1617913893 18<20simtr18>	Polonium annoys me because it melts at such a low temperature and stops emitting neutrons.
+T 1617913928 18<20Doxin18>	well too late to fix that now. apparently once an element is in it is carved in stone and cannot ever be changed :P
+T 1617913938 18<20Doxin18>	also I bet polonium doesn't do delayed radiation
+T 1617913941 18<20Doxin18>	which is important
+T 1617914769 18<20Doxin18>	simtr: now perhaps we can make actual nuclear reactors without having them blow through their fuel in like 0.0001 second :P
+T 1617914946 18<20simtr18>	Well, Polonium works, you just have to keep it cool or it stalls.
+T 1617914954 18<20simtr18>	And you can't have a real meltdown :(
+T 1617915000 18<20Doxin18>	well thorium itself doesn't melt, but it'll sure as heck get hot enough to melt everything else :P
+T 1617957753 19*	Now talking on 22#powder
+T 1617957753 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1617957753 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1617958146 23*	boxmein (~johannesb@Powder/Cardboard/boxmein23) has joined
+T 1617958146 23*	Crackbot (~sellspowd@unaffiliated/jacob1/bot/crackbot23) has joined
+T 1617958146 23*	jgkamat (~jgkamat@qutebrowser/dev/jgkamat23) has joined
+T 1617958146 23*	doge (~doge@antispammeta/suchmeta/botters.doge23) has joined
+T 1617958146 22*	26leguin.freenode.net gives channel operator status to 18Crackbot
+T 1617958146 22*	26leguin.freenode.net gives voice to 18boxmein
+T 1617959490 23*	AmyCupcake_ (~AmyCupcak@95.169.224.17823) has joined
+T 1617959675 24*	AmyCupcake has quit (Ping timeout: 260 seconds)
+T 1617959685 23*	AmyCupcake (~AmyCupcak@95.169.224.17823) has joined
+T 1617959703 24*	AmyCupcake__ has quit (Ping timeout: 260 seconds)
+T 1617962688 24*	boxmein has quit (Quit: Idle timeout reached: 10800s)
+T 1617963955 23*	emu_spy (~wren@75.76.39.17523) has joined
+T 1617967033 23*	savask (~savask@Powder/Developer/savask23) has joined
+T 1617967053 18<20savask18>	Hi
+T 1617971039 18<26emu_spy18>	hey
+T 1617973361 23*	boxmein (~johannesb@Powder/Cardboard/boxmein23) has joined
+T 1617973361 22*	26ChanServ gives voice to 18boxmein
+T 1617973362 18<28boxmein18>	wolo
+T 1617973751 18<29Skylark18>	wololo?
+T 1617973783 24*	Gustavo6046 has quit (Quit: ZNC 1.8.2 - https://znc.in)
+T 1617973807 23*	Gustavo6046 (~Gustavo60@unaffiliated/gustavo604623) has joined
+T 1617976487 18<22Ristovski18>	savask: greetings
+T 1617976866 18<20savask18>	Ristovski: Hi
+T 1617976908 18<20savask18>	Ristovski: What's up?
+T 1617977081 18<22Ristovski18>	savask: tired as fuck
+T 1617977091 18<20savask18>	Ristovski: For some reason?
+T 1617977097 18<22Ristovski18>	savask: was outside
+T 1617977134 18<20savask18>	A very physically taxing endeavor indeed
+T 1617977350 18<22Ristovski18>	savask: rofl
+T 1617977714 23*	AmyCupcake__ (~AmyCupcak@95.169.224.17823) has joined
+T 1617977886 24*	AmyCupcake has quit (Ping timeout: 265 seconds)
+T 1617978200 18<29Crackbot18>	[03The-Powder-Toy] 05LBPHacker pushed 2 commits to 03master: https://github.com/The-Powder-Toy/The-Powder-Toy/compare/b98c9c8a2e50...7f83e21de1a6
+T 1617978201 18<29Crackbot18>	05LBPHacker: -mmacosx-version-min=10.9
+T 1617978202 18<29Crackbot18>	05LBPHacker: Add commit parameter to perform-release request
+T 1617978491 24*	emu_spy has quit (Quit: leaving)
+T 1617984155 24*	boxmein has quit (Quit: Idle timeout reached: 10800s)
+T 1617985503 23*	Doxin (~Doxin@unaffiliated/doxin23) has joined
+T 1617985695 18<29Crackbot18>	[03The-Powder-Toy] 05LBPHacker pushed 1 commit to 03master: https://github.com/The-Powder-Toy/The-Powder-Toy/commit/e1ca5f2177cecc4cb91dcbaaa532793687f70db7
+T 1617985696 18<29Crackbot18>	05LBPHacker: Add list of libraries and other assets used to readme
+T 1617992032 18<22Ristovski18>	found savask https://i.redd.it/2ombtc2f54s61.png
+T 1617992163 18<20savask18>	Ristovski: Doesn't look so bad actually
+T 1617992168 18<22Ristovski18>	savask: lol
+T 1617992189 18<20savask18>	Not sure why "int" is "инт" though, something like "цел" would be more logical
+T 1617992218 18<20savask18>	Also it would be a real pain to type since many characters require english layout
+T 1617992381 18<20savask18>	Ristovski: https://www.youtube.com/watch?v=qKiQaBFVEsA
+T 1617992465 18<22Ristovski18>	savask: rofl
+T 1617994431 24*	savask (~savask@Powder/Developer/savask24) has left
+T 1617996852 24*	Gustavo6046 has quit (Ping timeout: 265 seconds)
+T 1617997184 23*	Gustavo6046 (~Gustavo60@unaffiliated/gustavo604623) has joined
+T 1617997324 20<limelier>30	hah, i think i understood today for the first time why powder toy used to have a little pixel at the side of circles 
+T 1617997339 20<limelier>30	as i had to implement an algorithm for circle filling
+T 1617997358 20<limelier>30	its nice to have an answer to a small little part of my childhood
+T 1617997436 20<limelier>30	i wonder if i could find the same algorithm in the tpt source code (or in some library that it uses, i guess)
+T 1617997569 19<Doxin>	limelier: I bet it's a fixable thing though. probably just an offset of 0.5 somewhere
+T 1617998706 19<LBPHacker>	I like how limelier is more up to date on this than Doxin 
+T 1617998713 18<22LBPHacker18>	it's been fixed, we have a "perfect circle" option now
+T 1617998721 18<22LBPHacker18>	and it was indeed an offset of 0.5
+T 1617998952 20<limelier>30	haha
+T 1617998966 20<limelier>30	i bet doxin doesnt even tpt
+T 1617999623 18<20Doxin18>	back
+T 1617999629 19<Doxin>	limelier: I just made a new element though
+T 1617999640 19<Doxin>	limelier: just waiting for jacob1 to merge it and release a new version
+T 1618000028 20<limelier>30	hahaha
+T 1618000039 20<limelier>30	i was lookin thru the top saves of all time
+T 1618000044 20<limelier>30	and stumbled upon a *really cool* computer
+T 1618000050 20<limelier>30	who made this, i wonder
+T 1618000055 20<limelier>30	(it was LBPHacker)
+T 1618000073 18<20Doxin18>	neat
+T 1618001772 18<20Doxin18>	man, it'd be real cool if blender could try and not hog my gpu quuuuuiiiite as much
+T 1618001820 18<20Doxin18>	because my god everything is a damn slideshow :P
+T 1618001839 18<22Ristovski18>	Doxin: ikr, I wonder how feasible adding a "Usage limit" would be
+T 1618001862 18<20Doxin18>	Ristovski: I bet it'd be doable, because ye olden blender didn't use to be this bad
+T 1618001870 18<20Doxin18>	so like it's probably rendering much faster now
+T 1618001876 18<20Doxin18>	but I'd like to be able to tell it to not
+T 1618005063 -18SaslServ-	solitaire!~limelier@unaffiliated/limelier has just authenticated as you (limelier)
+T 1618005069 19*	Now talking on 22#powder
+T 1618005069 23*	solitaire (~limelier@unaffiliated/limelier23) has joined
+T 1618005069 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1618005069 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1618005897 18<22LBPHacker18>	limelier: working on another one
+T 1618005897 19<LBPHacker>	limelier: working on another one
+T 1618005903 18<22LBPHacker18>	will never finish it but hey at least I am
+T 1618005903 18<22LBPHacker18>	will never finish it but hey at least I am
+T 1618006071 20<solitaire>30	godspeed lad
+T 1618006071 18<19solitaire18>	godspeed lad
+T 1618006079 FiSHLiM plugin unloaded
+T 1618006080 24*	solitaire has quit (Quit: Leaving)
+T 1618008294 24*	Doxin has quit (Quit: Leaving)
+T 1618009976 24*	simtr has quit (Read error: Connection reset by peer)
+T 1618034722 20*	Disconnected (20)
+T 1618034746 19*	Now talking on 22#powder
+T 1618034747 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1618034747 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1618063570 19*	Now talking on 22#powder
+T 1618063570 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1618063570 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1618065373 23*	Doxin (~Doxin@unaffiliated/doxin23) has joined
+T 1618067462 20*	Disconnected (20)
+T 1618067489 19*	Now talking on 22#powder
+T 1618067490 22*	Topic for 22#powder is: Official Powder Toy IRC - http://powdertoy.co.uk || Rules: http://git.io/vOE7m || Alt channels: #powder-dev #powder-bots #powder-subframe #powder-forum #powder-mc || IRC stats: http://stats.powdertoy.co.uk || Logs: http://mniip.com/irc/log/
+T 1618067490 22*	Topic for 22#powder set by 26jacob1!jacob1@Powder/Developer/lykos.jacob1 (24Sat Jul 21 19:25:21 2018)
+T 1618067516 24*	limelier has quit (Read error: Connection reset by peer)
+T 1618068898 18<20Doxin18>	so is it just me or is the interface for animating 3d stuff just fucking awful
+T 1618068915 18<20savask18>	Doxin: In blender?
+T 1618068930 18<20savask18>	Or in general
+T 1618068964 18<20Doxin18>	in general, but also in blender specifically
+T 1618068978 18<20Doxin18>	though I gotta say whoever made the rig I'm using is also an assmaster because good lord
+T 1618069036 18<20Doxin18>	(oh the hips? yes that's two bones that need to rotate simultaneously or the whole thing explodes
+T 1618069074 18<20savask18>	It's probably just you
+T 1618069087 18<20Doxin18>	it'd probably help if the rig was set up for IK too honestly
+T 1618069088 18<20savask18>	I mean, people manage to animate stuff in blender, right
+T 1618069099 18<20Doxin18>	well yeah, but that doesn't mean the interface is good
+T 1618069099 18<20savask18>	Doxin: Are you animating a human, btw?
+T 1618069111 18<20Doxin18>	bipedal but not human
+T 1618069128 18<20Doxin18>	people managed to animate shit in blender 2.4 too but I hope we can agree that the interface back then was horrendous :P
+T 1618069194 18<20savask18>	I don't remember blender 2.4 interface :C
+T 1618069210 18<20savask18>	To be fair I haven't even animated anything in blender, the only animation software I used was Maya
+T 1618069221 18<20Doxin18>	savask: allow me to refresh your memory: http://4.bp.blogspot.com/-rjeE0BY5yrM/UHFj8Gxq1qI/AAAAAAAAAAQ/E1gfpi5DSUA/s1600/blender2.4importdxf.png
+T 1618069232 18<20Doxin18>	half the features were behind keyboard shortcuts too
+T 1618069239 18<20Doxin18>	these days everything has buttons which is nice
+T 1618069256 18<20savask18>	I guess
+T 1618069303 20<solitaire>30	jesus christ that's horrifying
+T 1618069312 20<solitaire>30	i knew the old blender interface was bad but not this bad
+T 1618069334 20*	You are now known as 18limelier
+T 1618069342 18<20Doxin18>	the old blender interface was famously terrible :P
+T 1618069348 18<20Doxin18>	after 2.5 it improved a *lot*
+T 1618069355 20<limelier>30	i think the current one is okay, tbh
+T 1618069356 18<20Doxin18>	blender has been on a damn rocket ship ever since really
+T 1618069362 20<limelier>30	not amazing but i have managed to animate some stuff
+T 1618069376 20<limelier>30	without *too* much trouble
+T 1618069380 18<20Doxin18>	I think blender could do with being less confusing about data blocks and all that nonsense
+T 1618069390 20<limelier>30	data whats-its now
+T 1618069420 19<Doxin>	limelier: so stuff is stored in data blocks. textures, meshes, objects. all in data blocks. which is why you can't delete textures for instance.
+T 1618069433 18<20Doxin18>	it's an implementation detail they are exposing way too much
+T 1618069449 20<limelier>30	oh
+T 1618069458 20<limelier>30	i don't know about that, since i've never heard of it, but
+T 1618069462 18<22Ristovski18>	savask: greetings comrade
+T 1618069464 20<limelier>30	hey, you probably know better
+T 1618069475 18<20Doxin18>	what you can do is make sure the texture has 0 users, save your file, and then reload it. that deletes the texture
+T 1618069487 18<20Doxin18>	anyways, seems that sort of nonsense is MUCH more visible when doing animation :P
+T 1618069498 18<20savask18>	Ristovski: Zdravstvuyte tovarish
+T 1618069504 18<22Ristovski18>	nice
+T 1618069555 18<20savask18>	Ristovski: What's up?
+T 1618069981 18<22Ristovski18>	savask: Nothing much, have some random crap to do and then I will try and implement something
+T 1618069990 18<22Ristovski18>	>very vague
+T 1618069993 18<20savask18>	Lol
+T 1618070001 18<20savask18>	"Have something to do and then will do something"
+T 1618073450 18<29Crackbot18>	[03The-Powder-Toy] 05LBPHacker pushed 1 commit to 03master: https://github.com/The-Powder-Toy/The-Powder-Toy/commit/844c5c5186117e3bd4f51b555cf6f14e862b67f1
+T 1618073450 18<29Crackbot18>	05LBPHacker: Add workaround_gcc_no_pie option to force non-PIE output[...]
+T 1618073886 18<20savask18>	Ristovski: https://coub.com/view/5ixpj
+T 1618074676 18<22Ristovski18>	savask: rofl
+T 1618074804 18<22Ristovski18>	savask: >using 9.75GB of ram
+T 1618074808 18<22Ristovski18>	"now we're cooking"
+T 1618074835 18<20savask18>	Ristovski: >still uses swap somehow
+T 1618074842 18<22Ristovski18>	savask: I have swap disabled
+T 1618074851 18<22Ristovski18>	had it disabled even before
+T 1618074993 18<20savask18>	I see
+T 1618075218 18<22Ristovski18>	savask: I am truly "multitasking" now
+T 1618075273 18<20savask18>	Ristovski: Sitting, watching the screen and typing at the same time?
+T 1618075309 18<22Ristovski18>	savask: more like, 60+ tabs in chrome, 4 ffmpeg encode jobs and blender doing crap as well
+T 1618075319 18<22Ristovski18>	>no lag because linux has a same cpu scheduler
+T 1618075322 18<22Ristovski18>	sane*
+T 1618075323 18<20savask18>	>Risto finally doing memes
+T 1618075420 24*	simtr has quit (Read error: Connection reset by peer)
+T 1618077325 24*	Eyess has quit (*.net *.split)
+T 1618077325 24*	Catelite has quit (*.net *.split)
+T 1618077393 23*	Eyess (~Sun@WiseOS/Founder/Eyes23) has joined
+T 1618077393 23*	Catelite (Catelite@Powder/Staff/Catelite23) has joined
+T 1618077393 22*	26card.freenode.net gives voice to 18Catelite
+T 1618077534 18<25moony18>	I wonder what happened to SopaXorzTaker. I noticed their github account disappeared when looking for tpt alchemy's src
+T 1618077549 18<20Doxin18>	did it?
+T 1618077571 18<25moony18>	yea
+T 1618077587 18<20Doxin18>	odd
+T 1618077686 18<25moony18>	on a different topic, i'm going to try and TAS TPT Alchemy for my amusement
+T 1618077737 18<20savask18>	Lol
+T 1618077759 18<20savask18>	moony: Sources should be still available, right?
+T 1618077800 18<20savask18>	Oh, they are not
+T 1618077802 18<25moony18>	I found a bakcup, but the source is gone.
+T 1618077806 18<25moony18>	i made a fork of someone's backup
+T 1618077837 18<20Doxin18>	well that's odd, I got some unprompted syslog lines dumped into my terminal
+T 1618077851 18<20savask18>	moony: What's the last commit?
+T 1618077856 18<20Doxin18>	"kernel:[12435.674093] Uhhuh. NMI received for unknown reason 20 on CPU 5."
+T 1618077880 18<25moony18>	https://github.com/aneesh4073/TPT-Alchemy/commit/9a593ce11536e2e683bc64a698399c0805ce77a1
+T 1618077892 18<25moony18>	it's probably not up to date so it's possible newer fixes are just gone
+T 1618077940 18<20savask18>	No, it's actually more up to day than my version, rofl
+T 1618078060 18<20savask18>	moony: I mean, isn't TPT alchemy TAS just one save which produces all elements one by one?
+T 1618078082 18<20savask18>	Hmm, I guess that won't work
+T 1618078088 18<25moony18>	I've opted to define it as "series of inputs that unlocks all elements as fast as possible"
+T 1618078124 18<20savask18>	moony: So no lua scripts drawing stuff?
+T 1618078143 18<25moony18>	no. I'm running the game under a TASing tool instead.
+T 1618078144 18<25moony18>	libTAS
+T 1618078157 18<20savask18>	Ah
+T 1618078199 18<20savask18>	Also speaking of Sopa, he left github since it was acquired by microsoft
+T 1618078204 18<25moony18>	ah
+T 1618078205 18<20savask18>	And I kinda forgot why he left #powder
+T 1618078226 20<limelier>30	because we got acquired by microsoft
+T 1618078229 20<limelier>30	haven't you heard?
+T 1618078292 18<20savask18>	:O
+T 1618079011 18<22jacob118>	moony / savask: Yeah that commit moony linked is the latest source
+T 1618079017 18<22jacob118>	I'll upload it later if the original link is gone
+T 1618079066 18<20savask18>	jacob1: Link to sopa's copy (i.e. original) is gone
+T 1618079069 18<22jacob118>	I was thinking of releasing a new version of TPT-Alchemy after 96.0 is out
+T 1618079074 18<22jacob118>	savask: yeah but I have it too
+T 1618079084 18<20savask18>	I know
+T 1618079119 18<20savask18>	jacob1: And I think there's no point in new TPT alchemy version
+T 1618079165 18<20savask18>	There are a lot of dumb reactions in TPT alchemy which need to be redone, and I doubt you will do it
+T 1618079210 18<22jacob118>	why do you doubt that
+T 1618079263 18<20savask18>	You don't seem to be working on TPT a lot these days
+T 1618079308 18<22jacob118>	yeah
+T 1618079322 18<20Doxin18>	speaking of
+T 1618079324 18<22jacob118>	but if I were spending the time to update that mod, I would at least try to fix a few of the reactions to be more sensible
+T 1618079327 18<20Doxin18>	jacob1: merged thorium yet?
+T 1618079342 18<22jacob118>	Doxin: did you check your PR, maybe the status has changed
+T 1618079369 18<20savask18>	jacob1: In any case, if you indeed decide to make another version, call it differently like "jacob's TPT alchemy mod" or idk
+T 1618079409 18<25moony18>	I'd be happy to help with updating TPT alch
+T 1618079409 18<20savask18>	And I was thinking mostly about ETDR reactions
+T 1618079420 18<22jacob118>	yes, same
+T 1618079425 18<22jacob118>	savask: hmm, I was hoping to reuse the same thread / name. Do you not want that?
+T 1618079514 18<20savask18>	jacob1: Meh whatever, old name and thread are fine I guess
+T 1618079537 18<20savask18>	jacob1: Then add me to the repo devs when you start the mod, I might fix some reactions as well then
+T 1618079542 18<22jacob118>	savask: anyway you were correct that I might not do it. We'll see. But if I were doing it, I would definitely try to fix some of the reactions
+T 1618079553 18<22jacob118>	96.0 isn't out yet anyway
+T 1618079575 18*	20savask still has time to finish alcahest
+T 1618079586 18<25moony18>	while trying to TAS tpt I noticed something annoying too
+T 1618079595 18<25moony18>	buttons are considered pressed on mouse button release
+T 1618079607 18<20Doxin18>	jacob1: not significantly :P
+T 1618079622 18<20Doxin18>	I'm just impatient is all :P
+T 1618079624 18<25moony18>	or rather, you have to press and release on the button and dragging your cursor away causes the press to fail
+T 1618079632 18<25moony18>	which i guess makes sense
+T 1618079641 18<20Doxin18>	moony: that's how all buttons work though
+T 1618079643 18<25moony18>	but i keep messing it up frame advancing so i'm complaining anyways
+T 1618079656 18<25moony18>	yes i know :p
+T 1618079656 18<20Doxin18>	in basically any OS
+T 1618079666 18<25moony18>	but i want to complain because I keep screwing it up :p
+T 1618079672 18<20Doxin18>	I see
+T 1618079676 18<25moony18>	it's not an actual issue
+T 1618079680 18<25moony18>	i'm just annoyed lol
+T 1618079758 18<20Doxin18>	fair enough :P
+T 1618079803 18<20savask18>	Hmm, moony, you can create a TPT fuzzier as a byproduct
+T 1618079815 18<20savask18>	I bet pressing some buttons in a weird order can crash TPT
+T 1618079860 18<22jacob118>	doubt it. Sure it may do fail to trigger expected actions, but it's not going to segfault
+T 1618079886 18<22jacob118>	I
+T 1618079887 18<22jacob118>	er
+T 1618079888 18<20savask18>	jacob1: I did find a crash by fuzzying saves
+T 1618079899 18<22jacob118>	I've run tpt in 3fps before and it still functions
+T 1618079905 18<20savask18>	But I forgot to fix corresponding bugs :C
+T 1618079912 18<22jacob118>	>:
+T 1618079913 18<25moony18>	this is an actual frame advance, so possibly
+T 1618079928 18<22jacob118>	how long ago was that, and was it PsV or OPS format?
+T 1618079940 18<22jacob118>	PsV I don't trust at all, there could be crashes there
+T 1618080012 18<20savask18>	That was 2 years ago
+T 1618080023 18<20savask18>	And I deleted these "bad" saves :/
+T 1618080036 18<22jacob118>	ok, nothing has changed since then so its probably still there
+T 1618080068 18<25moony18>	what i wouldn't trust is libtas save states because you cannot possibly trust what's literally saving a running program to disk to not have jank
+T 1618080078 18<25moony18>	they do work but i wouldn't use them for fuzzing

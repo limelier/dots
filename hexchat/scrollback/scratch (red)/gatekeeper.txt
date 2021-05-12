@@ -15,3 +15,92 @@ T 1617297896 18<Gatekeeper>	Thank you limelier. You are queued for intervi
 T 1617297901 20<limelier>30	!position
 T 1617297902 18<Gatekeeper>	You are in position 10 of 10.
 T 1617297935 18<Gatekeeper>	Hello, limelier and welcome to #red-interviewprep. If you have a question about the interview process or followup, please ask your question and wait for a response. If you do not have a question, please /part. Idling in this channel is not allowed.
+T 1617811544 18<Gatekeeper>	Thank you limelier. You are queued for interview. You are currently #17 in the queue. You can PM !position to learn your position in the queue.
+T 1617811564 20<limelier>30	!position
+T 1617811564 18<Gatekeeper>	You are in position 17 of 17.
+T 1617811624 20<limelier>30	!position
+T 1617811624 18<Gatekeeper>	You are in position 17 of 17.
+T 1617812147 20<limelier>30	!position
+T 1617812148 18<Gatekeeper>	You are in position 17 of 18.
+T 1617812317 20<limelier>30	!position
+T 1617812318 18<Gatekeeper>	You are in position 17 of 18.
+T 1617812920 20<limelier>30	!position
+T 1617812921 18<Gatekeeper>	You are in position 17 of 19.
+T 1617813238 20<limelier>30	!position
+T 1617813239 18<Gatekeeper>	You are in position 17 of 18.
+T 1617813260 20*	Disconnected (20)
+T 1617882854 18<Gatekeeper>	Thank you limelier. You are queued for interview. You are currently #17 in the queue. You can PM !position to learn your position in the queue.
+T 1617882864 20<limelier>30	!position
+T 1617882864 18<Gatekeeper>	You are in position 17 of 17.
+T 1617882927 20<limelier>30	!position
+T 1617882928 18<Gatekeeper>	You are in position 17 of 17.
+T 1617883023 20<limelier>30	!position
+T 1617883024 18<Gatekeeper>	You are in position 17 of 17.
+T 1617883359 20<limelier>30	!position
+T 1617883359 18<Gatekeeper>	You are in position 17 of 17.
+T 1617885735 20<limelier>30	!position
+T 1617885735 18<Gatekeeper>	You are in position 17 of 18.
+T 1617887001 20<limelier>30	!position
+T 1617887002 18<Gatekeeper>	You are in position 17 of 18.
+T 1617887256 20<limelier>30	!position
+T 1617887257 18<Gatekeeper>	You are in position 17 of 19.
+T 1617888098 20<limelier>30	!position
+T 1617888098 18<Gatekeeper>	You are in position 17 of 19.
+T 1617889077 20<limelier>30	!position
+T 1617889077 18<Gatekeeper>	You are in position 17 of 19.
+T 1617895143 20<limelier>30	!position
+T 1617895144 18<Gatekeeper>	You are in position 17 of 19.
+T 1617898759 20<limelier>30	!position
+T 1617898759 18<Gatekeeper>	You are in position 17 of 20.
+T 1617903146 20<limelier>30	!position
+T 1617903146 18<Gatekeeper>	You are in position 17 of 20.
+T 1617910684 20<limelier>30	!position
+T 1617910684 18<Gatekeeper>	You are in position 17 of 23.
+T 1617913056 20<limelier>30	!position
+T 1617913056 18<Gatekeeper>	You are in position 17 of 22.
+T 1617914140 20<limelier>30	!position
+T 1617914141 18<Gatekeeper>	You are in position 17 of 22.
+T 1617915174 20*	Disconnected (20)
+T 1617957964 18<Gatekeeper>	Thank you limelier. You are queued for interview. You are currently #22 in the queue. You can PM !position to learn your position in the queue.
+T 1617957972 20<limelier>30	!position
+T 1617957972 18<Gatekeeper>	You are in position 22 of 22.
+T 1617958285 20<limelier>30	!position
+T 1617958286 18<Gatekeeper>	You are in position 22 of 22.
+T 1617961875 20<limelier>30	!position
+T 1617961876 18<Gatekeeper>	You are in position 21 of 23.
+T 1617964970 20<limelier>30	!position
+T 1617964970 18<Gatekeeper>	You are in position 20 of 23.
+T 1617965884 20<limelier>30	!position
+T 1617965884 18<Gatekeeper>	You are in position 20 of 23.
+T 1617966958 20<limelier>30	!position
+T 1617966958 18<Gatekeeper>	You are in position 19 of 22.
+T 1617970352 20<limelier>30	!position
+T 1617970352 18<Gatekeeper>	You are in position 19 of 22.
+T 1617971972 20<limelier>30	!position
+T 1617971972 18<Gatekeeper>	You are in position 19 of 23.
+T 1617972594 20<limelier>30	!position
+T 1617972594 18<Gatekeeper>	You are in position 19 of 23.
+T 1617992455 20<limelier>30	!position
+T 1617992455 18<Gatekeeper>	You are in position 16 of 26.
+T 1617994755 20<limelier>30	!position
+T 1617994755 18<Gatekeeper>	You are in position 15 of 25.
+T 1617998623 20<limelier>30	!position
+T 1617998623 18<Gatekeeper>	You are in position 15 of 26.
+T 1618006089 20<limelier>30	!position
+T 1618006090 18<Gatekeeper>	You are in position 15 of 27.
+T 1618007801 20<limelier>30	!position
+T 1618007801 18<Gatekeeper>	You are in position 14 of 27.
+T 1618009007 20<limelier>30	!position
+T 1618009008 18<Gatekeeper>	You are in position 14 of 27.
+T 1618034722 20*	Disconnected (20)
+T 1618034738 22*	26limelier sets mode 24+x on 22limelier
+T 1618034769 20*	Disconnected (20)
+T 1618063718 18<Gatekeeper>	Thank you limelier. You are queued for interview. You are currently #27 in the queue. You can PM !position to learn your position in the queue.
+T 1618064660 20<limelier>30	!position
+T 1618064660 18<Gatekeeper>	You are in position 27 of 27.
+T 1618065037 20<limelier>30	!position
+T 1618065037 18<Gatekeeper>	You are in position 27 of 27.
+T 1618065836 20<limelier>30	!position
+T 1618065837 18<Gatekeeper>	You are in position 27 of 27.
+T 1618069240 20<limelier>30	!position
+T 1618069240 18<Gatekeeper>	You are in position 26 of 27.

@@ -233,8 +233,6 @@ exec_always --no-startup-id exec i3-workspace-names-daemon --uniq --delimiter=" 
 for_window [instance="Godot_Engine" class="[^(Godot)]"] floating enable
 # Windows called "debug"
 for_window [title="debug"] floating enable
-# Minecraft
-for_window [title="(FML early loading progress)"] floating enable
 # Steam guard
 for_window [title="Steam Guard - Computer Authorization Required" class="Steam"] floating enable
 # Zoom "the host has changed" window
